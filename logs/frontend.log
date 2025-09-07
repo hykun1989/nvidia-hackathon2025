@@ -1,0 +1,109 @@
+2025-09-07 09:35:19,932 - __main__ - INFO - ==================================================
+2025-09-07 09:35:19,933 - __main__ - INFO - Flask Ç°¶Ë·þÎñÆ÷Æô¶¯
+2025-09-07 09:35:19,933 - __main__ - INFO - µ±Ç°¹¤×÷Ä¿Â¼: D:\hackathon_aiqtoolkit-main\frontend_new
+2025-09-07 09:35:19,934 - __main__ - INFO - FlaskÓ¦ÓÃÄ¿Â¼: D:\hackathon_aiqtoolkit-main\frontend_new
+2025-09-07 09:35:19,934 - __main__ - INFO - Æô¶¯Ê±¼ä: 2025-09-07 09:35:19.934576
+2025-09-07 09:35:19,934 - __main__ - INFO - ==================================================
+2025-09-07 09:35:19,935 - __main__ - INFO - ×¼±¸Æô¶¯FlaskÓ¦ÓÃ
+2025-09-07 09:35:19,935 - __main__ - INFO - ¼ì²é¶Ë¿Ú5000ÊÇ·ñ¿ÉÓÃ...
+2025-09-07 09:35:19,936 - __main__ - INFO - µ±Ç°Ä¿Â¼ÄÚÈÝ: ['frontend_debug.log', 'index.html', 'index_save.html', 'index_Save0906.html', 'server.py']
+2025-09-07 09:35:19,936 - __main__ - INFO - Æô¶¯FlaskÓ¦ÓÃÔÚ 0.0.0.0:5000
+ * Serving Flask app 'server'
+ * Debug mode: on
+2025-09-07 09:35:19,985 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.9.96:5000
+2025-09-07 09:35:19,985 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-09-07 09:35:19,987 - werkzeug - INFO -  * Restarting with stat
+2025-09-07 09:35:20,862 - __main__ - INFO - ==================================================
+2025-09-07 09:35:20,862 - __main__ - INFO - Flask Ç°¶Ë·þÎñÆ÷Æô¶¯
+2025-09-07 09:35:20,862 - __main__ - INFO - µ±Ç°¹¤×÷Ä¿Â¼: D:\hackathon_aiqtoolkit-main\frontend_new
+2025-09-07 09:35:20,862 - __main__ - INFO - FlaskÓ¦ÓÃÄ¿Â¼: D:\hackathon_aiqtoolkit-main\frontend_new
+2025-09-07 09:35:20,862 - __main__ - INFO - Æô¶¯Ê±¼ä: 2025-09-07 09:35:20.862889
+2025-09-07 09:35:20,862 - __main__ - INFO - ==================================================
+2025-09-07 09:35:20,862 - __main__ - INFO - ×¼±¸Æô¶¯FlaskÓ¦ÓÃ
+2025-09-07 09:35:20,862 - __main__ - INFO - ¼ì²é¶Ë¿Ú5000ÊÇ·ñ¿ÉÓÃ...
+2025-09-07 09:35:20,862 - __main__ - INFO - µ±Ç°Ä¿Â¼ÄÚÈÝ: ['frontend_debug.log', 'index.html', 'index_save.html', 'index_Save0906.html', 'server.py']
+2025-09-07 09:35:20,862 - __main__ - INFO - Æô¶¯FlaskÓ¦ÓÃÔÚ 0.0.0.0:5000
+2025-09-07 09:35:20,893 - werkzeug - WARNING -  * Debugger is active!
+2025-09-07 09:35:20,898 - werkzeug - INFO -  * Debugger PIN: 322-266-296
+2025-09-07 09:35:24,426 - __main__ - INFO - ÊÕµ½ÇëÇó: GET http://localhost:5000/
+2025-09-07 09:35:24,426 - __main__ - INFO - ÇëÇóÍ·: {'Host': 'localhost:5000', 'User-Agent': 'curl/8.11.0', 'Accept': '*/*'}
+2025-09-07 09:35:24,426 - __main__ - INFO - ³¢ÊÔÌá¹© index.html ÎÄ¼þ
+2025-09-07 09:35:24,426 - __main__ - INFO - ²éÕÒÎÄ¼þÂ·¾¶: D:\hackathon_aiqtoolkit-main\frontend_new\index.html
+2025-09-07 09:35:24,426 - __main__ - INFO - index.html ÎÄ¼þ´æÔÚ£¬ÕýÔÚÌá¹©
+2025-09-07 09:35:24,475 - __main__ - INFO - ÏìÓ¦×´Ì¬: 200
+2025-09-07 09:35:24,475 - __main__ - INFO - ÏìÓ¦Í·: {'Content-Disposition': 'inline; filename=index.html', 'Content-Type': 'text/html; charset=utf-8', 'Content-Length': '21090', 'Last-Modified': 'Sun, 07 Sep 2025 01:06:24 GMT', 'Cache-Control': 'no-cache', 'ETag': '"1757207184.4121516-21090-1136727319"', 'Date': 'Sun, 07 Sep 2025 01:35:24 GMT'}
+2025-09-07 09:35:24,477 - werkzeug - INFO - 127.0.0.1 - - [07/Sep/2025 09:35:24] "GET / HTTP/1.1" 200 -
+2025-09-07 09:35:30,382 - __main__ - INFO - ÊÕµ½ÇëÇó: GET http://localhost:5000/
+2025-09-07 09:35:30,382 - __main__ - INFO - ÇëÇóÍ·: {'Host': 'localhost:5000', 'Connection': 'keep-alive', 'Sec-Ch-Ua': '"Not;A=Brand";v="99", "Microsoft Edge";v="139", "Chromium";v="139"', 'Sec-Ch-Ua-Mobile': '?0', 'Sec-Ch-Ua-Platform': '"Windows"', 'Upgrade-Insecure-Requests': '1', 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Edg/139.0.0.0', 'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7', 'Sec-Fetch-Site': 'none', 'Sec-Fetch-Mode': 'navigate', 'Sec-Fetch-User': '?1', 'Sec-Fetch-Dest': 'document', 'Accept-Encoding': 'gzip, deflate, br, zstd', 'Accept-Language': 'zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6', 'Cookie': 'aiqtoolkit-session=session_1755758278981_rgxmoj78g', 'If-None-Match': '"1757207184.4121516-21090-1136727319"', 'If-Modified-Since': 'Sun, 07 Sep 2025 01:06:24 GMT'}
+2025-09-07 09:35:30,382 - __main__ - INFO - ³¢ÊÔÌá¹© index.html ÎÄ¼þ
+2025-09-07 09:35:30,382 - __main__ - INFO - ²éÕÒÎÄ¼þÂ·¾¶: D:\hackathon_aiqtoolkit-main\frontend_new\index.html
+2025-09-07 09:35:30,382 - __main__ - INFO - index.html ÎÄ¼þ´æÔÚ£¬ÕýÔÚÌá¹©
+2025-09-07 09:35:30,382 - __main__ - INFO - ÏìÓ¦×´Ì¬: 304
+2025-09-07 09:35:30,382 - __main__ - INFO - ÏìÓ¦Í·: {'Content-Disposition': 'inline; filename=index.html', 'Content-Type': 'text/html; charset=utf-8', 'Content-Length': '21090', 'Last-Modified': 'Sun, 07 Sep 2025 01:06:24 GMT', 'Cache-Control': 'no-cache', 'ETag': '"1757207184.4121516-21090-1136727319"', 'Date': 'Sun, 07 Sep 2025 01:35:30 GMT'}
+2025-09-07 09:35:30,386 - werkzeug - INFO - 127.0.0.1 - - [07/Sep/2025 09:35:30] "[36mGET / HTTP/1.1[0m" 304 -
+2025-09-07 09:35:30,780 - __main__ - INFO - ÊÕµ½ÇëÇó: GET http://localhost:5000/favicon.ico
+2025-09-07 09:35:30,780 - __main__ - INFO - ÇëÇóÍ·: {'Host': 'localhost:5000', 'Connection': 'keep-alive', 'Sec-Ch-Ua-Platform': '"Windows"', 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Edg/139.0.0.0', 'Sec-Ch-Ua': '"Not;A=Brand";v="99", "Microsoft Edge";v="139", "Chromium";v="139"', 'Sec-Ch-Ua-Mobile': '?0', 'Accept': 'image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8', 'Sec-Fetch-Site': 'same-origin', 'Sec-Fetch-Mode': 'no-cors', 'Sec-Fetch-Dest': 'image', 'Referer': 'http://localhost:5000/', 'Accept-Encoding': 'gzip, deflate, br, zstd', 'Accept-Language': 'zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6', 'Cookie': 'aiqtoolkit-session=session_1755758278981_rgxmoj78g', 'If-None-Match': '"1757207184.4121516-21090-1136727319"', 'If-Modified-Since': 'Sun, 07 Sep 2025 01:06:24 GMT'}
+2025-09-07 09:35:30,780 - __main__ - INFO - ³¢ÊÔÌá¹©¾²Ì¬ÎÄ¼þ: favicon.ico
+2025-09-07 09:35:30,780 - __main__ - INFO - ÍêÕûÎÄ¼þÂ·¾¶: D:\hackathon_aiqtoolkit-main\frontend_new\favicon.ico
+2025-09-07 09:35:30,780 - __main__ - WARNING - ÎÄ¼þ²»´æÔÚ: favicon.ico£¬»ØÍËµ½ index.html
+2025-09-07 09:35:30,782 - __main__ - INFO - ÏìÓ¦×´Ì¬: 304
+2025-09-07 09:35:30,782 - __main__ - INFO - ÏìÓ¦Í·: {'Content-Disposition': 'inline; filename=index.html', 'Content-Type': 'text/html; charset=utf-8', 'Content-Length': '21090', 'Last-Modified': 'Sun, 07 Sep 2025 01:06:24 GMT', 'Cache-Control': 'no-cache', 'ETag': '"1757207184.4121516-21090-1136727319"', 'Date': 'Sun, 07 Sep 2025 01:35:30 GMT'}
+2025-09-07 09:35:30,782 - werkzeug - INFO - 127.0.0.1 - - [07/Sep/2025 09:35:30] "[36mGET /favicon.ico HTTP/1.1[0m" 304 -
+2025-09-07 09:35:39,132 - __main__ - INFO - ÊÕµ½ÇëÇó: POST http://localhost:5000/chat/stream?filter_steps=LLM_END,TOOL_END
+2025-09-07 09:35:39,132 - __main__ - INFO - ÇëÇóÍ·: {'Host': 'localhost:5000', 'Connection': 'keep-alive', 'Content-Length': '109', 'Sec-Ch-Ua-Platform': '"Windows"', 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Edg/139.0.0.0', 'Sec-Ch-Ua': '"Not;A=Brand";v="99", "Microsoft Edge";v="139", "Chromium";v="139"', 'Content-Type': 'application/json; charset=utf-8', 'Sec-Ch-Ua-Mobile': '?0', 'Accept': '*/*', 'Origin': 'http://localhost:5000', 'Sec-Fetch-Site': 'same-origin', 'Sec-Fetch-Mode': 'cors', 'Sec-Fetch-Dest': 'empty', 'Referer': 'http://localhost:5000/', 'Accept-Encoding': 'gzip, deflate, br, zstd', 'Accept-Language': 'zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6', 'Cookie': 'aiqtoolkit-session=session_1755758278981_rgxmoj78g'}
+2025-09-07 09:35:39,133 - __main__ - INFO - ÇëÇóÌå: {"messages":[{"role":"user","content":"ÑÐ¾¿ÀàÐÍ: general\nÎÊÌâ: Ç¿»¯Ñ§Ï°µÄ½øÕ¹"}],"stream":true}
+2025-09-07 09:35:39,133 - __main__ - INFO - ÊÕµ½ /chat/stream ÇëÇó
+2025-09-07 09:35:39,133 - __main__ - INFO - ÇëÇóÊý¾Ý (UTF-8 ½âÂë): {"messages":[{"role":"user","content":"ÑÐ¾¿ÀàÐÍ: general\nÎÊÌâ: Ç¿»¯Ñ§Ï°µÄ½øÕ¹"}],"stream":true}
+2025-09-07 09:35:39,134 - __main__ - INFO - ³¢ÊÔÁ¬½Óºó¶Ë·þÎñ: http://localhost:8001/chat/stream
+2025-09-07 09:35:39,136 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): localhost:8001
+2025-09-07 09:35:41,190 - urllib3.connectionpool - DEBUG - http://localhost:8001 "POST /chat/stream HTTP/1.1" 200 None
+2025-09-07 09:35:41,190 - __main__ - INFO - ºó¶ËÏìÓ¦×´Ì¬Âë: 200
+2025-09-07 09:35:41,190 - __main__ - INFO - ºó¶ËÏìÓ¦Í·: {'date': 'Sun, 07 Sep 2025 01:35:40 GMT', 'server': 'uvicorn', 'content-type': 'text/event-stream; charset=utf-8', 'transfer-encoding': 'chunked'}
+2025-09-07 09:35:41,190 - __main__ - INFO - ÏìÓ¦×´Ì¬: 200
+2025-09-07 09:35:41,190 - __main__ - INFO - ÏìÓ¦Í·: {'Content-Type': 'text/event-stream; charset=utf-8'}
+Debugging middleware caught exception in streamed response at a point where response headers were already sent.
+Traceback (most recent call last):
+  File "D:\hackathon_aiqtoolkit-main\NeMo-Agent-Toolkit\.venv\Lib\site-packages\urllib3\response.py", line 779, in _error_catcher
+    yield
+  File "D:\hackathon_aiqtoolkit-main\NeMo-Agent-Toolkit\.venv\Lib\site-packages\urllib3\response.py", line 1248, in read_chunked
+    self._update_chunk_length()
+  File "D:\hackathon_aiqtoolkit-main\NeMo-Agent-Toolkit\.venv\Lib\site-packages\urllib3\response.py", line 1167, in _update_chunk_length
+    line = self._fp.fp.readline()  # type: ignore[union-attr]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Geedy\AppData\Roaming\uv\python\cpython-3.12.8-windows-x86_64-none\Lib\socket.py", line 720, in readinto
+    return self._sock.recv_into(b)
+           ^^^^^^^^^^^^^^^^^^^^^^^
+TimeoutError: timed out
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "D:\hackathon_aiqtoolkit-main\NeMo-Agent-Toolkit\.venv\Lib\site-packages\requests\models.py", line 820, in generate
+    yield from self.raw.stream(chunk_size, decode_content=True)
+  File "D:\hackathon_aiqtoolkit-main\NeMo-Agent-Toolkit\.venv\Lib\site-packages\urllib3\response.py", line 1088, in stream
+    yield from self.read_chunked(amt, decode_content=decode_content)
+  File "D:\hackathon_aiqtoolkit-main\NeMo-Agent-Toolkit\.venv\Lib\site-packages\urllib3\response.py", line 1231, in read_chunked
+    with self._error_catcher():
+         ^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Geedy\AppData\Roaming\uv\python\cpython-3.12.8-windows-x86_64-none\Lib\contextlib.py", line 158, in __exit__
+    self.gen.throw(value)
+  File "D:\hackathon_aiqtoolkit-main\NeMo-Agent-Toolkit\.venv\Lib\site-packages\urllib3\response.py", line 784, in _error_catcher
+    raise ReadTimeoutError(self._pool, None, "Read timed out.") from e  # type: ignore[arg-type]
+urllib3.exceptions.ReadTimeoutError: HTTPConnectionPool(host='localhost', port=8001): Read timed out.
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\hackathon_aiqtoolkit-main\NeMo-Agent-Toolkit\.venv\Lib\site-packages\werkzeug\wsgi.py", line 256, in __next__
+    return self._next()
+           ^^^^^^^^^^^^
+  File "D:\hackathon_aiqtoolkit-main\NeMo-Agent-Toolkit\.venv\Lib\site-packages\werkzeug\wrappers\response.py", line 32, in _iter_encoded
+    for item in iterable:
+                ^^^^^^^^^
+  File "D:\hackathon_aiqtoolkit-main\NeMo-Agent-Toolkit\.venv\Lib\site-packages\requests\models.py", line 826, in generate
+    raise ConnectionError(e)
+requests.exceptions.ConnectionError: HTTPConnectionPool(host='localhost', port=8001): Read timed out.
+2025-09-07 09:36:11,331 - werkzeug - INFO - 127.0.0.1 - - [07/Sep/2025 09:36:11] "POST /chat/stream?filter_steps=LLM_END,TOOL_END HTTP/1.1" 200 -

@@ -1,0 +1,1087 @@
+2025-09-06 17:46:57,865 - __main__ - INFO - ==================================================
+2025-09-06 17:46:57,865 - __main__ - INFO - Flask ǰ�˷���������
+2025-09-06 17:46:57,865 - __main__ - INFO - ��ǰ����Ŀ¼: D:\hackathon_aiqtoolkit-main\frontend_new
+2025-09-06 17:46:57,865 - __main__ - INFO - FlaskӦ��Ŀ¼: D:\hackathon_aiqtoolkit-main\frontend_new
+2025-09-06 17:46:57,865 - __main__ - INFO - ����ʱ��: 2025-09-06 17:46:57.865648
+2025-09-06 17:46:57,865 - __main__ - INFO - ==================================================
+2025-09-06 17:46:57,870 - __main__ - INFO - ׼������FlaskӦ��
+2025-09-06 17:46:57,870 - __main__ - INFO - ���˿�5000�Ƿ����...
+2025-09-06 17:46:57,870 - __main__ - INFO - ��ǰĿ¼����: ['frontend_debug.log', 'index.html', 'server.py']
+2025-09-06 17:46:57,870 - __main__ - INFO - ����FlaskӦ���� 0.0.0.0:5000
+2025-09-06 17:46:57,925 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.9.96:5000
+2025-09-06 17:46:57,925 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-09-06 17:46:57,930 - werkzeug - INFO -  * Restarting with stat
+2025-09-06 17:46:58,988 - __main__ - INFO - ==================================================
+2025-09-06 17:46:58,988 - __main__ - INFO - Flask ǰ�˷���������
+2025-09-06 17:46:58,988 - __main__ - INFO - ��ǰ����Ŀ¼: D:\hackathon_aiqtoolkit-main\frontend_new
+2025-09-06 17:46:58,988 - __main__ - INFO - FlaskӦ��Ŀ¼: D:\hackathon_aiqtoolkit-main\frontend_new
+2025-09-06 17:46:58,988 - __main__ - INFO - ����ʱ��: 2025-09-06 17:46:58.988095
+2025-09-06 17:46:58,988 - __main__ - INFO - ==================================================
+2025-09-06 17:46:58,991 - __main__ - INFO - ׼������FlaskӦ��
+2025-09-06 17:46:58,991 - __main__ - INFO - ���˿�5000�Ƿ����...
+2025-09-06 17:46:58,991 - __main__ - INFO - ��ǰĿ¼����: ['frontend_debug.log', 'index.html', 'server.py']
+2025-09-06 17:46:58,991 - __main__ - INFO - ����FlaskӦ���� 0.0.0.0:5000
+2025-09-06 17:46:59,022 - werkzeug - WARNING -  * Debugger is active!
+2025-09-06 17:46:59,030 - werkzeug - INFO -  * Debugger PIN: 322-266-296
+2025-09-06 17:56:38,820 - __main__ - INFO - ==================================================
+2025-09-06 17:56:38,820 - __main__ - INFO - Flask ǰ�˷���������
+2025-09-06 17:56:38,820 - __main__ - INFO - ��ǰ����Ŀ¼: D:\hackathon_aiqtoolkit-main\frontend_new
+2025-09-06 17:56:38,820 - __main__ - INFO - FlaskӦ��Ŀ¼: D:\hackathon_aiqtoolkit-main\frontend_new
+2025-09-06 17:56:38,820 - __main__ - INFO - ����ʱ��: 2025-09-06 17:56:38.820306
+2025-09-06 17:56:38,820 - __main__ - INFO - ==================================================
+2025-09-06 17:56:38,825 - __main__ - INFO - ׼������FlaskӦ��
+2025-09-06 17:56:38,825 - __main__ - INFO - ���˿�5000�Ƿ����...
+2025-09-06 17:56:38,825 - __main__ - INFO - ��ǰĿ¼����: ['frontend_debug.log', 'index.html', 'server.py']
+2025-09-06 17:56:38,830 - __main__ - INFO - ����FlaskӦ���� 0.0.0.0:5000
+2025-09-06 17:56:38,876 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.9.96:5000
+2025-09-06 17:56:38,876 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-09-06 17:56:38,878 - werkzeug - INFO -  * Restarting with stat
+2025-09-06 17:56:40,084 - __main__ - INFO - ==================================================
+2025-09-06 17:56:40,084 - __main__ - INFO - Flask ǰ�˷���������
+2025-09-06 17:56:40,084 - __main__ - INFO - ��ǰ����Ŀ¼: D:\hackathon_aiqtoolkit-main\frontend_new
+2025-09-06 17:56:40,084 - __main__ - INFO - FlaskӦ��Ŀ¼: D:\hackathon_aiqtoolkit-main\frontend_new
+2025-09-06 17:56:40,084 - __main__ - INFO - ����ʱ��: 2025-09-06 17:56:40.084353
+2025-09-06 17:56:40,084 - __main__ - INFO - ==================================================
+2025-09-06 17:56:40,085 - __main__ - INFO - ׼������FlaskӦ��
+2025-09-06 17:56:40,085 - __main__ - INFO - ���˿�5000�Ƿ����...
+2025-09-06 17:56:40,085 - __main__ - INFO - ��ǰĿ¼����: ['frontend_debug.log', 'index.html', 'server.py']
+2025-09-06 17:56:40,085 - __main__ - INFO - ����FlaskӦ���� 0.0.0.0:5000
+2025-09-06 17:56:40,122 - werkzeug - WARNING -  * Debugger is active!
+2025-09-06 17:56:40,124 - werkzeug - INFO -  * Debugger PIN: 322-266-296
+2025-09-06 17:56:43,133 - __main__ - INFO - �յ�����: GET http://localhost:5000/
+2025-09-06 17:56:43,133 - __main__ - INFO - ����ͷ: {'Host': 'localhost:5000', 'User-Agent': 'curl/8.11.0', 'Accept': '*/*'}
+2025-09-06 17:56:43,133 - __main__ - INFO - �����ṩ index.html �ļ�
+2025-09-06 17:56:43,133 - __main__ - INFO - �����ļ�·��: D:\hackathon_aiqtoolkit-main\frontend_new\index.html
+2025-09-06 17:56:43,133 - __main__ - INFO - index.html �ļ����ڣ������ṩ
+2025-09-06 17:56:43,196 - __main__ - INFO - ��Ӧ״̬: 200
+2025-09-06 17:56:43,196 - __main__ - INFO - ��Ӧͷ: {'Content-Disposition': 'inline; filename=index.html', 'Content-Type': 'text/html; charset=utf-8', 'Content-Length': '17709', 'Last-Modified': 'Sat, 06 Sep 2025 08:04:54 GMT', 'Cache-Control': 'no-cache', 'ETag': '"1757145894.2281191-17709-1136727319"', 'Date': 'Sat, 06 Sep 2025 09:56:43 GMT'}
+2025-09-06 17:56:43,196 - werkzeug - INFO - 127.0.0.1 - - [06/Sep/2025 17:56:43] "GET / HTTP/1.1" 200 -
+2025-09-06 17:56:51,708 - __main__ - INFO - �յ�����: GET http://localhost:5000/
+2025-09-06 17:56:51,708 - __main__ - INFO - ����ͷ: {'Host': 'localhost:5000', 'Connection': 'keep-alive', 'Sec-Ch-Ua': '"Not;A=Brand";v="99", "Microsoft Edge";v="139", "Chromium";v="139"', 'Sec-Ch-Ua-Mobile': '?0', 'Sec-Ch-Ua-Platform': '"Windows"', 'Upgrade-Insecure-Requests': '1', 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Edg/139.0.0.0', 'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7', 'Sec-Fetch-Site': 'none', 'Sec-Fetch-Mode': 'navigate', 'Sec-Fetch-User': '?1', 'Sec-Fetch-Dest': 'document', 'Accept-Encoding': 'gzip, deflate, br, zstd', 'Accept-Language': 'zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6', 'Cookie': 'aiqtoolkit-session=session_1755758278981_rgxmoj78g'}
+2025-09-06 17:56:51,708 - __main__ - INFO - �����ṩ index.html �ļ�
+2025-09-06 17:56:51,708 - __main__ - INFO - �����ļ�·��: D:\hackathon_aiqtoolkit-main\frontend_new\index.html
+2025-09-06 17:56:51,708 - __main__ - INFO - index.html �ļ����ڣ������ṩ
+2025-09-06 17:56:51,709 - __main__ - INFO - ��Ӧ״̬: 200
+2025-09-06 17:56:51,709 - __main__ - INFO - ��Ӧͷ: {'Content-Disposition': 'inline; filename=index.html', 'Content-Type': 'text/html; charset=utf-8', 'Content-Length': '17709', 'Last-Modified': 'Sat, 06 Sep 2025 08:04:54 GMT', 'Cache-Control': 'no-cache', 'ETag': '"1757145894.2281191-17709-1136727319"', 'Date': 'Sat, 06 Sep 2025 09:56:51 GMT'}
+2025-09-06 17:56:51,709 - werkzeug - INFO - 127.0.0.1 - - [06/Sep/2025 17:56:51] "GET / HTTP/1.1" 200 -
+2025-09-06 17:56:54,063 - __main__ - INFO - �յ�����: GET http://localhost:5000/favicon.ico
+2025-09-06 17:56:54,063 - __main__ - INFO - ����ͷ: {'Host': 'localhost:5000', 'Connection': 'keep-alive', 'Sec-Ch-Ua-Platform': '"Windows"', 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Edg/139.0.0.0', 'Sec-Ch-Ua': '"Not;A=Brand";v="99", "Microsoft Edge";v="139", "Chromium";v="139"', 'Sec-Ch-Ua-Mobile': '?0', 'Accept': 'image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8', 'Sec-Fetch-Site': 'same-origin', 'Sec-Fetch-Mode': 'no-cors', 'Sec-Fetch-Dest': 'image', 'Referer': 'http://localhost:5000/', 'Accept-Encoding': 'gzip, deflate, br, zstd', 'Accept-Language': 'zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6', 'Cookie': 'aiqtoolkit-session=session_1755758278981_rgxmoj78g'}
+2025-09-06 17:56:54,063 - __main__ - INFO - �����ṩ��̬�ļ�: favicon.ico
+2025-09-06 17:56:54,063 - __main__ - INFO - �����ļ�·��: D:\hackathon_aiqtoolkit-main\frontend_new\favicon.ico
+2025-09-06 17:56:54,063 - __main__ - WARNING - �ļ�������: favicon.ico�����˵� index.html
+2025-09-06 17:56:54,064 - __main__ - INFO - ��Ӧ״̬: 200
+2025-09-06 17:56:54,064 - __main__ - INFO - ��Ӧͷ: {'Content-Disposition': 'inline; filename=index.html', 'Content-Type': 'text/html; charset=utf-8', 'Content-Length': '17709', 'Last-Modified': 'Sat, 06 Sep 2025 08:04:54 GMT', 'Cache-Control': 'no-cache', 'ETag': '"1757145894.2281191-17709-1136727319"', 'Date': 'Sat, 06 Sep 2025 09:56:54 GMT'}
+2025-09-06 17:56:54,064 - werkzeug - INFO - 127.0.0.1 - - [06/Sep/2025 17:56:54] "GET /favicon.ico HTTP/1.1" 200 -
+2025-09-06 18:07:19,470 - __main__ - INFO - �յ�����: POST http://localhost:5000/chat/stream
+2025-09-06 18:07:19,470 - __main__ - INFO - ����ͷ: {'Host': 'localhost:5000', 'Connection': 'keep-alive', 'Content-Length': '109', 'Sec-Ch-Ua-Platform': '"Windows"', 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Edg/139.0.0.0', 'Sec-Ch-Ua': '"Not;A=Brand";v="99", "Microsoft Edge";v="139", "Chromium";v="139"', 'Content-Type': 'application/json', 'Sec-Ch-Ua-Mobile': '?0', 'Accept': '*/*', 'Origin': 'http://localhost:5000', 'Sec-Fetch-Site': 'same-origin', 'Sec-Fetch-Mode': 'cors', 'Sec-Fetch-Dest': 'empty', 'Referer': 'http://localhost:5000/', 'Accept-Encoding': 'gzip, deflate, br, zstd', 'Accept-Language': 'zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6', 'Cookie': 'aiqtoolkit-session=session_1755758278981_rgxmoj78g'}
+2025-09-06 18:07:19,470 - __main__ - INFO - ������: b'{"messages":[{"role":"user","content":"\xe7\xa0\x94\xe7\xa9\xb6\xe7\xb1\xbb\xe5\x9e\x8b: general\\n\xe9\x97\xae\xe9\xa2\x98: \xe6\xb7\xb1\xe5\xba\xa6\xe5\xad\xa6\xe4\xb9\xa0\xe7\x9a\x84\xe8\xbf\x9b\xe5\xb1\x95"}],"stream":true}'
+2025-09-06 18:07:19,470 - __main__ - INFO - �յ� /chat/stream ����
+2025-09-06 18:07:19,470 - __main__ - INFO - ��������: {'messages': [{'role': 'user', 'content': '�о�����: general\n����: ���ѧϰ�Ľ�չ'}], 'stream': True}
+2025-09-06 18:07:19,471 - __main__ - INFO - �������Ӻ�˷���: http://localhost:8001/chat/stream
+2025-09-06 18:07:19,473 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): localhost:8001
+2025-09-06 18:07:21,516 - urllib3.connectionpool - DEBUG - http://localhost:8001 "POST /chat/stream HTTP/1.1" 200 None
+2025-09-06 18:07:21,516 - __main__ - INFO - �����Ӧ״̬��: 200
+2025-09-06 18:07:21,516 - __main__ - INFO - �����Ӧͷ: {'date': 'Sat, 06 Sep 2025 10:07:20 GMT', 'server': 'uvicorn', 'content-type': 'text/event-stream; charset=utf-8', 'transfer-encoding': 'chunked'}
+2025-09-06 18:09:29,765 - __main__ - ERROR - �޷����ӵ���˷��� (8001�˿�): HTTPConnectionPool(host='localhost', port=8001): Read timed out.
+2025-09-06 18:09:29,765 - __main__ - INFO - ��Ӧ״̬: 503
+2025-09-06 18:09:29,765 - __main__ - INFO - ��Ӧͷ: {'Content-Type': 'application/json', 'Content-Length': '231'}
+2025-09-06 18:09:29,765 - werkzeug - INFO - 127.0.0.1 - - [06/Sep/2025 18:09:29] "[35m[1mPOST /chat/stream HTTP/1.1[0m" 503 -
+2025-09-06 18:22:21,823 - __main__ - INFO - ==================================================
+2025-09-06 18:22:21,823 - __main__ - INFO - Flask ǰ�˷���������
+2025-09-06 18:22:21,823 - __main__ - INFO - ��ǰ����Ŀ¼: D:\hackathon_aiqtoolkit-main\frontend_new
+2025-09-06 18:22:21,823 - __main__ - INFO - FlaskӦ��Ŀ¼: D:\hackathon_aiqtoolkit-main\frontend_new
+2025-09-06 18:22:21,823 - __main__ - INFO - ����ʱ��: 2025-09-06 18:22:21.823643
+2025-09-06 18:22:21,823 - __main__ - INFO - ==================================================
+2025-09-06 18:22:21,825 - __main__ - INFO - ׼������FlaskӦ��
+2025-09-06 18:22:21,825 - __main__ - INFO - ���˿�5000�Ƿ����...
+2025-09-06 18:22:21,826 - __main__ - INFO - ��ǰĿ¼����: ['frontend_debug.log', 'index.html', 'index_save.html', 'server.py']
+2025-09-06 18:22:21,826 - __main__ - INFO - ����FlaskӦ���� 0.0.0.0:5000
+2025-09-06 18:22:21,868 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.9.96:5000
+2025-09-06 18:22:21,868 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-09-06 18:22:21,869 - werkzeug - INFO -  * Restarting with stat
+2025-09-06 18:22:22,790 - __main__ - INFO - ==================================================
+2025-09-06 18:22:22,790 - __main__ - INFO - Flask ǰ�˷���������
+2025-09-06 18:22:22,790 - __main__ - INFO - ��ǰ����Ŀ¼: D:\hackathon_aiqtoolkit-main\frontend_new
+2025-09-06 18:22:22,790 - __main__ - INFO - FlaskӦ��Ŀ¼: D:\hackathon_aiqtoolkit-main\frontend_new
+2025-09-06 18:22:22,790 - __main__ - INFO - ����ʱ��: 2025-09-06 18:22:22.790556
+2025-09-06 18:22:22,790 - __main__ - INFO - ==================================================
+2025-09-06 18:22:22,790 - __main__ - INFO - ׼������FlaskӦ��
+2025-09-06 18:22:22,790 - __main__ - INFO - ���˿�5000�Ƿ����...
+2025-09-06 18:22:22,790 - __main__ - INFO - ��ǰĿ¼����: ['frontend_debug.log', 'index.html', 'index_save.html', 'server.py']
+2025-09-06 18:22:22,790 - __main__ - INFO - ����FlaskӦ���� 0.0.0.0:5000
+2025-09-06 18:22:22,821 - werkzeug - WARNING -  * Debugger is active!
+2025-09-06 18:22:22,821 - werkzeug - INFO -  * Debugger PIN: 322-266-296
+2025-09-06 18:22:26,261 - __main__ - INFO - �յ�����: GET http://localhost:5000/
+2025-09-06 18:22:26,261 - __main__ - INFO - ����ͷ: {'Host': 'localhost:5000', 'User-Agent': 'curl/8.11.0', 'Accept': '*/*'}
+2025-09-06 18:22:26,261 - __main__ - INFO - �����ṩ index.html �ļ�
+2025-09-06 18:22:26,261 - __main__ - INFO - �����ļ�·��: D:\hackathon_aiqtoolkit-main\frontend_new\index.html
+2025-09-06 18:22:26,261 - __main__ - INFO - index.html �ļ����ڣ������ṩ
+2025-09-06 18:22:26,312 - __main__ - INFO - ��Ӧ״̬: 200
+2025-09-06 18:22:26,312 - __main__ - INFO - ��Ӧͷ: {'Content-Disposition': 'inline; filename=index.html', 'Content-Type': 'text/html; charset=utf-8', 'Content-Length': '19576', 'Last-Modified': 'Sat, 06 Sep 2025 10:21:26 GMT', 'Cache-Control': 'no-cache', 'ETag': '"1757154086.9635603-19576-1136727319"', 'Date': 'Sat, 06 Sep 2025 10:22:26 GMT'}
+2025-09-06 18:22:26,312 - werkzeug - INFO - 127.0.0.1 - - [06/Sep/2025 18:22:26] "GET / HTTP/1.1" 200 -
+2025-09-06 18:25:39,615 - __main__ - INFO - �յ�����: GET http://localhost:5000/
+2025-09-06 18:25:39,615 - __main__ - INFO - ����ͷ: {'Host': 'localhost:5000', 'Connection': 'keep-alive', 'Sec-Ch-Ua': '"Not;A=Brand";v="99", "Microsoft Edge";v="139", "Chromium";v="139"', 'Sec-Ch-Ua-Mobile': '?0', 'Sec-Ch-Ua-Platform': '"Windows"', 'Upgrade-Insecure-Requests': '1', 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Edg/139.0.0.0', 'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7', 'Sec-Fetch-Site': 'none', 'Sec-Fetch-Mode': 'navigate', 'Sec-Fetch-User': '?1', 'Sec-Fetch-Dest': 'document', 'Accept-Encoding': 'gzip, deflate, br, zstd', 'Accept-Language': 'zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6', 'Cookie': 'aiqtoolkit-session=session_1755758278981_rgxmoj78g', 'If-None-Match': '"1757145894.2281191-17709-1136727319"', 'If-Modified-Since': 'Sat, 06 Sep 2025 08:04:54 GMT'}
+2025-09-06 18:25:39,615 - __main__ - INFO - �����ṩ index.html �ļ�
+2025-09-06 18:25:39,615 - __main__ - INFO - �����ļ�·��: D:\hackathon_aiqtoolkit-main\frontend_new\index.html
+2025-09-06 18:25:39,615 - __main__ - INFO - index.html �ļ����ڣ������ṩ
+2025-09-06 18:25:39,615 - __main__ - INFO - ��Ӧ״̬: 200
+2025-09-06 18:25:39,615 - __main__ - INFO - ��Ӧͷ: {'Content-Disposition': 'inline; filename=index.html', 'Content-Type': 'text/html; charset=utf-8', 'Content-Length': '19576', 'Last-Modified': 'Sat, 06 Sep 2025 10:21:26 GMT', 'Cache-Control': 'no-cache', 'ETag': '"1757154086.9635603-19576-1136727319"', 'Date': 'Sat, 06 Sep 2025 10:25:39 GMT'}
+2025-09-06 18:25:39,615 - werkzeug - INFO - 127.0.0.1 - - [06/Sep/2025 18:25:39] "GET / HTTP/1.1" 200 -
+2025-09-06 18:25:39,974 - __main__ - INFO - �յ�����: GET http://localhost:5000/favicon.ico
+2025-09-06 18:25:39,974 - __main__ - INFO - ����ͷ: {'Host': 'localhost:5000', 'Connection': 'keep-alive', 'Sec-Ch-Ua-Platform': '"Windows"', 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Edg/139.0.0.0', 'Sec-Ch-Ua': '"Not;A=Brand";v="99", "Microsoft Edge";v="139", "Chromium";v="139"', 'Sec-Ch-Ua-Mobile': '?0', 'Accept': 'image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8', 'Sec-Fetch-Site': 'same-origin', 'Sec-Fetch-Mode': 'no-cors', 'Sec-Fetch-Dest': 'image', 'Referer': 'http://localhost:5000/', 'Accept-Encoding': 'gzip, deflate, br, zstd', 'Accept-Language': 'zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6', 'Cookie': 'aiqtoolkit-session=session_1755758278981_rgxmoj78g', 'If-None-Match': '"1757145894.2281191-17709-1136727319"', 'If-Modified-Since': 'Sat, 06 Sep 2025 08:04:54 GMT'}
+2025-09-06 18:25:39,974 - __main__ - INFO - �����ṩ��̬�ļ�: favicon.ico
+2025-09-06 18:25:39,974 - __main__ - INFO - �����ļ�·��: D:\hackathon_aiqtoolkit-main\frontend_new\favicon.ico
+2025-09-06 18:25:39,974 - __main__ - WARNING - �ļ�������: favicon.ico�����˵� index.html
+2025-09-06 18:25:39,974 - __main__ - INFO - ��Ӧ״̬: 200
+2025-09-06 18:25:39,974 - __main__ - INFO - ��Ӧͷ: {'Content-Disposition': 'inline; filename=index.html', 'Content-Type': 'text/html; charset=utf-8', 'Content-Length': '19576', 'Last-Modified': 'Sat, 06 Sep 2025 10:21:26 GMT', 'Cache-Control': 'no-cache', 'ETag': '"1757154086.9635603-19576-1136727319"', 'Date': 'Sat, 06 Sep 2025 10:25:39 GMT'}
+2025-09-06 18:25:39,974 - werkzeug - INFO - 127.0.0.1 - - [06/Sep/2025 18:25:39] "GET /favicon.ico HTTP/1.1" 200 -
+2025-09-06 18:25:49,641 - __main__ - INFO - �յ�����: POST http://localhost:5000/chat/stream
+2025-09-06 18:25:49,641 - __main__ - INFO - ����ͷ: {'Host': 'localhost:5000', 'Connection': 'keep-alive', 'Content-Length': '109', 'Sec-Ch-Ua-Platform': '"Windows"', 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Edg/139.0.0.0', 'Sec-Ch-Ua': '"Not;A=Brand";v="99", "Microsoft Edge";v="139", "Chromium";v="139"', 'Content-Type': 'application/json', 'Sec-Ch-Ua-Mobile': '?0', 'Accept': '*/*', 'Origin': 'http://localhost:5000', 'Sec-Fetch-Site': 'same-origin', 'Sec-Fetch-Mode': 'cors', 'Sec-Fetch-Dest': 'empty', 'Referer': 'http://localhost:5000/', 'Accept-Encoding': 'gzip, deflate, br, zstd', 'Accept-Language': 'zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6', 'Cookie': 'aiqtoolkit-session=session_1755758278981_rgxmoj78g'}
+2025-09-06 18:25:49,641 - __main__ - INFO - ������: b'{"messages":[{"role":"user","content":"\xe7\xa0\x94\xe7\xa9\xb6\xe7\xb1\xbb\xe5\x9e\x8b: general\\n\xe9\x97\xae\xe9\xa2\x98: \xe6\xb7\xb1\xe5\xba\xa6\xe5\xad\xa6\xe4\xb9\xa0\xe7\x9a\x84\xe8\xbf\x9b\xe5\xb1\x95"}],"stream":true}'
+2025-09-06 18:25:49,641 - __main__ - INFO - �յ� /chat/stream ����
+2025-09-06 18:25:49,641 - __main__ - INFO - ��������: {'messages': [{'role': 'user', 'content': '�о�����: general\n����: ���ѧϰ�Ľ�չ'}], 'stream': True}
+2025-09-06 18:25:49,641 - __main__ - INFO - �������Ӻ�˷���: http://localhost:8001/chat/stream
+2025-09-06 18:25:49,644 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): localhost:8001
+2025-09-06 18:25:51,686 - urllib3.connectionpool - DEBUG - http://localhost:8001 "POST /chat/stream HTTP/1.1" 200 None
+2025-09-06 18:25:51,687 - __main__ - INFO - �����Ӧ״̬��: 200
+2025-09-06 18:25:51,687 - __main__ - INFO - �����Ӧͷ: {'date': 'Sat, 06 Sep 2025 10:25:51 GMT', 'server': 'uvicorn', 'content-type': 'text/event-stream; charset=utf-8', 'transfer-encoding': 'chunked'}
+2025-09-06 18:27:28,036 - __main__ - INFO - ��Ӧ״̬: 200
+2025-09-06 18:27:28,036 - __main__ - INFO - ��Ӧͷ: {'date': 'Sat, 06 Sep 2025 10:25:51 GMT', 'server': 'uvicorn', 'content-type': 'text/event-stream; charset=utf-8', 'transfer-encoding': 'chunked', 'Content-Length': '3400527'}
+2025-09-06 18:27:28,036 - werkzeug - INFO - 127.0.0.1 - - [06/Sep/2025 18:27:28] "POST /chat/stream HTTP/1.1" 200 -
+2025-09-06 18:34:37,905 - __main__ - INFO - ==================================================
+2025-09-06 18:34:37,905 - __main__ - INFO - Flask ǰ�˷���������
+2025-09-06 18:34:37,905 - __main__ - INFO - ��ǰ����Ŀ¼: D:\hackathon_aiqtoolkit-main\frontend_new
+2025-09-06 18:34:37,905 - __main__ - INFO - FlaskӦ��Ŀ¼: D:\hackathon_aiqtoolkit-main\frontend_new
+2025-09-06 18:34:37,905 - __main__ - INFO - ����ʱ��: 2025-09-06 18:34:37.905959
+2025-09-06 18:34:37,905 - __main__ - INFO - ==================================================
+2025-09-06 18:34:37,910 - __main__ - INFO - ׼������FlaskӦ��
+2025-09-06 18:34:37,910 - __main__ - INFO - ���˿�5000�Ƿ����...
+2025-09-06 18:34:37,910 - __main__ - INFO - ��ǰĿ¼����: ['frontend_debug.log', 'index.html', 'index_save.html', 'server.py']
+2025-09-06 18:34:37,910 - __main__ - INFO - ����FlaskӦ���� 0.0.0.0:5000
+2025-09-06 18:34:37,951 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.9.96:5000
+2025-09-06 18:34:37,951 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-09-06 18:34:37,955 - werkzeug - INFO -  * Restarting with stat
+2025-09-06 18:34:38,809 - __main__ - INFO - ==================================================
+2025-09-06 18:34:38,809 - __main__ - INFO - Flask ǰ�˷���������
+2025-09-06 18:34:38,809 - __main__ - INFO - ��ǰ����Ŀ¼: D:\hackathon_aiqtoolkit-main\frontend_new
+2025-09-06 18:34:38,809 - __main__ - INFO - FlaskӦ��Ŀ¼: D:\hackathon_aiqtoolkit-main\frontend_new
+2025-09-06 18:34:38,809 - __main__ - INFO - ����ʱ��: 2025-09-06 18:34:38.809686
+2025-09-06 18:34:38,809 - __main__ - INFO - ==================================================
+2025-09-06 18:34:38,809 - __main__ - INFO - ׼������FlaskӦ��
+2025-09-06 18:34:38,809 - __main__ - INFO - ���˿�5000�Ƿ����...
+2025-09-06 18:34:38,809 - __main__ - INFO - ��ǰĿ¼����: ['frontend_debug.log', 'index.html', 'index_save.html', 'server.py']
+2025-09-06 18:34:38,809 - __main__ - INFO - ����FlaskӦ���� 0.0.0.0:5000
+2025-09-06 18:34:38,842 - werkzeug - WARNING -  * Debugger is active!
+2025-09-06 18:34:38,847 - werkzeug - INFO -  * Debugger PIN: 322-266-296
+2025-09-06 18:34:42,466 - __main__ - INFO - �յ�����: GET http://localhost:5000/
+2025-09-06 18:34:42,466 - __main__ - INFO - ����ͷ: {'Host': 'localhost:5000', 'User-Agent': 'curl/8.11.0', 'Accept': '*/*'}
+2025-09-06 18:34:42,466 - __main__ - INFO - �����ṩ index.html �ļ�
+2025-09-06 18:34:42,466 - __main__ - INFO - �����ļ�·��: D:\hackathon_aiqtoolkit-main\frontend_new\index.html
+2025-09-06 18:34:42,466 - __main__ - INFO - index.html �ļ����ڣ������ṩ
+2025-09-06 18:34:42,514 - __main__ - INFO - ��Ӧ״̬: 200
+2025-09-06 18:34:42,514 - __main__ - INFO - ��Ӧͷ: {'Content-Disposition': 'inline; filename=index.html', 'Content-Type': 'text/html; charset=utf-8', 'Content-Length': '20691', 'Last-Modified': 'Sat, 06 Sep 2025 10:34:11 GMT', 'Cache-Control': 'no-cache', 'ETag': '"1757154851.1070378-20691-1136727319"', 'Date': 'Sat, 06 Sep 2025 10:34:42 GMT'}
+2025-09-06 18:34:42,514 - werkzeug - INFO - 127.0.0.1 - - [06/Sep/2025 18:34:42] "GET / HTTP/1.1" 200 -
+2025-09-06 18:35:45,287 - __main__ - INFO - �յ�����: GET http://localhost:5000/
+2025-09-06 18:35:45,287 - __main__ - INFO - ����ͷ: {'Host': 'localhost:5000', 'Connection': 'keep-alive', 'Sec-Ch-Ua': '"Not;A=Brand";v="99", "Microsoft Edge";v="139", "Chromium";v="139"', 'Sec-Ch-Ua-Mobile': '?0', 'Sec-Ch-Ua-Platform': '"Windows"', 'Upgrade-Insecure-Requests': '1', 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Edg/139.0.0.0', 'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7', 'Sec-Fetch-Site': 'none', 'Sec-Fetch-Mode': 'navigate', 'Sec-Fetch-User': '?1', 'Sec-Fetch-Dest': 'document', 'Accept-Encoding': 'gzip, deflate, br, zstd', 'Accept-Language': 'zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6', 'Cookie': 'aiqtoolkit-session=session_1755758278981_rgxmoj78g', 'If-None-Match': '"1757154086.9635603-19576-1136727319"', 'If-Modified-Since': 'Sat, 06 Sep 2025 10:21:26 GMT'}
+2025-09-06 18:35:45,287 - __main__ - INFO - �����ṩ index.html �ļ�
+2025-09-06 18:35:45,287 - __main__ - INFO - �����ļ�·��: D:\hackathon_aiqtoolkit-main\frontend_new\index.html
+2025-09-06 18:35:45,288 - __main__ - INFO - index.html �ļ����ڣ������ṩ
+2025-09-06 18:35:45,288 - __main__ - INFO - ��Ӧ״̬: 200
+2025-09-06 18:35:45,288 - __main__ - INFO - ��Ӧͷ: {'Content-Disposition': 'inline; filename=index.html', 'Content-Type': 'text/html; charset=utf-8', 'Content-Length': '20691', 'Last-Modified': 'Sat, 06 Sep 2025 10:34:11 GMT', 'Cache-Control': 'no-cache', 'ETag': '"1757154851.1070378-20691-1136727319"', 'Date': 'Sat, 06 Sep 2025 10:35:45 GMT'}
+2025-09-06 18:35:45,288 - werkzeug - INFO - 127.0.0.1 - - [06/Sep/2025 18:35:45] "GET / HTTP/1.1" 200 -
+2025-09-06 18:35:45,598 - __main__ - INFO - �յ�����: GET http://localhost:5000/favicon.ico
+2025-09-06 18:35:45,598 - __main__ - INFO - ����ͷ: {'Host': 'localhost:5000', 'Connection': 'keep-alive', 'Sec-Ch-Ua-Platform': '"Windows"', 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Edg/139.0.0.0', 'Sec-Ch-Ua': '"Not;A=Brand";v="99", "Microsoft Edge";v="139", "Chromium";v="139"', 'Sec-Ch-Ua-Mobile': '?0', 'Accept': 'image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8', 'Sec-Fetch-Site': 'same-origin', 'Sec-Fetch-Mode': 'no-cors', 'Sec-Fetch-Dest': 'image', 'Referer': 'http://localhost:5000/', 'Accept-Encoding': 'gzip, deflate, br, zstd', 'Accept-Language': 'zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6', 'Cookie': 'aiqtoolkit-session=session_1755758278981_rgxmoj78g', 'If-None-Match': '"1757154086.9635603-19576-1136727319"', 'If-Modified-Since': 'Sat, 06 Sep 2025 10:21:26 GMT'}
+2025-09-06 18:35:45,598 - __main__ - INFO - �����ṩ��̬�ļ�: favicon.ico
+2025-09-06 18:35:45,598 - __main__ - INFO - �����ļ�·��: D:\hackathon_aiqtoolkit-main\frontend_new\favicon.ico
+2025-09-06 18:35:45,598 - __main__ - WARNING - �ļ�������: favicon.ico�����˵� index.html
+2025-09-06 18:35:45,598 - __main__ - INFO - ��Ӧ״̬: 200
+2025-09-06 18:35:45,598 - __main__ - INFO - ��Ӧͷ: {'Content-Disposition': 'inline; filename=index.html', 'Content-Type': 'text/html; charset=utf-8', 'Content-Length': '20691', 'Last-Modified': 'Sat, 06 Sep 2025 10:34:11 GMT', 'Cache-Control': 'no-cache', 'ETag': '"1757154851.1070378-20691-1136727319"', 'Date': 'Sat, 06 Sep 2025 10:35:45 GMT'}
+2025-09-06 18:35:45,598 - werkzeug - INFO - 127.0.0.1 - - [06/Sep/2025 18:35:45] "GET /favicon.ico HTTP/1.1" 200 -
+2025-09-06 18:35:55,159 - __main__ - INFO - �յ�����: POST http://localhost:5000/chat/stream
+2025-09-06 18:35:55,159 - __main__ - INFO - ����ͷ: {'Host': 'localhost:5000', 'Connection': 'keep-alive', 'Content-Length': '112', 'Sec-Ch-Ua-Platform': '"Windows"', 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Edg/139.0.0.0', 'Sec-Ch-Ua': '"Not;A=Brand";v="99", "Microsoft Edge";v="139", "Chromium";v="139"', 'Content-Type': 'application/json', 'Sec-Ch-Ua-Mobile': '?0', 'Accept': '*/*', 'Origin': 'http://localhost:5000', 'Sec-Fetch-Site': 'same-origin', 'Sec-Fetch-Mode': 'cors', 'Sec-Fetch-Dest': 'empty', 'Referer': 'http://localhost:5000/', 'Accept-Encoding': 'gzip, deflate, br, zstd', 'Accept-Language': 'zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6', 'Cookie': 'aiqtoolkit-session=session_1755758278981_rgxmoj78g'}
+2025-09-06 18:35:55,159 - __main__ - INFO - ������: b'{"messages":[{"role":"user","content":"\xe7\xa0\x94\xe7\xa9\xb6\xe7\xb1\xbb\xe5\x9e\x8b: general\\n\xe9\x97\xae\xe9\xa2\x98: \xe6\xb7\xb1\xe5\xba\xa6\xe5\xad\xa6\xe4\xb9\xa0\xe6\x9c\x80\xe6\x96\xb0\xe8\xbf\x9b\xe5\xb1\x95"}],"stream":true}'
+2025-09-06 18:35:55,160 - __main__ - INFO - �յ� /chat/stream ����
+2025-09-06 18:35:55,160 - __main__ - INFO - ��������: {'messages': [{'role': 'user', 'content': '�о�����: general\n����: ���ѧϰ���½�չ'}], 'stream': True}
+2025-09-06 18:35:55,160 - __main__ - INFO - �������Ӻ�˷���: http://localhost:8001/chat/stream
+2025-09-06 18:35:55,163 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): localhost:8001
+2025-09-06 18:35:57,218 - urllib3.connectionpool - DEBUG - http://localhost:8001 "POST /chat/stream HTTP/1.1" 200 None
+2025-09-06 18:35:57,218 - __main__ - INFO - �����Ӧ״̬��: 200
+2025-09-06 18:35:57,218 - __main__ - INFO - �����Ӧͷ: {'date': 'Sat, 06 Sep 2025 10:35:56 GMT', 'server': 'uvicorn', 'content-type': 'text/event-stream; charset=utf-8', 'transfer-encoding': 'chunked'}
+2025-09-06 18:55:28,575 - __main__ - INFO - ==================================================
+2025-09-06 18:55:28,575 - __main__ - INFO - Flask 前端服务器启动
+2025-09-06 18:55:28,575 - __main__ - INFO - 当前工作目录: D:\hackathon_aiqtoolkit-main\frontend_new
+2025-09-06 18:55:28,575 - __main__ - INFO - Flask应用目录: D:\hackathon_aiqtoolkit-main\frontend_new
+2025-09-06 18:55:28,575 - __main__ - INFO - 启动时间: 2025-09-06 18:55:28.575840
+2025-09-06 18:55:28,575 - __main__ - INFO - ==================================================
+2025-09-06 18:55:28,577 - __main__ - INFO - 准备启动Flask应用
+2025-09-06 18:55:28,577 - __main__ - INFO - 检查端口5000是否可用...
+2025-09-06 18:55:28,577 - __main__ - INFO - 当前目录内容: ['frontend_debug.log', 'index.html', 'index_save.html', 'server.py']
+2025-09-06 18:55:28,577 - __main__ - INFO - 启动Flask应用在 0.0.0.0:5000
+2025-09-06 18:55:28,618 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.9.96:5000
+2025-09-06 18:55:28,618 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-09-06 18:55:28,620 - werkzeug - INFO -  * Restarting with stat
+2025-09-06 18:55:29,465 - __main__ - INFO - ==================================================
+2025-09-06 18:55:29,465 - __main__ - INFO - Flask 前端服务器启动
+2025-09-06 18:55:29,467 - __main__ - INFO - 当前工作目录: D:\hackathon_aiqtoolkit-main\frontend_new
+2025-09-06 18:55:29,467 - __main__ - INFO - Flask应用目录: D:\hackathon_aiqtoolkit-main\frontend_new
+2025-09-06 18:55:29,467 - __main__ - INFO - 启动时间: 2025-09-06 18:55:29.467693
+2025-09-06 18:55:29,467 - __main__ - INFO - ==================================================
+2025-09-06 18:55:29,467 - __main__ - INFO - 准备启动Flask应用
+2025-09-06 18:55:29,467 - __main__ - INFO - 检查端口5000是否可用...
+2025-09-06 18:55:29,467 - __main__ - INFO - 当前目录内容: ['frontend_debug.log', 'index.html', 'index_save.html', 'server.py']
+2025-09-06 18:55:29,467 - __main__ - INFO - 启动Flask应用在 0.0.0.0:5000
+2025-09-06 18:55:29,495 - werkzeug - WARNING -  * Debugger is active!
+2025-09-06 18:55:29,499 - werkzeug - INFO -  * Debugger PIN: 322-266-296
+2025-09-06 18:55:33,067 - __main__ - INFO - 收到请求: GET http://localhost:5000/
+2025-09-06 18:55:33,067 - __main__ - INFO - 请求头: {'Host': 'localhost:5000', 'User-Agent': 'curl/8.11.0', 'Accept': '*/*'}
+2025-09-06 18:55:33,067 - __main__ - INFO - 尝试提供 index.html 文件
+2025-09-06 18:55:33,067 - __main__ - INFO - 查找文件路径: D:\hackathon_aiqtoolkit-main\frontend_new\index.html
+2025-09-06 18:55:33,067 - __main__ - INFO - index.html 文件存在，正在提供
+2025-09-06 18:55:33,111 - __main__ - INFO - 响应状态: 200
+2025-09-06 18:55:33,111 - __main__ - INFO - 响应头: {'Content-Disposition': 'inline; filename=index.html', 'Content-Type': 'text/html; charset=utf-8', 'Content-Length': '20691', 'Last-Modified': 'Sat, 06 Sep 2025 10:34:11 GMT', 'Cache-Control': 'no-cache', 'ETag': '"1757154851.1070378-20691-1136727319"', 'Date': 'Sat, 06 Sep 2025 10:55:33 GMT'}
+2025-09-06 18:55:33,111 - werkzeug - INFO - 127.0.0.1 - - [06/Sep/2025 18:55:33] "GET / HTTP/1.1" 200 -
+2025-09-06 18:55:39,453 - __main__ - INFO - 收到请求: GET http://localhost:5000/
+2025-09-06 18:55:39,454 - __main__ - INFO - 请求头: {'Host': 'localhost:5000', 'Connection': 'keep-alive', 'Sec-Ch-Ua': '"Not;A=Brand";v="99", "Microsoft Edge";v="139", "Chromium";v="139"', 'Sec-Ch-Ua-Mobile': '?0', 'Sec-Ch-Ua-Platform': '"Windows"', 'Upgrade-Insecure-Requests': '1', 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Edg/139.0.0.0', 'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7', 'Sec-Fetch-Site': 'none', 'Sec-Fetch-Mode': 'navigate', 'Sec-Fetch-User': '?1', 'Sec-Fetch-Dest': 'document', 'Accept-Encoding': 'gzip, deflate, br, zstd', 'Accept-Language': 'zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6', 'Cookie': 'aiqtoolkit-session=session_1755758278981_rgxmoj78g', 'If-None-Match': '"1757154851.1070378-20691-1136727319"', 'If-Modified-Since': 'Sat, 06 Sep 2025 10:34:11 GMT'}
+2025-09-06 18:55:39,454 - __main__ - INFO - 尝试提供 index.html 文件
+2025-09-06 18:55:39,454 - __main__ - INFO - 查找文件路径: D:\hackathon_aiqtoolkit-main\frontend_new\index.html
+2025-09-06 18:55:39,454 - __main__ - INFO - index.html 文件存在，正在提供
+2025-09-06 18:55:39,454 - __main__ - INFO - 响应状态: 304
+2025-09-06 18:55:39,455 - __main__ - INFO - 响应头: {'Content-Disposition': 'inline; filename=index.html', 'Content-Type': 'text/html; charset=utf-8', 'Content-Length': '20691', 'Last-Modified': 'Sat, 06 Sep 2025 10:34:11 GMT', 'Cache-Control': 'no-cache', 'ETag': '"1757154851.1070378-20691-1136727319"', 'Date': 'Sat, 06 Sep 2025 10:55:39 GMT'}
+2025-09-06 18:55:39,455 - werkzeug - INFO - 127.0.0.1 - - [06/Sep/2025 18:55:39] "[36mGET / HTTP/1.1[0m" 304 -
+2025-09-06 18:55:39,759 - __main__ - INFO - 收到请求: GET http://localhost:5000/favicon.ico
+2025-09-06 18:55:39,759 - __main__ - INFO - 请求头: {'Host': 'localhost:5000', 'Connection': 'keep-alive', 'Sec-Ch-Ua-Platform': '"Windows"', 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Edg/139.0.0.0', 'Sec-Ch-Ua': '"Not;A=Brand";v="99", "Microsoft Edge";v="139", "Chromium";v="139"', 'Sec-Ch-Ua-Mobile': '?0', 'Accept': 'image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8', 'Sec-Fetch-Site': 'same-origin', 'Sec-Fetch-Mode': 'no-cors', 'Sec-Fetch-Dest': 'image', 'Referer': 'http://localhost:5000/', 'Accept-Encoding': 'gzip, deflate, br, zstd', 'Accept-Language': 'zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6', 'Cookie': 'aiqtoolkit-session=session_1755758278981_rgxmoj78g', 'If-None-Match': '"1757154851.1070378-20691-1136727319"', 'If-Modified-Since': 'Sat, 06 Sep 2025 10:34:11 GMT'}
+2025-09-06 18:55:39,759 - __main__ - INFO - 尝试提供静态文件: favicon.ico
+2025-09-06 18:55:39,759 - __main__ - INFO - 完整文件路径: D:\hackathon_aiqtoolkit-main\frontend_new\favicon.ico
+2025-09-06 18:55:39,759 - __main__ - WARNING - 文件不存在: favicon.ico，回退到 index.html
+2025-09-06 18:55:39,759 - __main__ - INFO - 响应状态: 304
+2025-09-06 18:55:39,759 - __main__ - INFO - 响应头: {'Content-Disposition': 'inline; filename=index.html', 'Content-Type': 'text/html; charset=utf-8', 'Content-Length': '20691', 'Last-Modified': 'Sat, 06 Sep 2025 10:34:11 GMT', 'Cache-Control': 'no-cache', 'ETag': '"1757154851.1070378-20691-1136727319"', 'Date': 'Sat, 06 Sep 2025 10:55:39 GMT'}
+2025-09-06 18:55:39,759 - werkzeug - INFO - 127.0.0.1 - - [06/Sep/2025 18:55:39] "[36mGET /favicon.ico HTTP/1.1[0m" 304 -
+2025-09-06 18:55:47,476 - __main__ - INFO - 收到请求: POST http://localhost:5000/chat/stream
+2025-09-06 18:55:47,476 - __main__ - INFO - 请求头: {'Host': 'localhost:5000', 'Connection': 'keep-alive', 'Content-Length': '109', 'Sec-Ch-Ua-Platform': '"Windows"', 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Edg/139.0.0.0', 'Sec-Ch-Ua': '"Not;A=Brand";v="99", "Microsoft Edge";v="139", "Chromium";v="139"', 'Content-Type': 'application/json', 'Sec-Ch-Ua-Mobile': '?0', 'Accept': '*/*', 'Origin': 'http://localhost:5000', 'Sec-Fetch-Site': 'same-origin', 'Sec-Fetch-Mode': 'cors', 'Sec-Fetch-Dest': 'empty', 'Referer': 'http://localhost:5000/', 'Accept-Encoding': 'gzip, deflate, br, zstd', 'Accept-Language': 'zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6', 'Cookie': 'aiqtoolkit-session=session_1755758278981_rgxmoj78g'}
+2025-09-06 18:55:47,476 - __main__ - INFO - 请求体: {"messages":[{"role":"user","content":"研究类型: general\n问题: 深度学习的进展"}],"stream":true}
+2025-09-06 18:55:47,476 - __main__ - INFO - 收到 /chat/stream 请求
+2025-09-06 18:55:47,476 - __main__ - INFO - 请求数据: {'messages': [{'role': 'user', 'content': '研究类型: general\n问题: 深度学习的进展'}], 'stream': True}
+2025-09-06 18:55:47,476 - __main__ - INFO - 尝试连接后端服务: http://localhost:8001/chat/stream
+2025-09-06 18:55:47,479 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): localhost:8001
+2025-09-06 18:55:49,552 - urllib3.connectionpool - DEBUG - http://localhost:8001 "POST /chat/stream HTTP/1.1" 200 None
+2025-09-06 18:55:49,552 - __main__ - INFO - 后端响应状态码: 200
+2025-09-06 18:55:49,552 - __main__ - INFO - 后端响应头: {'date': 'Sat, 06 Sep 2025 10:55:48 GMT', 'server': 'uvicorn', 'content-type': 'text/event-stream; charset=utf-8', 'transfer-encoding': 'chunked'}
+2025-09-06 18:55:49,552 - __main__ - INFO - 响应状态: 200
+2025-09-06 18:55:49,552 - __main__ - INFO - 响应头: {'Content-Type': 'text/event-stream; charset=utf-8'}
+2025-09-06 18:55:49,552 - werkzeug - INFO - 127.0.0.1 - - [06/Sep/2025 18:55:49] "POST /chat/stream HTTP/1.1" 200 -
+2025-09-06 21:07:38,433 - __main__ - INFO - ==================================================
+2025-09-06 21:07:38,433 - __main__ - INFO - Flask 前端服务器启动
+2025-09-06 21:07:38,433 - __main__ - INFO - 当前工作目录: D:\hackathon_aiqtoolkit-main\frontend_new
+2025-09-06 21:07:38,433 - __main__ - INFO - Flask应用目录: D:\hackathon_aiqtoolkit-main\frontend_new
+2025-09-06 21:07:38,433 - __main__ - INFO - 启动时间: 2025-09-06 21:07:38.433113
+2025-09-06 21:07:38,433 - __main__ - INFO - ==================================================
+2025-09-06 21:07:38,435 - __main__ - INFO - 准备启动Flask应用
+2025-09-06 21:07:38,435 - __main__ - INFO - 检查端口5000是否可用...
+2025-09-06 21:07:38,435 - __main__ - INFO - 当前目录内容: ['frontend_debug.log', 'index.html', 'index_save.html', 'index_Save0906.html', 'server.py']
+2025-09-06 21:07:38,435 - __main__ - INFO - 启动Flask应用在 0.0.0.0:5000
+2025-09-06 21:07:38,492 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.9.96:5000
+2025-09-06 21:07:38,493 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-09-06 21:07:38,494 - werkzeug - INFO -  * Restarting with stat
+2025-09-06 21:07:39,375 - __main__ - INFO - ==================================================
+2025-09-06 21:07:39,375 - __main__ - INFO - Flask 前端服务器启动
+2025-09-06 21:07:39,375 - __main__ - INFO - 当前工作目录: D:\hackathon_aiqtoolkit-main\frontend_new
+2025-09-06 21:07:39,375 - __main__ - INFO - Flask应用目录: D:\hackathon_aiqtoolkit-main\frontend_new
+2025-09-06 21:07:39,376 - __main__ - INFO - 启动时间: 2025-09-06 21:07:39.376766
+2025-09-06 21:07:39,376 - __main__ - INFO - ==================================================
+2025-09-06 21:07:39,377 - __main__ - INFO - 准备启动Flask应用
+2025-09-06 21:07:39,377 - __main__ - INFO - 检查端口5000是否可用...
+2025-09-06 21:07:39,378 - __main__ - INFO - 当前目录内容: ['frontend_debug.log', 'index.html', 'index_save.html', 'index_Save0906.html', 'server.py']
+2025-09-06 21:07:39,378 - __main__ - INFO - 启动Flask应用在 0.0.0.0:5000
+2025-09-06 21:07:39,408 - werkzeug - WARNING -  * Debugger is active!
+2025-09-06 21:07:39,419 - werkzeug - INFO -  * Debugger PIN: 322-266-296
+2025-09-06 21:07:42,851 - __main__ - INFO - 收到请求: GET http://localhost:5000/
+2025-09-06 21:07:42,851 - __main__ - INFO - 请求头: {'Host': 'localhost:5000', 'User-Agent': 'curl/8.11.0', 'Accept': '*/*'}
+2025-09-06 21:07:42,851 - __main__ - INFO - 尝试提供 index.html 文件
+2025-09-06 21:07:42,851 - __main__ - INFO - 查找文件路径: D:\hackathon_aiqtoolkit-main\frontend_new\index.html
+2025-09-06 21:07:42,852 - __main__ - INFO - index.html 文件存在，正在提供
+2025-09-06 21:07:42,919 - __main__ - INFO - 响应状态: 200
+2025-09-06 21:07:42,919 - __main__ - INFO - 响应头: {'Content-Disposition': 'inline; filename=index.html', 'Content-Type': 'text/html; charset=utf-8', 'Content-Length': '21077', 'Last-Modified': 'Sat, 06 Sep 2025 13:03:53 GMT', 'Cache-Control': 'no-cache', 'ETag': '"1757163833.022111-21077-1136727319"', 'Date': 'Sat, 06 Sep 2025 13:07:42 GMT'}
+2025-09-06 21:07:42,919 - werkzeug - INFO - 127.0.0.1 - - [06/Sep/2025 21:07:42] "GET / HTTP/1.1" 200 -
+2025-09-06 21:25:50,995 - __main__ - INFO - ==================================================
+2025-09-06 21:25:50,995 - __main__ - INFO - Flask 前端服务器启动
+2025-09-06 21:25:50,995 - __main__ - INFO - 当前工作目录: D:\hackathon_aiqtoolkit-main\frontend_new
+2025-09-06 21:25:50,995 - __main__ - INFO - Flask应用目录: D:\hackathon_aiqtoolkit-main\frontend_new
+2025-09-06 21:25:50,995 - __main__ - INFO - 启动时间: 2025-09-06 21:25:50.995164
+2025-09-06 21:25:50,997 - __main__ - INFO - ==================================================
+2025-09-06 21:25:50,998 - __main__ - INFO - 准备启动Flask应用
+2025-09-06 21:25:50,998 - __main__ - INFO - 检查端口5000是否可用...
+2025-09-06 21:25:50,998 - __main__ - INFO - 当前目录内容: ['frontend_debug.log', 'index.html', 'index_save.html', 'index_Save0906.html', 'server.py']
+2025-09-06 21:25:50,998 - __main__ - INFO - 启动Flask应用在 0.0.0.0:5000
+2025-09-06 21:25:51,042 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.9.96:5000
+2025-09-06 21:25:51,042 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-09-06 21:25:51,044 - werkzeug - INFO -  * Restarting with stat
+2025-09-06 21:25:51,867 - __main__ - INFO - ==================================================
+2025-09-06 21:25:51,867 - __main__ - INFO - Flask 前端服务器启动
+2025-09-06 21:25:51,867 - __main__ - INFO - 当前工作目录: D:\hackathon_aiqtoolkit-main\frontend_new
+2025-09-06 21:25:51,867 - __main__ - INFO - Flask应用目录: D:\hackathon_aiqtoolkit-main\frontend_new
+2025-09-06 21:25:51,867 - __main__ - INFO - 启动时间: 2025-09-06 21:25:51.867769
+2025-09-06 21:25:51,867 - __main__ - INFO - ==================================================
+2025-09-06 21:25:51,869 - __main__ - INFO - 准备启动Flask应用
+2025-09-06 21:25:51,869 - __main__ - INFO - 检查端口5000是否可用...
+2025-09-06 21:25:51,869 - __main__ - INFO - 当前目录内容: ['frontend_debug.log', 'index.html', 'index_save.html', 'index_Save0906.html', 'server.py']
+2025-09-06 21:25:51,869 - __main__ - INFO - 启动Flask应用在 0.0.0.0:5000
+2025-09-06 21:25:51,891 - werkzeug - WARNING -  * Debugger is active!
+2025-09-06 21:25:51,898 - werkzeug - INFO -  * Debugger PIN: 322-266-296
+2025-09-06 21:25:55,552 - __main__ - INFO - 收到请求: GET http://localhost:5000/
+2025-09-06 21:25:55,553 - __main__ - INFO - 请求头: {'Host': 'localhost:5000', 'User-Agent': 'curl/8.11.0', 'Accept': '*/*'}
+2025-09-06 21:25:55,553 - __main__ - INFO - 尝试提供 index.html 文件
+2025-09-06 21:25:55,553 - __main__ - INFO - 查找文件路径: D:\hackathon_aiqtoolkit-main\frontend_new\index.html
+2025-09-06 21:25:55,553 - __main__ - INFO - index.html 文件存在，正在提供
+2025-09-06 21:25:55,598 - __main__ - INFO - 响应状态: 200
+2025-09-06 21:25:55,598 - __main__ - INFO - 响应头: {'Content-Disposition': 'inline; filename=index.html', 'Content-Type': 'text/html; charset=utf-8', 'Content-Length': '21077', 'Last-Modified': 'Sat, 06 Sep 2025 13:03:53 GMT', 'Cache-Control': 'no-cache', 'ETag': '"1757163833.022111-21077-1136727319"', 'Date': 'Sat, 06 Sep 2025 13:25:55 GMT'}
+2025-09-06 21:25:55,598 - werkzeug - INFO - 127.0.0.1 - - [06/Sep/2025 21:25:55] "GET / HTTP/1.1" 200 -
+2025-09-06 21:39:01,086 - __main__ - INFO - ==================================================
+2025-09-06 21:39:01,086 - __main__ - INFO - Flask 前端服务器启动
+2025-09-06 21:39:01,086 - __main__ - INFO - 当前工作目录: D:\hackathon_aiqtoolkit-main\frontend_new
+2025-09-06 21:39:01,086 - __main__ - INFO - Flask应用目录: D:\hackathon_aiqtoolkit-main\frontend_new
+2025-09-06 21:39:01,086 - __main__ - INFO - 启动时间: 2025-09-06 21:39:01.086613
+2025-09-06 21:39:01,086 - __main__ - INFO - ==================================================
+2025-09-06 21:39:01,086 - __main__ - INFO - 准备启动Flask应用
+2025-09-06 21:39:01,086 - __main__ - INFO - 检查端口5000是否可用...
+2025-09-06 21:39:01,086 - __main__ - INFO - 当前目录内容: ['frontend_debug.log', 'index.html', 'index_save.html', 'index_Save0906.html', 'server.py']
+2025-09-06 21:39:01,086 - __main__ - INFO - 启动Flask应用在 0.0.0.0:5000
+2025-09-06 21:39:01,125 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.9.96:5000
+2025-09-06 21:39:01,125 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-09-06 21:39:01,126 - werkzeug - INFO -  * Restarting with stat
+2025-09-06 21:39:01,941 - __main__ - INFO - ==================================================
+2025-09-06 21:39:01,941 - __main__ - INFO - Flask 前端服务器启动
+2025-09-06 21:39:01,941 - __main__ - INFO - 当前工作目录: D:\hackathon_aiqtoolkit-main\frontend_new
+2025-09-06 21:39:01,941 - __main__ - INFO - Flask应用目录: D:\hackathon_aiqtoolkit-main\frontend_new
+2025-09-06 21:39:01,941 - __main__ - INFO - 启动时间: 2025-09-06 21:39:01.941121
+2025-09-06 21:39:01,941 - __main__ - INFO - ==================================================
+2025-09-06 21:39:01,942 - __main__ - INFO - 准备启动Flask应用
+2025-09-06 21:39:01,942 - __main__ - INFO - 检查端口5000是否可用...
+2025-09-06 21:39:01,942 - __main__ - INFO - 当前目录内容: ['frontend_debug.log', 'index.html', 'index_save.html', 'index_Save0906.html', 'server.py']
+2025-09-06 21:39:01,943 - __main__ - INFO - 启动Flask应用在 0.0.0.0:5000
+2025-09-06 21:39:01,970 - werkzeug - WARNING -  * Debugger is active!
+2025-09-06 21:39:01,974 - werkzeug - INFO -  * Debugger PIN: 322-266-296
+2025-09-06 21:39:05,606 - __main__ - INFO - 收到请求: GET http://localhost:5000/
+2025-09-06 21:39:05,606 - __main__ - INFO - 请求头: {'Host': 'localhost:5000', 'User-Agent': 'curl/8.11.0', 'Accept': '*/*'}
+2025-09-06 21:39:05,606 - __main__ - INFO - 尝试提供 index.html 文件
+2025-09-06 21:39:05,607 - __main__ - INFO - 查找文件路径: D:\hackathon_aiqtoolkit-main\frontend_new\index.html
+2025-09-06 21:39:05,607 - __main__ - INFO - index.html 文件存在，正在提供
+2025-09-06 21:39:05,667 - __main__ - INFO - 响应状态: 200
+2025-09-06 21:39:05,668 - __main__ - INFO - 响应头: {'Content-Disposition': 'inline; filename=index.html', 'Content-Type': 'text/html; charset=utf-8', 'Content-Length': '21077', 'Last-Modified': 'Sat, 06 Sep 2025 13:03:53 GMT', 'Cache-Control': 'no-cache', 'ETag': '"1757163833.022111-21077-1136727319"', 'Date': 'Sat, 06 Sep 2025 13:39:05 GMT'}
+2025-09-06 21:39:05,668 - werkzeug - INFO - 127.0.0.1 - - [06/Sep/2025 21:39:05] "GET / HTTP/1.1" 200 -
+2025-09-06 21:50:25,016 - __main__ - INFO - ==================================================
+2025-09-06 21:50:25,016 - __main__ - INFO - Flask 前端服务器启动
+2025-09-06 21:50:25,016 - __main__ - INFO - 当前工作目录: D:\hackathon_aiqtoolkit-main\frontend_new
+2025-09-06 21:50:25,016 - __main__ - INFO - Flask应用目录: D:\hackathon_aiqtoolkit-main\frontend_new
+2025-09-06 21:50:25,016 - __main__ - INFO - 启动时间: 2025-09-06 21:50:25.016091
+2025-09-06 21:50:25,016 - __main__ - INFO - ==================================================
+2025-09-06 21:50:25,017 - __main__ - INFO - 准备启动Flask应用
+2025-09-06 21:50:25,017 - __main__ - INFO - 检查端口5000是否可用...
+2025-09-06 21:50:25,017 - __main__ - INFO - 当前目录内容: ['frontend_debug.log', 'index.html', 'index_save.html', 'index_Save0906.html', 'server.py']
+2025-09-06 21:50:25,018 - __main__ - INFO - 启动Flask应用在 0.0.0.0:5000
+2025-09-06 21:50:25,066 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.9.96:5000
+2025-09-06 21:50:25,066 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-09-06 21:50:25,068 - werkzeug - INFO -  * Restarting with stat
+2025-09-06 21:50:26,051 - __main__ - INFO - ==================================================
+2025-09-06 21:50:26,053 - __main__ - INFO - Flask 前端服务器启动
+2025-09-06 21:50:26,053 - __main__ - INFO - 当前工作目录: D:\hackathon_aiqtoolkit-main\frontend_new
+2025-09-06 21:50:26,053 - __main__ - INFO - Flask应用目录: D:\hackathon_aiqtoolkit-main\frontend_new
+2025-09-06 21:50:26,053 - __main__ - INFO - 启动时间: 2025-09-06 21:50:26.053878
+2025-09-06 21:50:26,053 - __main__ - INFO - ==================================================
+2025-09-06 21:50:26,056 - __main__ - INFO - 准备启动Flask应用
+2025-09-06 21:50:26,056 - __main__ - INFO - 检查端口5000是否可用...
+2025-09-06 21:50:26,056 - __main__ - INFO - 当前目录内容: ['frontend_debug.log', 'index.html', 'index_save.html', 'index_Save0906.html', 'server.py']
+2025-09-06 21:50:26,056 - __main__ - INFO - 启动Flask应用在 0.0.0.0:5000
+2025-09-06 21:50:26,093 - werkzeug - WARNING -  * Debugger is active!
+2025-09-06 21:50:26,098 - werkzeug - INFO -  * Debugger PIN: 322-266-296
+2025-09-06 21:50:29,448 - __main__ - INFO - 收到请求: GET http://localhost:5000/
+2025-09-06 21:50:29,448 - __main__ - INFO - 请求头: {'Host': 'localhost:5000', 'User-Agent': 'curl/8.11.0', 'Accept': '*/*'}
+2025-09-06 21:50:29,448 - __main__ - INFO - 尝试提供 index.html 文件
+2025-09-06 21:50:29,448 - __main__ - INFO - 查找文件路径: D:\hackathon_aiqtoolkit-main\frontend_new\index.html
+2025-09-06 21:50:29,448 - __main__ - INFO - index.html 文件存在，正在提供
+2025-09-06 21:50:29,493 - __main__ - INFO - 响应状态: 200
+2025-09-06 21:50:29,493 - __main__ - INFO - 响应头: {'Content-Disposition': 'inline; filename=index.html', 'Content-Type': 'text/html; charset=utf-8', 'Content-Length': '21077', 'Last-Modified': 'Sat, 06 Sep 2025 13:03:53 GMT', 'Cache-Control': 'no-cache', 'ETag': '"1757163833.022111-21077-1136727319"', 'Date': 'Sat, 06 Sep 2025 13:50:29 GMT'}
+2025-09-06 21:50:29,493 - werkzeug - INFO - 127.0.0.1 - - [06/Sep/2025 21:50:29] "GET / HTTP/1.1" 200 -
+2025-09-06 22:12:02,574 - __main__ - INFO - ==================================================
+2025-09-06 22:12:02,574 - __main__ - INFO - Flask 前端服务器启动
+2025-09-06 22:12:02,574 - __main__ - INFO - 当前工作目录: D:\hackathon_aiqtoolkit-main\frontend_new
+2025-09-06 22:12:02,574 - __main__ - INFO - Flask应用目录: D:\hackathon_aiqtoolkit-main\frontend_new
+2025-09-06 22:12:02,574 - __main__ - INFO - 启动时间: 2025-09-06 22:12:02.574018
+2025-09-06 22:12:02,574 - __main__ - INFO - ==================================================
+2025-09-06 22:12:02,576 - __main__ - INFO - 准备启动Flask应用
+2025-09-06 22:12:02,576 - __main__ - INFO - 检查端口5000是否可用...
+2025-09-06 22:12:02,576 - __main__ - INFO - 当前目录内容: ['frontend_debug.log', 'index.html', 'index_save.html', 'index_Save0906.html', 'server.py']
+2025-09-06 22:12:02,576 - __main__ - INFO - 启动Flask应用在 0.0.0.0:5000
+2025-09-06 22:12:02,619 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.9.96:5000
+2025-09-06 22:12:02,619 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-09-06 22:12:02,623 - werkzeug - INFO -  * Restarting with stat
+2025-09-06 22:12:03,446 - __main__ - INFO - ==================================================
+2025-09-06 22:12:03,446 - __main__ - INFO - Flask 前端服务器启动
+2025-09-06 22:12:03,446 - __main__ - INFO - 当前工作目录: D:\hackathon_aiqtoolkit-main\frontend_new
+2025-09-06 22:12:03,446 - __main__ - INFO - Flask应用目录: D:\hackathon_aiqtoolkit-main\frontend_new
+2025-09-06 22:12:03,446 - __main__ - INFO - 启动时间: 2025-09-06 22:12:03.446104
+2025-09-06 22:12:03,446 - __main__ - INFO - ==================================================
+2025-09-06 22:12:03,451 - __main__ - INFO - 准备启动Flask应用
+2025-09-06 22:12:03,451 - __main__ - INFO - 检查端口5000是否可用...
+2025-09-06 22:12:03,451 - __main__ - INFO - 当前目录内容: ['frontend_debug.log', 'index.html', 'index_save.html', 'index_Save0906.html', 'server.py']
+2025-09-06 22:12:03,451 - __main__ - INFO - 启动Flask应用在 0.0.0.0:5000
+2025-09-06 22:12:03,477 - werkzeug - WARNING -  * Debugger is active!
+2025-09-06 22:12:03,481 - werkzeug - INFO -  * Debugger PIN: 322-266-296
+2025-09-06 22:12:07,085 - __main__ - INFO - 收到请求: GET http://localhost:5000/
+2025-09-06 22:12:07,086 - __main__ - INFO - 请求头: {'Host': 'localhost:5000', 'User-Agent': 'curl/8.11.0', 'Accept': '*/*'}
+2025-09-06 22:12:07,086 - __main__ - INFO - 尝试提供 index.html 文件
+2025-09-06 22:12:07,086 - __main__ - INFO - 查找文件路径: D:\hackathon_aiqtoolkit-main\frontend_new\index.html
+2025-09-06 22:12:07,086 - __main__ - INFO - index.html 文件存在，正在提供
+2025-09-06 22:12:07,131 - __main__ - INFO - 响应状态: 200
+2025-09-06 22:12:07,131 - __main__ - INFO - 响应头: {'Content-Disposition': 'inline; filename=index.html', 'Content-Type': 'text/html; charset=utf-8', 'Content-Length': '21077', 'Last-Modified': 'Sat, 06 Sep 2025 13:03:53 GMT', 'Cache-Control': 'no-cache', 'ETag': '"1757163833.022111-21077-1136727319"', 'Date': 'Sat, 06 Sep 2025 14:12:07 GMT'}
+2025-09-06 22:12:07,131 - werkzeug - INFO - 127.0.0.1 - - [06/Sep/2025 22:12:07] "GET / HTTP/1.1" 200 -
+2025-09-06 22:19:08,172 - __main__ - INFO - ==================================================
+2025-09-06 22:19:08,172 - __main__ - INFO - Flask 前端服务器启动
+2025-09-06 22:19:08,172 - __main__ - INFO - 当前工作目录: D:\hackathon_aiqtoolkit-main\frontend_new
+2025-09-06 22:19:08,172 - __main__ - INFO - Flask应用目录: D:\hackathon_aiqtoolkit-main\frontend_new
+2025-09-06 22:19:08,172 - __main__ - INFO - 启动时间: 2025-09-06 22:19:08.172066
+2025-09-06 22:19:08,172 - __main__ - INFO - ==================================================
+2025-09-06 22:19:08,174 - __main__ - INFO - 准备启动Flask应用
+2025-09-06 22:19:08,174 - __main__ - INFO - 检查端口5000是否可用...
+2025-09-06 22:19:08,175 - __main__ - INFO - 当前目录内容: ['frontend_debug.log', 'index.html', 'index_save.html', 'index_Save0906.html', 'server.py']
+2025-09-06 22:19:08,175 - __main__ - INFO - 启动Flask应用在 0.0.0.0:5000
+2025-09-06 22:19:08,213 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.9.96:5000
+2025-09-06 22:19:08,213 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-09-06 22:19:08,218 - werkzeug - INFO -  * Restarting with stat
+2025-09-06 22:19:09,164 - __main__ - INFO - ==================================================
+2025-09-06 22:19:09,164 - __main__ - INFO - Flask 前端服务器启动
+2025-09-06 22:19:09,164 - __main__ - INFO - 当前工作目录: D:\hackathon_aiqtoolkit-main\frontend_new
+2025-09-06 22:19:09,164 - __main__ - INFO - Flask应用目录: D:\hackathon_aiqtoolkit-main\frontend_new
+2025-09-06 22:19:09,164 - __main__ - INFO - 启动时间: 2025-09-06 22:19:09.164086
+2025-09-06 22:19:09,164 - __main__ - INFO - ==================================================
+2025-09-06 22:19:09,164 - __main__ - INFO - 准备启动Flask应用
+2025-09-06 22:19:09,164 - __main__ - INFO - 检查端口5000是否可用...
+2025-09-06 22:19:09,166 - __main__ - INFO - 当前目录内容: ['frontend_debug.log', 'index.html', 'index_save.html', 'index_Save0906.html', 'server.py']
+2025-09-06 22:19:09,166 - __main__ - INFO - 启动Flask应用在 0.0.0.0:5000
+2025-09-06 22:19:09,193 - werkzeug - WARNING -  * Debugger is active!
+2025-09-06 22:19:09,198 - werkzeug - INFO -  * Debugger PIN: 322-266-296
+2025-09-06 22:19:12,655 - __main__ - INFO - 收到请求: GET http://localhost:5000/
+2025-09-06 22:19:12,658 - __main__ - INFO - 请求头: {'Host': 'localhost:5000', 'User-Agent': 'curl/8.11.0', 'Accept': '*/*'}
+2025-09-06 22:19:12,658 - __main__ - INFO - 尝试提供 index.html 文件
+2025-09-06 22:19:12,658 - __main__ - INFO - 查找文件路径: D:\hackathon_aiqtoolkit-main\frontend_new\index.html
+2025-09-06 22:19:12,658 - __main__ - INFO - index.html 文件存在，正在提供
+2025-09-06 22:19:12,695 - __main__ - INFO - 响应状态: 200
+2025-09-06 22:19:12,695 - __main__ - INFO - 响应头: {'Content-Disposition': 'inline; filename=index.html', 'Content-Type': 'text/html; charset=utf-8', 'Content-Length': '21077', 'Last-Modified': 'Sat, 06 Sep 2025 13:03:53 GMT', 'Cache-Control': 'no-cache', 'ETag': '"1757163833.022111-21077-1136727319"', 'Date': 'Sat, 06 Sep 2025 14:19:12 GMT'}
+2025-09-06 22:19:12,695 - werkzeug - INFO - 127.0.0.1 - - [06/Sep/2025 22:19:12] "GET / HTTP/1.1" 200 -
+2025-09-06 22:19:24,758 - __main__ - INFO - 收到请求: GET http://localhost:5000/
+2025-09-06 22:19:24,758 - __main__ - INFO - 请求头: {'Host': 'localhost:5000', 'Connection': 'keep-alive', 'Sec-Ch-Ua': '"Not;A=Brand";v="99", "Microsoft Edge";v="139", "Chromium";v="139"', 'Sec-Ch-Ua-Mobile': '?0', 'Sec-Ch-Ua-Platform': '"Windows"', 'Upgrade-Insecure-Requests': '1', 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Edg/139.0.0.0', 'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7', 'Sec-Fetch-Site': 'none', 'Sec-Fetch-Mode': 'navigate', 'Sec-Fetch-User': '?1', 'Sec-Fetch-Dest': 'document', 'Accept-Encoding': 'gzip, deflate, br, zstd', 'Accept-Language': 'zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6', 'Cookie': 'aiqtoolkit-session=session_1755758278981_rgxmoj78g', 'If-None-Match': '"1757154851.1070378-20691-1136727319"', 'If-Modified-Since': 'Sat, 06 Sep 2025 10:34:11 GMT'}
+2025-09-06 22:19:24,758 - __main__ - INFO - 尝试提供 index.html 文件
+2025-09-06 22:19:24,758 - __main__ - INFO - 查找文件路径: D:\hackathon_aiqtoolkit-main\frontend_new\index.html
+2025-09-06 22:19:24,758 - __main__ - INFO - index.html 文件存在，正在提供
+2025-09-06 22:19:24,760 - __main__ - INFO - 响应状态: 200
+2025-09-06 22:19:24,760 - __main__ - INFO - 响应头: {'Content-Disposition': 'inline; filename=index.html', 'Content-Type': 'text/html; charset=utf-8', 'Content-Length': '21077', 'Last-Modified': 'Sat, 06 Sep 2025 13:03:53 GMT', 'Cache-Control': 'no-cache', 'ETag': '"1757163833.022111-21077-1136727319"', 'Date': 'Sat, 06 Sep 2025 14:19:24 GMT'}
+2025-09-06 22:19:24,760 - werkzeug - INFO - 127.0.0.1 - - [06/Sep/2025 22:19:24] "GET / HTTP/1.1" 200 -
+2025-09-06 22:19:25,298 - __main__ - INFO - 收到请求: GET http://localhost:5000/favicon.ico
+2025-09-06 22:19:25,298 - __main__ - INFO - 请求头: {'Host': 'localhost:5000', 'Connection': 'keep-alive', 'Sec-Ch-Ua-Platform': '"Windows"', 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Edg/139.0.0.0', 'Sec-Ch-Ua': '"Not;A=Brand";v="99", "Microsoft Edge";v="139", "Chromium";v="139"', 'Sec-Ch-Ua-Mobile': '?0', 'Accept': 'image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8', 'Sec-Fetch-Site': 'same-origin', 'Sec-Fetch-Mode': 'no-cors', 'Sec-Fetch-Dest': 'image', 'Referer': 'http://localhost:5000/', 'Accept-Encoding': 'gzip, deflate, br, zstd', 'Accept-Language': 'zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6', 'Cookie': 'aiqtoolkit-session=session_1755758278981_rgxmoj78g', 'If-None-Match': '"1757154851.1070378-20691-1136727319"', 'If-Modified-Since': 'Sat, 06 Sep 2025 10:34:11 GMT'}
+2025-09-06 22:19:25,298 - __main__ - INFO - 尝试提供静态文件: favicon.ico
+2025-09-06 22:19:25,299 - __main__ - INFO - 完整文件路径: D:\hackathon_aiqtoolkit-main\frontend_new\favicon.ico
+2025-09-06 22:19:25,299 - __main__ - WARNING - 文件不存在: favicon.ico，回退到 index.html
+2025-09-06 22:19:25,299 - __main__ - INFO - 响应状态: 200
+2025-09-06 22:19:25,299 - __main__ - INFO - 响应头: {'Content-Disposition': 'inline; filename=index.html', 'Content-Type': 'text/html; charset=utf-8', 'Content-Length': '21077', 'Last-Modified': 'Sat, 06 Sep 2025 13:03:53 GMT', 'Cache-Control': 'no-cache', 'ETag': '"1757163833.022111-21077-1136727319"', 'Date': 'Sat, 06 Sep 2025 14:19:25 GMT'}
+2025-09-06 22:19:25,299 - werkzeug - INFO - 127.0.0.1 - - [06/Sep/2025 22:19:25] "GET /favicon.ico HTTP/1.1" 200 -
+2025-09-06 22:19:32,488 - __main__ - INFO - 收到请求: POST http://localhost:5000/chat/stream?filter_steps=LLM_END,TOOL_END
+2025-09-06 22:19:32,488 - __main__ - INFO - 请求头: {'Host': 'localhost:5000', 'Connection': 'keep-alive', 'Content-Length': '109', 'Sec-Ch-Ua-Platform': '"Windows"', 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Edg/139.0.0.0', 'Sec-Ch-Ua': '"Not;A=Brand";v="99", "Microsoft Edge";v="139", "Chromium";v="139"', 'Content-Type': 'application/json', 'Sec-Ch-Ua-Mobile': '?0', 'Accept': '*/*', 'Origin': 'http://localhost:5000', 'Sec-Fetch-Site': 'same-origin', 'Sec-Fetch-Mode': 'cors', 'Sec-Fetch-Dest': 'empty', 'Referer': 'http://localhost:5000/', 'Accept-Encoding': 'gzip, deflate, br, zstd', 'Accept-Language': 'zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6', 'Cookie': 'aiqtoolkit-session=session_1755758278981_rgxmoj78g'}
+2025-09-06 22:19:32,489 - __main__ - INFO - 请求体: {"messages":[{"role":"user","content":"研究类型: general\n问题: 深度学习的进展"}],"stream":true}
+2025-09-06 22:19:32,489 - __main__ - INFO - 收到 /chat/stream 请求
+2025-09-06 22:19:32,489 - __main__ - INFO - 请求数据: {'messages': [{'role': 'user', 'content': '研究类型: general\n问题: 深度学习的进展'}], 'stream': True}
+2025-09-06 22:19:32,489 - __main__ - INFO - 尝试连接后端服务: http://localhost:8001/chat/stream
+2025-09-06 22:19:32,495 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): localhost:8001
+2025-09-06 22:19:34,570 - urllib3.connectionpool - DEBUG - http://localhost:8001 "POST /chat/stream HTTP/1.1" 200 None
+2025-09-06 22:19:34,570 - __main__ - INFO - 后端响应状态码: 200
+2025-09-06 22:19:34,570 - __main__ - INFO - 后端响应头: {'date': 'Sat, 06 Sep 2025 14:19:33 GMT', 'server': 'uvicorn', 'content-type': 'text/event-stream; charset=utf-8', 'transfer-encoding': 'chunked'}
+2025-09-06 22:19:34,570 - __main__ - INFO - 响应状态: 200
+2025-09-06 22:19:34,570 - __main__ - INFO - 响应头: {'Content-Type': 'text/event-stream; charset=utf-8'}
+2025-09-06 22:19:34,570 - werkzeug - INFO - 127.0.0.1 - - [06/Sep/2025 22:19:34] "POST /chat/stream?filter_steps=LLM_END,TOOL_END HTTP/1.1" 200 -
+2025-09-06 22:26:49,991 - __main__ - INFO - ==================================================
+2025-09-06 22:26:49,991 - __main__ - INFO - Flask 前端服务器启动
+2025-09-06 22:26:49,991 - __main__ - INFO - 当前工作目录: D:\hackathon_aiqtoolkit-main\frontend_new
+2025-09-06 22:26:49,991 - __main__ - INFO - Flask应用目录: D:\hackathon_aiqtoolkit-main\frontend_new
+2025-09-06 22:26:49,991 - __main__ - INFO - 启动时间: 2025-09-06 22:26:49.991705
+2025-09-06 22:26:49,991 - __main__ - INFO - ==================================================
+2025-09-06 22:26:49,993 - __main__ - INFO - 准备启动Flask应用
+2025-09-06 22:26:49,993 - __main__ - INFO - 检查端口5000是否可用...
+2025-09-06 22:26:49,993 - __main__ - INFO - 当前目录内容: ['frontend_debug.log', 'index.html', 'index_save.html', 'index_Save0906.html', 'server.py']
+2025-09-06 22:26:49,993 - __main__ - INFO - 启动Flask应用在 0.0.0.0:5000
+2025-09-06 22:26:50,045 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.9.96:5000
+2025-09-06 22:26:50,045 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-09-06 22:26:50,045 - werkzeug - INFO -  * Restarting with stat
+2025-09-06 22:26:51,057 - __main__ - INFO - ==================================================
+2025-09-06 22:26:51,057 - __main__ - INFO - Flask 前端服务器启动
+2025-09-06 22:26:51,057 - __main__ - INFO - 当前工作目录: D:\hackathon_aiqtoolkit-main\frontend_new
+2025-09-06 22:26:51,057 - __main__ - INFO - Flask应用目录: D:\hackathon_aiqtoolkit-main\frontend_new
+2025-09-06 22:26:51,058 - __main__ - INFO - 启动时间: 2025-09-06 22:26:51.058860
+2025-09-06 22:26:51,058 - __main__ - INFO - ==================================================
+2025-09-06 22:26:51,059 - __main__ - INFO - 准备启动Flask应用
+2025-09-06 22:26:51,059 - __main__ - INFO - 检查端口5000是否可用...
+2025-09-06 22:26:51,059 - __main__ - INFO - 当前目录内容: ['frontend_debug.log', 'index.html', 'index_save.html', 'index_Save0906.html', 'server.py']
+2025-09-06 22:26:51,059 - __main__ - INFO - 启动Flask应用在 0.0.0.0:5000
+2025-09-06 22:26:51,085 - werkzeug - WARNING -  * Debugger is active!
+2025-09-06 22:26:51,091 - werkzeug - INFO -  * Debugger PIN: 322-266-296
+2025-09-06 22:26:54,203 - __main__ - INFO - 收到请求: GET http://localhost:5000/
+2025-09-06 22:26:54,203 - __main__ - INFO - 请求头: {'Host': 'localhost:5000', 'User-Agent': 'curl/8.11.0', 'Accept': '*/*'}
+2025-09-06 22:26:54,203 - __main__ - INFO - 尝试提供 index.html 文件
+2025-09-06 22:26:54,203 - __main__ - INFO - 查找文件路径: D:\hackathon_aiqtoolkit-main\frontend_new\index.html
+2025-09-06 22:26:54,203 - __main__ - INFO - index.html 文件存在，正在提供
+2025-09-06 22:26:54,254 - __main__ - INFO - 响应状态: 200
+2025-09-06 22:26:54,255 - __main__ - INFO - 响应头: {'Content-Disposition': 'inline; filename=index.html', 'Content-Type': 'text/html; charset=utf-8', 'Content-Length': '21077', 'Last-Modified': 'Sat, 06 Sep 2025 13:03:53 GMT', 'Cache-Control': 'no-cache', 'ETag': '"1757163833.022111-21077-1136727319"', 'Date': 'Sat, 06 Sep 2025 14:26:54 GMT'}
+2025-09-06 22:26:54,255 - werkzeug - INFO - 127.0.0.1 - - [06/Sep/2025 22:26:54] "GET / HTTP/1.1" 200 -
+2025-09-06 22:27:01,547 - __main__ - INFO - 收到请求: GET http://localhost:5000/
+2025-09-06 22:27:01,547 - __main__ - INFO - 请求头: {'Host': 'localhost:5000', 'Connection': 'keep-alive', 'Sec-Ch-Ua': '"Not;A=Brand";v="99", "Microsoft Edge";v="139", "Chromium";v="139"', 'Sec-Ch-Ua-Mobile': '?0', 'Sec-Ch-Ua-Platform': '"Windows"', 'Upgrade-Insecure-Requests': '1', 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Edg/139.0.0.0', 'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7', 'Sec-Fetch-Site': 'none', 'Sec-Fetch-Mode': 'navigate', 'Sec-Fetch-User': '?1', 'Sec-Fetch-Dest': 'document', 'Accept-Encoding': 'gzip, deflate, br, zstd', 'Accept-Language': 'zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6', 'Cookie': 'aiqtoolkit-session=session_1755758278981_rgxmoj78g', 'If-None-Match': '"1757163833.022111-21077-1136727319"', 'If-Modified-Since': 'Sat, 06 Sep 2025 13:03:53 GMT'}
+2025-09-06 22:27:01,547 - __main__ - INFO - 尝试提供 index.html 文件
+2025-09-06 22:27:01,547 - __main__ - INFO - 查找文件路径: D:\hackathon_aiqtoolkit-main\frontend_new\index.html
+2025-09-06 22:27:01,547 - __main__ - INFO - index.html 文件存在，正在提供
+2025-09-06 22:27:01,547 - __main__ - INFO - 响应状态: 304
+2025-09-06 22:27:01,547 - __main__ - INFO - 响应头: {'Content-Disposition': 'inline; filename=index.html', 'Content-Type': 'text/html; charset=utf-8', 'Content-Length': '21077', 'Last-Modified': 'Sat, 06 Sep 2025 13:03:53 GMT', 'Cache-Control': 'no-cache', 'ETag': '"1757163833.022111-21077-1136727319"', 'Date': 'Sat, 06 Sep 2025 14:27:01 GMT'}
+2025-09-06 22:27:01,547 - werkzeug - INFO - 127.0.0.1 - - [06/Sep/2025 22:27:01] "[36mGET / HTTP/1.1[0m" 304 -
+2025-09-06 22:27:02,294 - __main__ - INFO - 收到请求: GET http://localhost:5000/favicon.ico
+2025-09-06 22:27:02,294 - __main__ - INFO - 请求头: {'Host': 'localhost:5000', 'Connection': 'keep-alive', 'Sec-Ch-Ua-Platform': '"Windows"', 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Edg/139.0.0.0', 'Sec-Ch-Ua': '"Not;A=Brand";v="99", "Microsoft Edge";v="139", "Chromium";v="139"', 'Sec-Ch-Ua-Mobile': '?0', 'Accept': 'image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8', 'Sec-Fetch-Site': 'same-origin', 'Sec-Fetch-Mode': 'no-cors', 'Sec-Fetch-Dest': 'image', 'Referer': 'http://localhost:5000/', 'Accept-Encoding': 'gzip, deflate, br, zstd', 'Accept-Language': 'zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6', 'Cookie': 'aiqtoolkit-session=session_1755758278981_rgxmoj78g', 'If-None-Match': '"1757163833.022111-21077-1136727319"', 'If-Modified-Since': 'Sat, 06 Sep 2025 13:03:53 GMT'}
+2025-09-06 22:27:02,294 - __main__ - INFO - 尝试提供静态文件: favicon.ico
+2025-09-06 22:27:02,294 - __main__ - INFO - 完整文件路径: D:\hackathon_aiqtoolkit-main\frontend_new\favicon.ico
+2025-09-06 22:27:02,294 - __main__ - WARNING - 文件不存在: favicon.ico，回退到 index.html
+2025-09-06 22:27:02,294 - __main__ - INFO - 响应状态: 304
+2025-09-06 22:27:02,294 - __main__ - INFO - 响应头: {'Content-Disposition': 'inline; filename=index.html', 'Content-Type': 'text/html; charset=utf-8', 'Content-Length': '21077', 'Last-Modified': 'Sat, 06 Sep 2025 13:03:53 GMT', 'Cache-Control': 'no-cache', 'ETag': '"1757163833.022111-21077-1136727319"', 'Date': 'Sat, 06 Sep 2025 14:27:02 GMT'}
+2025-09-06 22:27:02,294 - werkzeug - INFO - 127.0.0.1 - - [06/Sep/2025 22:27:02] "[36mGET /favicon.ico HTTP/1.1[0m" 304 -
+2025-09-06 22:27:14,671 - __main__ - INFO - 收到请求: POST http://localhost:5000/chat/stream?filter_steps=LLM_END,TOOL_END
+2025-09-06 22:27:14,671 - __main__ - INFO - 请求头: {'Host': 'localhost:5000', 'Connection': 'keep-alive', 'Content-Length': '109', 'Sec-Ch-Ua-Platform': '"Windows"', 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Edg/139.0.0.0', 'Sec-Ch-Ua': '"Not;A=Brand";v="99", "Microsoft Edge";v="139", "Chromium";v="139"', 'Content-Type': 'application/json', 'Sec-Ch-Ua-Mobile': '?0', 'Accept': '*/*', 'Origin': 'http://localhost:5000', 'Sec-Fetch-Site': 'same-origin', 'Sec-Fetch-Mode': 'cors', 'Sec-Fetch-Dest': 'empty', 'Referer': 'http://localhost:5000/', 'Accept-Encoding': 'gzip, deflate, br, zstd', 'Accept-Language': 'zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6', 'Cookie': 'aiqtoolkit-session=session_1755758278981_rgxmoj78g'}
+2025-09-06 22:27:14,672 - __main__ - INFO - 请求体: {"messages":[{"role":"user","content":"研究类型: general\n问题: 深度学习的进展"}],"stream":true}
+2025-09-06 22:27:14,672 - __main__ - INFO - 收到 /chat/stream 请求
+2025-09-06 22:27:14,672 - __main__ - INFO - 请求数据: {'messages': [{'role': 'user', 'content': '研究类型: general\n问题: 深度学习的进展'}], 'stream': True}
+2025-09-06 22:27:14,672 - __main__ - INFO - 尝试连接后端服务: http://localhost:8001/chat/stream
+2025-09-06 22:27:14,675 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): localhost:8001
+2025-09-06 22:27:16,718 - urllib3.connectionpool - DEBUG - http://localhost:8001 "POST /chat/stream HTTP/1.1" 200 None
+2025-09-06 22:27:16,718 - __main__ - INFO - 后端响应状态码: 200
+2025-09-06 22:27:16,718 - __main__ - INFO - 后端响应头: {'date': 'Sat, 06 Sep 2025 14:27:15 GMT', 'server': 'uvicorn', 'content-type': 'text/event-stream; charset=utf-8', 'transfer-encoding': 'chunked'}
+2025-09-06 22:27:16,719 - __main__ - INFO - 响应状态: 200
+2025-09-06 22:27:16,719 - __main__ - INFO - 响应头: {'Content-Type': 'text/event-stream; charset=utf-8'}
+2025-09-06 22:27:16,720 - werkzeug - INFO - 127.0.0.1 - - [06/Sep/2025 22:27:16] "POST /chat/stream?filter_steps=LLM_END,TOOL_END HTTP/1.1" 200 -
+2025-09-06 22:35:29,858 - __main__ - INFO - ==================================================
+2025-09-06 22:35:29,858 - __main__ - INFO - Flask 前端服务器启动
+2025-09-06 22:35:29,858 - __main__ - INFO - 当前工作目录: D:\hackathon_aiqtoolkit-main\frontend_new
+2025-09-06 22:35:29,858 - __main__ - INFO - Flask应用目录: D:\hackathon_aiqtoolkit-main\frontend_new
+2025-09-06 22:35:29,860 - __main__ - INFO - 启动时间: 2025-09-06 22:35:29.860314
+2025-09-06 22:35:29,860 - __main__ - INFO - ==================================================
+2025-09-06 22:35:29,860 - __main__ - INFO - 准备启动Flask应用
+2025-09-06 22:35:29,860 - __main__ - INFO - 检查端口5000是否可用...
+2025-09-06 22:35:29,860 - __main__ - INFO - 当前目录内容: ['frontend_debug.log', 'index.html', 'index_save.html', 'index_Save0906.html', 'server.py']
+2025-09-06 22:35:29,860 - __main__ - INFO - 启动Flask应用在 0.0.0.0:5000
+2025-09-06 22:35:29,907 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.9.96:5000
+2025-09-06 22:35:29,907 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-09-06 22:35:29,912 - werkzeug - INFO -  * Restarting with stat
+2025-09-06 22:35:30,738 - __main__ - INFO - ==================================================
+2025-09-06 22:35:30,738 - __main__ - INFO - Flask 前端服务器启动
+2025-09-06 22:35:30,738 - __main__ - INFO - 当前工作目录: D:\hackathon_aiqtoolkit-main\frontend_new
+2025-09-06 22:35:30,738 - __main__ - INFO - Flask应用目录: D:\hackathon_aiqtoolkit-main\frontend_new
+2025-09-06 22:35:30,738 - __main__ - INFO - 启动时间: 2025-09-06 22:35:30.738828
+2025-09-06 22:35:30,738 - __main__ - INFO - ==================================================
+2025-09-06 22:35:30,738 - __main__ - INFO - 准备启动Flask应用
+2025-09-06 22:35:30,738 - __main__ - INFO - 检查端口5000是否可用...
+2025-09-06 22:35:30,738 - __main__ - INFO - 当前目录内容: ['frontend_debug.log', 'index.html', 'index_save.html', 'index_Save0906.html', 'server.py']
+2025-09-06 22:35:30,738 - __main__ - INFO - 启动Flask应用在 0.0.0.0:5000
+2025-09-06 22:35:30,766 - werkzeug - WARNING -  * Debugger is active!
+2025-09-06 22:35:30,769 - werkzeug - INFO -  * Debugger PIN: 322-266-296
+2025-09-06 22:35:34,361 - __main__ - INFO - 收到请求: GET http://localhost:5000/
+2025-09-06 22:35:34,361 - __main__ - INFO - 请求头: {'Host': 'localhost:5000', 'User-Agent': 'curl/8.11.0', 'Accept': '*/*'}
+2025-09-06 22:35:34,361 - __main__ - INFO - 尝试提供 index.html 文件
+2025-09-06 22:35:34,361 - __main__ - INFO - 查找文件路径: D:\hackathon_aiqtoolkit-main\frontend_new\index.html
+2025-09-06 22:35:34,361 - __main__ - INFO - index.html 文件存在，正在提供
+2025-09-06 22:35:34,416 - __main__ - INFO - 响应状态: 200
+2025-09-06 22:35:34,416 - __main__ - INFO - 响应头: {'Content-Disposition': 'inline; filename=index.html', 'Content-Type': 'text/html; charset=utf-8', 'Content-Length': '21077', 'Last-Modified': 'Sat, 06 Sep 2025 13:03:53 GMT', 'Cache-Control': 'no-cache', 'ETag': '"1757163833.022111-21077-1136727319"', 'Date': 'Sat, 06 Sep 2025 14:35:34 GMT'}
+2025-09-06 22:35:34,416 - werkzeug - INFO - 127.0.0.1 - - [06/Sep/2025 22:35:34] "GET / HTTP/1.1" 200 -
+2025-09-06 22:35:44,633 - __main__ - INFO - 收到请求: GET http://localhost:5000/
+2025-09-06 22:35:44,633 - __main__ - INFO - 请求头: {'Host': 'localhost:5000', 'Connection': 'keep-alive', 'Sec-Ch-Ua': '"Not;A=Brand";v="99", "Microsoft Edge";v="139", "Chromium";v="139"', 'Sec-Ch-Ua-Mobile': '?0', 'Sec-Ch-Ua-Platform': '"Windows"', 'Upgrade-Insecure-Requests': '1', 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Edg/139.0.0.0', 'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7', 'Sec-Fetch-Site': 'none', 'Sec-Fetch-Mode': 'navigate', 'Sec-Fetch-User': '?1', 'Sec-Fetch-Dest': 'document', 'Accept-Encoding': 'gzip, deflate, br, zstd', 'Accept-Language': 'zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6', 'Cookie': 'aiqtoolkit-session=session_1755758278981_rgxmoj78g', 'If-None-Match': '"1757163833.022111-21077-1136727319"', 'If-Modified-Since': 'Sat, 06 Sep 2025 13:03:53 GMT'}
+2025-09-06 22:35:44,633 - __main__ - INFO - 尝试提供 index.html 文件
+2025-09-06 22:35:44,633 - __main__ - INFO - 查找文件路径: D:\hackathon_aiqtoolkit-main\frontend_new\index.html
+2025-09-06 22:35:44,633 - __main__ - INFO - index.html 文件存在，正在提供
+2025-09-06 22:35:44,633 - __main__ - INFO - 响应状态: 304
+2025-09-06 22:35:44,633 - __main__ - INFO - 响应头: {'Content-Disposition': 'inline; filename=index.html', 'Content-Type': 'text/html; charset=utf-8', 'Content-Length': '21077', 'Last-Modified': 'Sat, 06 Sep 2025 13:03:53 GMT', 'Cache-Control': 'no-cache', 'ETag': '"1757163833.022111-21077-1136727319"', 'Date': 'Sat, 06 Sep 2025 14:35:44 GMT'}
+2025-09-06 22:35:44,633 - werkzeug - INFO - 127.0.0.1 - - [06/Sep/2025 22:35:44] "[36mGET / HTTP/1.1[0m" 304 -
+2025-09-06 22:35:45,026 - __main__ - INFO - 收到请求: GET http://localhost:5000/favicon.ico
+2025-09-06 22:35:45,026 - __main__ - INFO - 请求头: {'Host': 'localhost:5000', 'Connection': 'keep-alive', 'Sec-Ch-Ua-Platform': '"Windows"', 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Edg/139.0.0.0', 'Sec-Ch-Ua': '"Not;A=Brand";v="99", "Microsoft Edge";v="139", "Chromium";v="139"', 'Sec-Ch-Ua-Mobile': '?0', 'Accept': 'image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8', 'Sec-Fetch-Site': 'same-origin', 'Sec-Fetch-Mode': 'no-cors', 'Sec-Fetch-Dest': 'image', 'Referer': 'http://localhost:5000/', 'Accept-Encoding': 'gzip, deflate, br, zstd', 'Accept-Language': 'zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6', 'Cookie': 'aiqtoolkit-session=session_1755758278981_rgxmoj78g', 'If-None-Match': '"1757163833.022111-21077-1136727319"', 'If-Modified-Since': 'Sat, 06 Sep 2025 13:03:53 GMT'}
+2025-09-06 22:35:45,026 - __main__ - INFO - 尝试提供静态文件: favicon.ico
+2025-09-06 22:35:45,026 - __main__ - INFO - 完整文件路径: D:\hackathon_aiqtoolkit-main\frontend_new\favicon.ico
+2025-09-06 22:35:45,026 - __main__ - WARNING - 文件不存在: favicon.ico，回退到 index.html
+2025-09-06 22:35:45,026 - __main__ - INFO - 响应状态: 304
+2025-09-06 22:35:45,026 - __main__ - INFO - 响应头: {'Content-Disposition': 'inline; filename=index.html', 'Content-Type': 'text/html; charset=utf-8', 'Content-Length': '21077', 'Last-Modified': 'Sat, 06 Sep 2025 13:03:53 GMT', 'Cache-Control': 'no-cache', 'ETag': '"1757163833.022111-21077-1136727319"', 'Date': 'Sat, 06 Sep 2025 14:35:45 GMT'}
+2025-09-06 22:35:45,026 - werkzeug - INFO - 127.0.0.1 - - [06/Sep/2025 22:35:45] "[36mGET /favicon.ico HTTP/1.1[0m" 304 -
+2025-09-06 22:35:51,524 - __main__ - INFO - 收到请求: POST http://localhost:5000/chat/stream?filter_steps=LLM_END,TOOL_END
+2025-09-06 22:35:51,524 - __main__ - INFO - 请求头: {'Host': 'localhost:5000', 'Connection': 'keep-alive', 'Content-Length': '109', 'Sec-Ch-Ua-Platform': '"Windows"', 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Edg/139.0.0.0', 'Sec-Ch-Ua': '"Not;A=Brand";v="99", "Microsoft Edge";v="139", "Chromium";v="139"', 'Content-Type': 'application/json', 'Sec-Ch-Ua-Mobile': '?0', 'Accept': '*/*', 'Origin': 'http://localhost:5000', 'Sec-Fetch-Site': 'same-origin', 'Sec-Fetch-Mode': 'cors', 'Sec-Fetch-Dest': 'empty', 'Referer': 'http://localhost:5000/', 'Accept-Encoding': 'gzip, deflate, br, zstd', 'Accept-Language': 'zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6', 'Cookie': 'aiqtoolkit-session=session_1755758278981_rgxmoj78g'}
+2025-09-06 22:35:51,524 - __main__ - INFO - 请求体: {"messages":[{"role":"user","content":"研究类型: general\n问题: 深度学习的进展"}],"stream":true}
+2025-09-06 22:35:51,524 - __main__ - INFO - 收到 /chat/stream 请求
+2025-09-06 22:35:51,524 - __main__ - INFO - 请求数据: {'messages': [{'role': 'user', 'content': '研究类型: general\n问题: 深度学习的进展'}], 'stream': True}
+2025-09-06 22:35:51,524 - __main__ - INFO - 尝试连接后端服务: http://localhost:8001/chat/stream
+2025-09-06 22:35:51,528 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): localhost:8001
+2025-09-06 22:35:53,591 - urllib3.connectionpool - DEBUG - http://localhost:8001 "POST /chat/stream HTTP/1.1" 200 None
+2025-09-06 22:35:53,591 - __main__ - INFO - 后端响应状态码: 200
+2025-09-06 22:35:53,591 - __main__ - INFO - 后端响应头: {'date': 'Sat, 06 Sep 2025 14:35:52 GMT', 'server': 'uvicorn', 'content-type': 'text/event-stream; charset=utf-8', 'transfer-encoding': 'chunked'}
+2025-09-06 22:35:53,591 - __main__ - INFO - 响应状态: 200
+2025-09-06 22:35:53,591 - __main__ - INFO - 响应头: {'Content-Type': 'text/event-stream; charset=utf-8'}
+2025-09-06 22:35:53,593 - werkzeug - INFO - 127.0.0.1 - - [06/Sep/2025 22:35:53] "POST /chat/stream?filter_steps=LLM_END,TOOL_END HTTP/1.1" 200 -
+2025-09-06 22:39:31,970 - __main__ - INFO - ==================================================
+2025-09-06 22:39:31,970 - __main__ - INFO - Flask 前端服务器启动
+2025-09-06 22:39:31,970 - __main__ - INFO - 当前工作目录: D:\hackathon_aiqtoolkit-main\frontend_new
+2025-09-06 22:39:31,970 - __main__ - INFO - Flask应用目录: D:\hackathon_aiqtoolkit-main\frontend_new
+2025-09-06 22:39:31,970 - __main__ - INFO - 启动时间: 2025-09-06 22:39:31.970078
+2025-09-06 22:39:31,970 - __main__ - INFO - ==================================================
+2025-09-06 22:39:31,973 - __main__ - INFO - 准备启动Flask应用
+2025-09-06 22:39:31,973 - __main__ - INFO - 检查端口5000是否可用...
+2025-09-06 22:39:31,973 - __main__ - INFO - 当前目录内容: ['frontend_debug.log', 'index.html', 'index_save.html', 'index_Save0906.html', 'server.py']
+2025-09-06 22:39:31,973 - __main__ - INFO - 启动Flask应用在 0.0.0.0:5000
+2025-09-06 22:39:32,022 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.9.96:5000
+2025-09-06 22:39:32,022 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-09-06 22:39:32,028 - werkzeug - INFO -  * Restarting with stat
+2025-09-06 22:39:32,911 - __main__ - INFO - ==================================================
+2025-09-06 22:39:32,911 - __main__ - INFO - Flask 前端服务器启动
+2025-09-06 22:39:32,911 - __main__ - INFO - 当前工作目录: D:\hackathon_aiqtoolkit-main\frontend_new
+2025-09-06 22:39:32,911 - __main__ - INFO - Flask应用目录: D:\hackathon_aiqtoolkit-main\frontend_new
+2025-09-06 22:39:32,911 - __main__ - INFO - 启动时间: 2025-09-06 22:39:32.911257
+2025-09-06 22:39:32,911 - __main__ - INFO - ==================================================
+2025-09-06 22:39:32,913 - __main__ - INFO - 准备启动Flask应用
+2025-09-06 22:39:32,913 - __main__ - INFO - 检查端口5000是否可用...
+2025-09-06 22:39:32,913 - __main__ - INFO - 当前目录内容: ['frontend_debug.log', 'index.html', 'index_save.html', 'index_Save0906.html', 'server.py']
+2025-09-06 22:39:32,913 - __main__ - INFO - 启动Flask应用在 0.0.0.0:5000
+2025-09-06 22:39:32,952 - werkzeug - WARNING -  * Debugger is active!
+2025-09-06 22:39:32,961 - werkzeug - INFO -  * Debugger PIN: 322-266-296
+2025-09-06 22:39:36,389 - __main__ - INFO - 收到请求: GET http://localhost:5000/
+2025-09-06 22:39:36,389 - __main__ - INFO - 请求头: {'Host': 'localhost:5000', 'User-Agent': 'curl/8.11.0', 'Accept': '*/*'}
+2025-09-06 22:39:36,389 - __main__ - INFO - 尝试提供 index.html 文件
+2025-09-06 22:39:36,389 - __main__ - INFO - 查找文件路径: D:\hackathon_aiqtoolkit-main\frontend_new\index.html
+2025-09-06 22:39:36,389 - __main__ - INFO - index.html 文件存在，正在提供
+2025-09-06 22:39:36,460 - __main__ - INFO - 响应状态: 200
+2025-09-06 22:39:36,460 - __main__ - INFO - 响应头: {'Content-Disposition': 'inline; filename=index.html', 'Content-Type': 'text/html; charset=utf-8', 'Content-Length': '21077', 'Last-Modified': 'Sat, 06 Sep 2025 13:03:53 GMT', 'Cache-Control': 'no-cache', 'ETag': '"1757163833.022111-21077-1136727319"', 'Date': 'Sat, 06 Sep 2025 14:39:36 GMT'}
+2025-09-06 22:39:36,460 - werkzeug - INFO - 127.0.0.1 - - [06/Sep/2025 22:39:36] "GET / HTTP/1.1" 200 -
+2025-09-06 22:40:56,460 - __main__ - INFO - 收到请求: GET http://localhost:5000/
+2025-09-06 22:40:56,460 - __main__ - INFO - 请求头: {'Host': 'localhost:5000', 'Connection': 'keep-alive', 'Sec-Ch-Ua': '"Not;A=Brand";v="99", "Microsoft Edge";v="139", "Chromium";v="139"', 'Sec-Ch-Ua-Mobile': '?0', 'Sec-Ch-Ua-Platform': '"Windows"', 'Upgrade-Insecure-Requests': '1', 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Edg/139.0.0.0', 'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7', 'Sec-Fetch-Site': 'none', 'Sec-Fetch-Mode': 'navigate', 'Sec-Fetch-User': '?1', 'Sec-Fetch-Dest': 'document', 'Accept-Encoding': 'gzip, deflate, br, zstd', 'Accept-Language': 'zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6', 'Cookie': 'aiqtoolkit-session=session_1755758278981_rgxmoj78g', 'If-None-Match': '"1757163833.022111-21077-1136727319"', 'If-Modified-Since': 'Sat, 06 Sep 2025 13:03:53 GMT'}
+2025-09-06 22:40:56,460 - __main__ - INFO - 尝试提供 index.html 文件
+2025-09-06 22:40:56,460 - __main__ - INFO - 查找文件路径: D:\hackathon_aiqtoolkit-main\frontend_new\index.html
+2025-09-06 22:40:56,460 - __main__ - INFO - index.html 文件存在，正在提供
+2025-09-06 22:40:56,460 - __main__ - INFO - 响应状态: 304
+2025-09-06 22:40:56,460 - __main__ - INFO - 响应头: {'Content-Disposition': 'inline; filename=index.html', 'Content-Type': 'text/html; charset=utf-8', 'Content-Length': '21077', 'Last-Modified': 'Sat, 06 Sep 2025 13:03:53 GMT', 'Cache-Control': 'no-cache', 'ETag': '"1757163833.022111-21077-1136727319"', 'Date': 'Sat, 06 Sep 2025 14:40:56 GMT'}
+2025-09-06 22:40:56,460 - werkzeug - INFO - 127.0.0.1 - - [06/Sep/2025 22:40:56] "[36mGET / HTTP/1.1[0m" 304 -
+2025-09-06 22:40:56,798 - __main__ - INFO - 收到请求: GET http://localhost:5000/favicon.ico
+2025-09-06 22:40:56,799 - __main__ - INFO - 请求头: {'Host': 'localhost:5000', 'Connection': 'keep-alive', 'Sec-Ch-Ua-Platform': '"Windows"', 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Edg/139.0.0.0', 'Sec-Ch-Ua': '"Not;A=Brand";v="99", "Microsoft Edge";v="139", "Chromium";v="139"', 'Sec-Ch-Ua-Mobile': '?0', 'Accept': 'image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8', 'Sec-Fetch-Site': 'same-origin', 'Sec-Fetch-Mode': 'no-cors', 'Sec-Fetch-Dest': 'image', 'Referer': 'http://localhost:5000/', 'Accept-Encoding': 'gzip, deflate, br, zstd', 'Accept-Language': 'zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6', 'Cookie': 'aiqtoolkit-session=session_1755758278981_rgxmoj78g', 'If-None-Match': '"1757163833.022111-21077-1136727319"', 'If-Modified-Since': 'Sat, 06 Sep 2025 13:03:53 GMT'}
+2025-09-06 22:40:56,799 - __main__ - INFO - 尝试提供静态文件: favicon.ico
+2025-09-06 22:40:56,799 - __main__ - INFO - 完整文件路径: D:\hackathon_aiqtoolkit-main\frontend_new\favicon.ico
+2025-09-06 22:40:56,799 - __main__ - WARNING - 文件不存在: favicon.ico，回退到 index.html
+2025-09-06 22:40:56,800 - __main__ - INFO - 响应状态: 304
+2025-09-06 22:40:56,800 - __main__ - INFO - 响应头: {'Content-Disposition': 'inline; filename=index.html', 'Content-Type': 'text/html; charset=utf-8', 'Content-Length': '21077', 'Last-Modified': 'Sat, 06 Sep 2025 13:03:53 GMT', 'Cache-Control': 'no-cache', 'ETag': '"1757163833.022111-21077-1136727319"', 'Date': 'Sat, 06 Sep 2025 14:40:56 GMT'}
+2025-09-06 22:40:56,800 - werkzeug - INFO - 127.0.0.1 - - [06/Sep/2025 22:40:56] "[36mGET /favicon.ico HTTP/1.1[0m" 304 -
+2025-09-06 22:41:06,156 - __main__ - INFO - 收到请求: POST http://localhost:5000/chat/stream?filter_steps=LLM_END,TOOL_END
+2025-09-06 22:41:06,156 - __main__ - INFO - 请求头: {'Host': 'localhost:5000', 'Connection': 'keep-alive', 'Content-Length': '115', 'Sec-Ch-Ua-Platform': '"Windows"', 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Edg/139.0.0.0', 'Sec-Ch-Ua': '"Not;A=Brand";v="99", "Microsoft Edge";v="139", "Chromium";v="139"', 'Content-Type': 'application/json', 'Sec-Ch-Ua-Mobile': '?0', 'Accept': '*/*', 'Origin': 'http://localhost:5000', 'Sec-Fetch-Site': 'same-origin', 'Sec-Fetch-Mode': 'cors', 'Sec-Fetch-Dest': 'empty', 'Referer': 'http://localhost:5000/', 'Accept-Encoding': 'gzip, deflate, br, zstd', 'Accept-Language': 'zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6', 'Cookie': 'aiqtoolkit-session=session_1755758278981_rgxmoj78g'}
+2025-09-06 22:41:06,156 - __main__ - INFO - 请求体: {"messages":[{"role":"user","content":"研究类型: general\n问题: 深度学习的最新进展"}],"stream":true}
+2025-09-06 22:41:06,157 - __main__ - INFO - 收到 /chat/stream 请求
+2025-09-06 22:41:06,157 - __main__ - INFO - 请求数据: {'messages': [{'role': 'user', 'content': '研究类型: general\n问题: 深度学习的最新进展'}], 'stream': True}
+2025-09-06 22:41:06,157 - __main__ - INFO - 尝试连接后端服务: http://localhost:8001/chat/stream
+2025-09-06 22:41:06,162 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): localhost:8001
+2025-09-06 22:41:08,220 - urllib3.connectionpool - DEBUG - http://localhost:8001 "POST /chat/stream HTTP/1.1" 200 None
+2025-09-06 22:41:08,221 - __main__ - INFO - 后端响应状态码: 200
+2025-09-06 22:41:08,221 - __main__ - INFO - 后端响应头: {'date': 'Sat, 06 Sep 2025 14:41:07 GMT', 'server': 'uvicorn', 'content-type': 'text/event-stream; charset=utf-8', 'transfer-encoding': 'chunked'}
+2025-09-06 22:41:08,221 - __main__ - INFO - 响应状态: 200
+2025-09-06 22:41:08,221 - __main__ - INFO - 响应头: {'Content-Type': 'text/event-stream; charset=utf-8'}
+2025-09-06 22:41:22,498 - werkzeug - INFO - 127.0.0.1 - - [06/Sep/2025 22:41:22] "POST /chat/stream?filter_steps=LLM_END,TOOL_END HTTP/1.1" 200 -
+2025-09-06 22:55:48,938 - __main__ - INFO - ==================================================
+2025-09-06 22:55:48,938 - __main__ - INFO - Flask 前端服务器启动
+2025-09-06 22:55:48,938 - __main__ - INFO - 当前工作目录: D:\hackathon_aiqtoolkit-main\frontend_new
+2025-09-06 22:55:48,938 - __main__ - INFO - Flask应用目录: D:\hackathon_aiqtoolkit-main\frontend_new
+2025-09-06 22:55:48,938 - __main__ - INFO - 启动时间: 2025-09-06 22:55:48.938127
+2025-09-06 22:55:48,938 - __main__ - INFO - ==================================================
+2025-09-06 22:55:48,939 - __main__ - INFO - 准备启动Flask应用
+2025-09-06 22:55:48,939 - __main__ - INFO - 检查端口5000是否可用...
+2025-09-06 22:55:48,939 - __main__ - INFO - 当前目录内容: ['frontend_debug.log', 'index.html', 'index_save.html', 'index_Save0906.html', 'server.py']
+2025-09-06 22:55:48,939 - __main__ - INFO - 启动Flask应用在 0.0.0.0:5000
+2025-09-06 22:55:48,984 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.9.96:5000
+2025-09-06 22:55:48,984 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-09-06 22:55:48,988 - werkzeug - INFO -  * Restarting with stat
+2025-09-06 22:55:49,774 - __main__ - INFO - ==================================================
+2025-09-06 22:55:49,774 - __main__ - INFO - Flask 前端服务器启动
+2025-09-06 22:55:49,774 - __main__ - INFO - 当前工作目录: D:\hackathon_aiqtoolkit-main\frontend_new
+2025-09-06 22:55:49,774 - __main__ - INFO - Flask应用目录: D:\hackathon_aiqtoolkit-main\frontend_new
+2025-09-06 22:55:49,774 - __main__ - INFO - 启动时间: 2025-09-06 22:55:49.774258
+2025-09-06 22:55:49,774 - __main__ - INFO - ==================================================
+2025-09-06 22:55:49,779 - __main__ - INFO - 准备启动Flask应用
+2025-09-06 22:55:49,779 - __main__ - INFO - 检查端口5000是否可用...
+2025-09-06 22:55:49,779 - __main__ - INFO - 当前目录内容: ['frontend_debug.log', 'index.html', 'index_save.html', 'index_Save0906.html', 'server.py']
+2025-09-06 22:55:49,779 - __main__ - INFO - 启动Flask应用在 0.0.0.0:5000
+2025-09-06 22:55:49,806 - werkzeug - WARNING -  * Debugger is active!
+2025-09-06 22:55:49,809 - werkzeug - INFO -  * Debugger PIN: 322-266-296
+2025-09-06 22:55:53,449 - __main__ - INFO - 收到请求: GET http://localhost:5000/
+2025-09-06 22:55:53,451 - __main__ - INFO - 请求头: {'Host': 'localhost:5000', 'User-Agent': 'curl/8.11.0', 'Accept': '*/*'}
+2025-09-06 22:55:53,451 - __main__ - INFO - 尝试提供 index.html 文件
+2025-09-06 22:55:53,451 - __main__ - INFO - 查找文件路径: D:\hackathon_aiqtoolkit-main\frontend_new\index.html
+2025-09-06 22:55:53,451 - __main__ - INFO - index.html 文件存在，正在提供
+2025-09-06 22:55:53,514 - __main__ - INFO - 响应状态: 200
+2025-09-06 22:55:53,514 - __main__ - INFO - 响应头: {'Content-Disposition': 'inline; filename=index.html', 'Content-Type': 'text/html; charset=utf-8', 'Content-Length': '21077', 'Last-Modified': 'Sat, 06 Sep 2025 13:03:53 GMT', 'Cache-Control': 'no-cache', 'ETag': '"1757163833.022111-21077-1136727319"', 'Date': 'Sat, 06 Sep 2025 14:55:53 GMT'}
+2025-09-06 22:55:53,514 - werkzeug - INFO - 127.0.0.1 - - [06/Sep/2025 22:55:53] "GET / HTTP/1.1" 200 -
+2025-09-06 22:59:38,497 - __main__ - INFO - 收到请求: GET http://localhost:5000/
+2025-09-06 22:59:38,497 - __main__ - INFO - 请求头: {'Host': 'localhost:5000', 'Connection': 'keep-alive', 'Sec-Ch-Ua': '"Not;A=Brand";v="99", "Microsoft Edge";v="139", "Chromium";v="139"', 'Sec-Ch-Ua-Mobile': '?0', 'Sec-Ch-Ua-Platform': '"Windows"', 'Upgrade-Insecure-Requests': '1', 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Edg/139.0.0.0', 'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7', 'Sec-Fetch-Site': 'none', 'Sec-Fetch-Mode': 'navigate', 'Sec-Fetch-User': '?1', 'Sec-Fetch-Dest': 'document', 'Accept-Encoding': 'gzip, deflate, br, zstd', 'Accept-Language': 'zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6', 'Cookie': 'aiqtoolkit-session=session_1755758278981_rgxmoj78g', 'If-None-Match': '"1757163833.022111-21077-1136727319"', 'If-Modified-Since': 'Sat, 06 Sep 2025 13:03:53 GMT'}
+2025-09-06 22:59:38,497 - __main__ - INFO - 尝试提供 index.html 文件
+2025-09-06 22:59:38,497 - __main__ - INFO - 查找文件路径: D:\hackathon_aiqtoolkit-main\frontend_new\index.html
+2025-09-06 22:59:38,498 - __main__ - INFO - index.html 文件存在，正在提供
+2025-09-06 22:59:38,498 - __main__ - INFO - 响应状态: 304
+2025-09-06 22:59:38,498 - __main__ - INFO - 响应头: {'Content-Disposition': 'inline; filename=index.html', 'Content-Type': 'text/html; charset=utf-8', 'Content-Length': '21077', 'Last-Modified': 'Sat, 06 Sep 2025 13:03:53 GMT', 'Cache-Control': 'no-cache', 'ETag': '"1757163833.022111-21077-1136727319"', 'Date': 'Sat, 06 Sep 2025 14:59:38 GMT'}
+2025-09-06 22:59:38,498 - werkzeug - INFO - 127.0.0.1 - - [06/Sep/2025 22:59:38] "[36mGET / HTTP/1.1[0m" 304 -
+2025-09-06 22:59:38,773 - __main__ - INFO - 收到请求: GET http://localhost:5000/favicon.ico
+2025-09-06 22:59:38,773 - __main__ - INFO - 请求头: {'Host': 'localhost:5000', 'Connection': 'keep-alive', 'Sec-Ch-Ua-Platform': '"Windows"', 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Edg/139.0.0.0', 'Sec-Ch-Ua': '"Not;A=Brand";v="99", "Microsoft Edge";v="139", "Chromium";v="139"', 'Sec-Ch-Ua-Mobile': '?0', 'Accept': 'image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8', 'Sec-Fetch-Site': 'same-origin', 'Sec-Fetch-Mode': 'no-cors', 'Sec-Fetch-Dest': 'image', 'Referer': 'http://localhost:5000/', 'Accept-Encoding': 'gzip, deflate, br, zstd', 'Accept-Language': 'zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6', 'Cookie': 'aiqtoolkit-session=session_1755758278981_rgxmoj78g', 'If-None-Match': '"1757163833.022111-21077-1136727319"', 'If-Modified-Since': 'Sat, 06 Sep 2025 13:03:53 GMT'}
+2025-09-06 22:59:38,773 - __main__ - INFO - 尝试提供静态文件: favicon.ico
+2025-09-06 22:59:38,773 - __main__ - INFO - 完整文件路径: D:\hackathon_aiqtoolkit-main\frontend_new\favicon.ico
+2025-09-06 22:59:38,773 - __main__ - WARNING - 文件不存在: favicon.ico，回退到 index.html
+2025-09-06 22:59:38,776 - __main__ - INFO - 响应状态: 304
+2025-09-06 22:59:38,776 - __main__ - INFO - 响应头: {'Content-Disposition': 'inline; filename=index.html', 'Content-Type': 'text/html; charset=utf-8', 'Content-Length': '21077', 'Last-Modified': 'Sat, 06 Sep 2025 13:03:53 GMT', 'Cache-Control': 'no-cache', 'ETag': '"1757163833.022111-21077-1136727319"', 'Date': 'Sat, 06 Sep 2025 14:59:38 GMT'}
+2025-09-06 22:59:38,776 - werkzeug - INFO - 127.0.0.1 - - [06/Sep/2025 22:59:38] "[36mGET /favicon.ico HTTP/1.1[0m" 304 -
+2025-09-06 22:59:47,665 - __main__ - INFO - 收到请求: POST http://localhost:5000/chat/stream?filter_steps=LLM_END,TOOL_END
+2025-09-06 22:59:47,665 - __main__ - INFO - 请求头: {'Host': 'localhost:5000', 'Connection': 'keep-alive', 'Content-Length': '109', 'Sec-Ch-Ua-Platform': '"Windows"', 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Edg/139.0.0.0', 'Sec-Ch-Ua': '"Not;A=Brand";v="99", "Microsoft Edge";v="139", "Chromium";v="139"', 'Content-Type': 'application/json', 'Sec-Ch-Ua-Mobile': '?0', 'Accept': '*/*', 'Origin': 'http://localhost:5000', 'Sec-Fetch-Site': 'same-origin', 'Sec-Fetch-Mode': 'cors', 'Sec-Fetch-Dest': 'empty', 'Referer': 'http://localhost:5000/', 'Accept-Encoding': 'gzip, deflate, br, zstd', 'Accept-Language': 'zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6', 'Cookie': 'aiqtoolkit-session=session_1755758278981_rgxmoj78g'}
+2025-09-06 22:59:47,665 - __main__ - INFO - 请求体: {"messages":[{"role":"user","content":"研究类型: general\n问题: 深度学习的进展"}],"stream":true}
+2025-09-06 22:59:47,667 - __main__ - INFO - 收到 /chat/stream 请求
+2025-09-06 22:59:47,667 - __main__ - INFO - 请求数据: {'messages': [{'role': 'user', 'content': '研究类型: general\n问题: 深度学习的进展'}], 'stream': True}
+2025-09-06 22:59:47,667 - __main__ - INFO - 尝试连接后端服务: http://localhost:8001/chat/stream
+2025-09-06 22:59:47,669 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): localhost:8001
+2025-09-06 22:59:49,715 - urllib3.connectionpool - DEBUG - http://localhost:8001 "POST /chat/stream HTTP/1.1" 200 None
+2025-09-06 22:59:49,715 - __main__ - INFO - 后端响应状态码: 200
+2025-09-06 22:59:49,715 - __main__ - INFO - 后端响应头: {'date': 'Sat, 06 Sep 2025 14:59:49 GMT', 'server': 'uvicorn', 'content-type': 'text/event-stream; charset=utf-8', 'transfer-encoding': 'chunked'}
+2025-09-06 22:59:49,715 - __main__ - INFO - 响应状态: 200
+2025-09-06 22:59:49,715 - __main__ - INFO - 响应头: {'Content-Type': 'text/event-stream; charset=utf-8'}
+2025-09-06 23:00:01,554 - werkzeug - INFO - 127.0.0.1 - - [06/Sep/2025 23:00:01] "POST /chat/stream?filter_steps=LLM_END,TOOL_END HTTP/1.1" 200 -
+2025-09-06 23:01:44,528 - __main__ - INFO - ==================================================
+2025-09-06 23:01:44,530 - __main__ - INFO - Flask 前端服务器启动
+2025-09-06 23:01:44,530 - __main__ - INFO - 当前工作目录: D:\hackathon_aiqtoolkit-main\frontend_new
+2025-09-06 23:01:44,530 - __main__ - INFO - Flask应用目录: D:\hackathon_aiqtoolkit-main\frontend_new
+2025-09-06 23:01:44,530 - __main__ - INFO - 启动时间: 2025-09-06 23:01:44.530230
+2025-09-06 23:01:44,530 - __main__ - INFO - ==================================================
+2025-09-06 23:01:44,531 - __main__ - INFO - 准备启动Flask应用
+2025-09-06 23:01:44,531 - __main__ - INFO - 检查端口5000是否可用...
+2025-09-06 23:01:44,531 - __main__ - INFO - 当前目录内容: ['frontend_debug.log', 'index.html', 'index_save.html', 'index_Save0906.html', 'server.py']
+2025-09-06 23:01:44,531 - __main__ - INFO - 启动Flask应用在 0.0.0.0:5000
+2025-09-06 23:01:44,571 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.9.96:5000
+2025-09-06 23:01:44,571 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-09-06 23:01:44,575 - werkzeug - INFO -  * Restarting with stat
+2025-09-06 23:01:45,410 - __main__ - INFO - ==================================================
+2025-09-06 23:01:45,410 - __main__ - INFO - Flask 前端服务器启动
+2025-09-06 23:01:45,410 - __main__ - INFO - 当前工作目录: D:\hackathon_aiqtoolkit-main\frontend_new
+2025-09-06 23:01:45,410 - __main__ - INFO - Flask应用目录: D:\hackathon_aiqtoolkit-main\frontend_new
+2025-09-06 23:01:45,410 - __main__ - INFO - 启动时间: 2025-09-06 23:01:45.410724
+2025-09-06 23:01:45,410 - __main__ - INFO - ==================================================
+2025-09-06 23:01:45,410 - __main__ - INFO - 准备启动Flask应用
+2025-09-06 23:01:45,410 - __main__ - INFO - 检查端口5000是否可用...
+2025-09-06 23:01:45,410 - __main__ - INFO - 当前目录内容: ['frontend_debug.log', 'index.html', 'index_save.html', 'index_Save0906.html', 'server.py']
+2025-09-06 23:01:45,410 - __main__ - INFO - 启动Flask应用在 0.0.0.0:5000
+2025-09-06 23:01:45,440 - werkzeug - WARNING -  * Debugger is active!
+2025-09-06 23:01:45,440 - werkzeug - INFO -  * Debugger PIN: 322-266-296
+2025-09-06 23:01:49,054 - __main__ - INFO - 收到请求: GET http://localhost:5000/
+2025-09-06 23:01:49,054 - __main__ - INFO - 请求头: {'Host': 'localhost:5000', 'User-Agent': 'curl/8.11.0', 'Accept': '*/*'}
+2025-09-06 23:01:49,054 - __main__ - INFO - 尝试提供 index.html 文件
+2025-09-06 23:01:49,054 - __main__ - INFO - 查找文件路径: D:\hackathon_aiqtoolkit-main\frontend_new\index.html
+2025-09-06 23:01:49,054 - __main__ - INFO - index.html 文件存在，正在提供
+2025-09-06 23:01:49,110 - __main__ - INFO - 响应状态: 200
+2025-09-06 23:01:49,111 - __main__ - INFO - 响应头: {'Content-Disposition': 'inline; filename=index.html', 'Content-Type': 'text/html; charset=utf-8', 'Content-Length': '21077', 'Last-Modified': 'Sat, 06 Sep 2025 13:03:53 GMT', 'Cache-Control': 'no-cache', 'ETag': '"1757163833.022111-21077-1136727319"', 'Date': 'Sat, 06 Sep 2025 15:01:49 GMT'}
+2025-09-06 23:01:49,111 - werkzeug - INFO - 127.0.0.1 - - [06/Sep/2025 23:01:49] "GET / HTTP/1.1" 200 -
+2025-09-06 23:01:52,424 - __main__ - INFO - 收到请求: GET http://localhost:5000/
+2025-09-06 23:01:52,424 - __main__ - INFO - 请求头: {'Host': 'localhost:5000', 'Connection': 'keep-alive', 'Sec-Ch-Ua': '"Not;A=Brand";v="99", "Microsoft Edge";v="139", "Chromium";v="139"', 'Sec-Ch-Ua-Mobile': '?0', 'Sec-Ch-Ua-Platform': '"Windows"', 'Upgrade-Insecure-Requests': '1', 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Edg/139.0.0.0', 'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7', 'Sec-Fetch-Site': 'none', 'Sec-Fetch-Mode': 'navigate', 'Sec-Fetch-User': '?1', 'Sec-Fetch-Dest': 'document', 'Accept-Encoding': 'gzip, deflate, br, zstd', 'Accept-Language': 'zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6', 'Cookie': 'aiqtoolkit-session=session_1755758278981_rgxmoj78g', 'If-None-Match': '"1757163833.022111-21077-1136727319"', 'If-Modified-Since': 'Sat, 06 Sep 2025 13:03:53 GMT'}
+2025-09-06 23:01:52,424 - __main__ - INFO - 尝试提供 index.html 文件
+2025-09-06 23:01:52,424 - __main__ - INFO - 查找文件路径: D:\hackathon_aiqtoolkit-main\frontend_new\index.html
+2025-09-06 23:01:52,424 - __main__ - INFO - index.html 文件存在，正在提供
+2025-09-06 23:01:52,425 - __main__ - INFO - 响应状态: 304
+2025-09-06 23:01:52,425 - __main__ - INFO - 响应头: {'Content-Disposition': 'inline; filename=index.html', 'Content-Type': 'text/html; charset=utf-8', 'Content-Length': '21077', 'Last-Modified': 'Sat, 06 Sep 2025 13:03:53 GMT', 'Cache-Control': 'no-cache', 'ETag': '"1757163833.022111-21077-1136727319"', 'Date': 'Sat, 06 Sep 2025 15:01:52 GMT'}
+2025-09-06 23:01:52,425 - werkzeug - INFO - 127.0.0.1 - - [06/Sep/2025 23:01:52] "[36mGET / HTTP/1.1[0m" 304 -
+2025-09-06 23:01:52,776 - __main__ - INFO - 收到请求: GET http://localhost:5000/favicon.ico
+2025-09-06 23:01:52,776 - __main__ - INFO - 请求头: {'Host': 'localhost:5000', 'Connection': 'keep-alive', 'Sec-Ch-Ua-Platform': '"Windows"', 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Edg/139.0.0.0', 'Sec-Ch-Ua': '"Not;A=Brand";v="99", "Microsoft Edge";v="139", "Chromium";v="139"', 'Sec-Ch-Ua-Mobile': '?0', 'Accept': 'image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8', 'Sec-Fetch-Site': 'same-origin', 'Sec-Fetch-Mode': 'no-cors', 'Sec-Fetch-Dest': 'image', 'Referer': 'http://localhost:5000/', 'Accept-Encoding': 'gzip, deflate, br, zstd', 'Accept-Language': 'zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6', 'Cookie': 'aiqtoolkit-session=session_1755758278981_rgxmoj78g', 'If-None-Match': '"1757163833.022111-21077-1136727319"', 'If-Modified-Since': 'Sat, 06 Sep 2025 13:03:53 GMT'}
+2025-09-06 23:01:52,776 - __main__ - INFO - 尝试提供静态文件: favicon.ico
+2025-09-06 23:01:52,776 - __main__ - INFO - 完整文件路径: D:\hackathon_aiqtoolkit-main\frontend_new\favicon.ico
+2025-09-06 23:01:52,776 - __main__ - WARNING - 文件不存在: favicon.ico，回退到 index.html
+2025-09-06 23:01:52,778 - __main__ - INFO - 响应状态: 304
+2025-09-06 23:01:52,778 - __main__ - INFO - 响应头: {'Content-Disposition': 'inline; filename=index.html', 'Content-Type': 'text/html; charset=utf-8', 'Content-Length': '21077', 'Last-Modified': 'Sat, 06 Sep 2025 13:03:53 GMT', 'Cache-Control': 'no-cache', 'ETag': '"1757163833.022111-21077-1136727319"', 'Date': 'Sat, 06 Sep 2025 15:01:52 GMT'}
+2025-09-06 23:01:52,778 - werkzeug - INFO - 127.0.0.1 - - [06/Sep/2025 23:01:52] "[36mGET /favicon.ico HTTP/1.1[0m" 304 -
+2025-09-06 23:02:06,462 - __main__ - INFO - 收到请求: POST http://localhost:5000/chat/stream?filter_steps=LLM_END,TOOL_END
+2025-09-06 23:02:06,462 - __main__ - INFO - 请求头: {'Host': 'localhost:5000', 'Connection': 'keep-alive', 'Content-Length': '109', 'Sec-Ch-Ua-Platform': '"Windows"', 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Edg/139.0.0.0', 'Sec-Ch-Ua': '"Not;A=Brand";v="99", "Microsoft Edge";v="139", "Chromium";v="139"', 'Content-Type': 'application/json', 'Sec-Ch-Ua-Mobile': '?0', 'Accept': '*/*', 'Origin': 'http://localhost:5000', 'Sec-Fetch-Site': 'same-origin', 'Sec-Fetch-Mode': 'cors', 'Sec-Fetch-Dest': 'empty', 'Referer': 'http://localhost:5000/', 'Accept-Encoding': 'gzip, deflate, br, zstd', 'Accept-Language': 'zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6', 'Cookie': 'aiqtoolkit-session=session_1755758278981_rgxmoj78g'}
+2025-09-06 23:02:06,462 - __main__ - INFO - 请求体: {"messages":[{"role":"user","content":"研究类型: general\n问题: 深度学习的进展"}],"stream":true}
+2025-09-06 23:02:06,462 - __main__ - INFO - 收到 /chat/stream 请求
+2025-09-06 23:02:06,462 - __main__ - INFO - 请求数据: {'messages': [{'role': 'user', 'content': '研究类型: general\n问题: 深度学习的进展'}], 'stream': True}
+2025-09-06 23:02:06,462 - __main__ - INFO - 尝试连接后端服务: http://localhost:8001/chat/stream
+2025-09-06 23:02:06,465 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): localhost:8001
+2025-09-06 23:02:08,498 - urllib3.connectionpool - DEBUG - http://localhost:8001 "POST /chat/stream HTTP/1.1" 200 None
+2025-09-06 23:02:08,498 - __main__ - INFO - 后端响应状态码: 200
+2025-09-06 23:02:08,498 - __main__ - INFO - 后端响应头: {'date': 'Sat, 06 Sep 2025 15:02:07 GMT', 'server': 'uvicorn', 'content-type': 'text/event-stream; charset=utf-8', 'transfer-encoding': 'chunked'}
+2025-09-06 23:02:08,498 - __main__ - INFO - 响应状态: 200
+2025-09-06 23:02:08,498 - __main__ - INFO - 响应头: {'Content-Type': 'text/event-stream; charset=utf-8'}
+2025-09-06 23:02:23,835 - werkzeug - INFO - 127.0.0.1 - - [06/Sep/2025 23:02:23] "POST /chat/stream?filter_steps=LLM_END,TOOL_END HTTP/1.1" 200 -
+2025-09-07 09:00:47,537 - __main__ - INFO - ==================================================
+2025-09-07 09:00:47,537 - __main__ - INFO - Flask 前端服务器启动
+2025-09-07 09:00:47,537 - __main__ - INFO - 当前工作目录: D:\hackathon_aiqtoolkit-main\frontend_new
+2025-09-07 09:00:47,537 - __main__ - INFO - Flask应用目录: D:\hackathon_aiqtoolkit-main\frontend_new
+2025-09-07 09:00:47,542 - __main__ - INFO - 启动时间: 2025-09-07 09:00:47.542308
+2025-09-07 09:00:47,542 - __main__ - INFO - ==================================================
+2025-09-07 09:00:47,542 - __main__ - INFO - 准备启动Flask应用
+2025-09-07 09:00:47,542 - __main__ - INFO - 检查端口5000是否可用...
+2025-09-07 09:00:47,542 - __main__ - INFO - 当前目录内容: ['frontend_debug.log', 'index.html', 'index_save.html', 'index_Save0906.html', 'server.py']
+2025-09-07 09:00:47,542 - __main__ - INFO - 启动Flask应用在 0.0.0.0:5000
+2025-09-07 09:00:47,668 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.9.96:5000
+2025-09-07 09:00:47,668 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-09-07 09:00:47,668 - werkzeug - INFO -  * Restarting with stat
+2025-09-07 09:00:48,628 - __main__ - INFO - ==================================================
+2025-09-07 09:00:48,628 - __main__ - INFO - Flask 前端服务器启动
+2025-09-07 09:00:48,628 - __main__ - INFO - 当前工作目录: D:\hackathon_aiqtoolkit-main\frontend_new
+2025-09-07 09:00:48,628 - __main__ - INFO - Flask应用目录: D:\hackathon_aiqtoolkit-main\frontend_new
+2025-09-07 09:00:48,628 - __main__ - INFO - 启动时间: 2025-09-07 09:00:48.628460
+2025-09-07 09:00:48,628 - __main__ - INFO - ==================================================
+2025-09-07 09:00:48,628 - __main__ - INFO - 准备启动Flask应用
+2025-09-07 09:00:48,628 - __main__ - INFO - 检查端口5000是否可用...
+2025-09-07 09:00:48,628 - __main__ - INFO - 当前目录内容: ['frontend_debug.log', 'index.html', 'index_save.html', 'index_Save0906.html', 'server.py']
+2025-09-07 09:00:48,628 - __main__ - INFO - 启动Flask应用在 0.0.0.0:5000
+2025-09-07 09:00:48,662 - werkzeug - WARNING -  * Debugger is active!
+2025-09-07 09:00:48,664 - werkzeug - INFO -  * Debugger PIN: 322-266-296
+2025-09-07 09:00:51,825 - __main__ - INFO - 收到请求: GET http://localhost:5000/
+2025-09-07 09:00:51,827 - __main__ - INFO - 请求头: {'Host': 'localhost:5000', 'User-Agent': 'curl/8.11.0', 'Accept': '*/*'}
+2025-09-07 09:00:51,827 - __main__ - INFO - 尝试提供 index.html 文件
+2025-09-07 09:00:51,827 - __main__ - INFO - 查找文件路径: D:\hackathon_aiqtoolkit-main\frontend_new\index.html
+2025-09-07 09:00:51,827 - __main__ - INFO - index.html 文件存在，正在提供
+2025-09-07 09:00:51,888 - __main__ - INFO - 响应状态: 200
+2025-09-07 09:00:51,888 - __main__ - INFO - 响应头: {'Content-Disposition': 'inline; filename=index.html', 'Content-Type': 'text/html; charset=utf-8', 'Content-Length': '21077', 'Last-Modified': 'Sat, 06 Sep 2025 13:03:53 GMT', 'Cache-Control': 'no-cache', 'ETag': '"1757163833.022111-21077-1136727319"', 'Date': 'Sun, 07 Sep 2025 01:00:51 GMT'}
+2025-09-07 09:00:51,888 - werkzeug - INFO - 127.0.0.1 - - [07/Sep/2025 09:00:51] "GET / HTTP/1.1" 200 -
+2025-09-07 09:02:12,313 - __main__ - INFO - 收到请求: GET http://localhost:5000/
+2025-09-07 09:02:12,315 - __main__ - INFO - 请求头: {'Host': 'localhost:5000', 'Connection': 'keep-alive', 'Sec-Ch-Ua': '"Not;A=Brand";v="99", "Microsoft Edge";v="139", "Chromium";v="139"', 'Sec-Ch-Ua-Mobile': '?0', 'Sec-Ch-Ua-Platform': '"Windows"', 'Upgrade-Insecure-Requests': '1', 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Edg/139.0.0.0', 'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7', 'Sec-Fetch-Site': 'none', 'Sec-Fetch-Mode': 'navigate', 'Sec-Fetch-User': '?1', 'Sec-Fetch-Dest': 'document', 'Accept-Encoding': 'gzip, deflate, br, zstd', 'Accept-Language': 'zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6', 'Cookie': 'aiqtoolkit-session=session_1755758278981_rgxmoj78g', 'If-None-Match': '"1757163833.022111-21077-1136727319"', 'If-Modified-Since': 'Sat, 06 Sep 2025 13:03:53 GMT'}
+2025-09-07 09:02:12,315 - __main__ - INFO - 尝试提供 index.html 文件
+2025-09-07 09:02:12,315 - __main__ - INFO - 查找文件路径: D:\hackathon_aiqtoolkit-main\frontend_new\index.html
+2025-09-07 09:02:12,315 - __main__ - INFO - index.html 文件存在，正在提供
+2025-09-07 09:02:12,315 - __main__ - INFO - 响应状态: 304
+2025-09-07 09:02:12,316 - __main__ - INFO - 响应头: {'Content-Disposition': 'inline; filename=index.html', 'Content-Type': 'text/html; charset=utf-8', 'Content-Length': '21077', 'Last-Modified': 'Sat, 06 Sep 2025 13:03:53 GMT', 'Cache-Control': 'no-cache', 'ETag': '"1757163833.022111-21077-1136727319"', 'Date': 'Sun, 07 Sep 2025 01:02:12 GMT'}
+2025-09-07 09:02:12,316 - werkzeug - INFO - 127.0.0.1 - - [07/Sep/2025 09:02:12] "[36mGET / HTTP/1.1[0m" 304 -
+2025-09-07 09:02:12,789 - __main__ - INFO - 收到请求: GET http://localhost:5000/favicon.ico
+2025-09-07 09:02:12,789 - __main__ - INFO - 请求头: {'Host': 'localhost:5000', 'Connection': 'keep-alive', 'Sec-Ch-Ua-Platform': '"Windows"', 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Edg/139.0.0.0', 'Sec-Ch-Ua': '"Not;A=Brand";v="99", "Microsoft Edge";v="139", "Chromium";v="139"', 'Sec-Ch-Ua-Mobile': '?0', 'Accept': 'image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8', 'Sec-Fetch-Site': 'same-origin', 'Sec-Fetch-Mode': 'no-cors', 'Sec-Fetch-Dest': 'image', 'Referer': 'http://localhost:5000/', 'Accept-Encoding': 'gzip, deflate, br, zstd', 'Accept-Language': 'zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6', 'Cookie': 'aiqtoolkit-session=session_1755758278981_rgxmoj78g', 'If-None-Match': '"1757163833.022111-21077-1136727319"', 'If-Modified-Since': 'Sat, 06 Sep 2025 13:03:53 GMT'}
+2025-09-07 09:02:12,789 - __main__ - INFO - 尝试提供静态文件: favicon.ico
+2025-09-07 09:02:12,789 - __main__ - INFO - 完整文件路径: D:\hackathon_aiqtoolkit-main\frontend_new\favicon.ico
+2025-09-07 09:02:12,789 - __main__ - WARNING - 文件不存在: favicon.ico，回退到 index.html
+2025-09-07 09:02:12,789 - __main__ - INFO - 响应状态: 304
+2025-09-07 09:02:12,789 - __main__ - INFO - 响应头: {'Content-Disposition': 'inline; filename=index.html', 'Content-Type': 'text/html; charset=utf-8', 'Content-Length': '21077', 'Last-Modified': 'Sat, 06 Sep 2025 13:03:53 GMT', 'Cache-Control': 'no-cache', 'ETag': '"1757163833.022111-21077-1136727319"', 'Date': 'Sun, 07 Sep 2025 01:02:12 GMT'}
+2025-09-07 09:02:12,789 - werkzeug - INFO - 127.0.0.1 - - [07/Sep/2025 09:02:12] "[36mGET /favicon.ico HTTP/1.1[0m" 304 -
+2025-09-07 09:02:21,106 - __main__ - INFO - 收到请求: POST http://localhost:5000/chat/stream?filter_steps=LLM_END,TOOL_END
+2025-09-07 09:02:21,106 - __main__ - INFO - 请求头: {'Host': 'localhost:5000', 'Connection': 'keep-alive', 'Content-Length': '109', 'Sec-Ch-Ua-Platform': '"Windows"', 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Edg/139.0.0.0', 'Sec-Ch-Ua': '"Not;A=Brand";v="99", "Microsoft Edge";v="139", "Chromium";v="139"', 'Content-Type': 'application/json', 'Sec-Ch-Ua-Mobile': '?0', 'Accept': '*/*', 'Origin': 'http://localhost:5000', 'Sec-Fetch-Site': 'same-origin', 'Sec-Fetch-Mode': 'cors', 'Sec-Fetch-Dest': 'empty', 'Referer': 'http://localhost:5000/', 'Accept-Encoding': 'gzip, deflate, br, zstd', 'Accept-Language': 'zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6', 'Cookie': 'aiqtoolkit-session=session_1755758278981_rgxmoj78g'}
+2025-09-07 09:02:21,106 - __main__ - INFO - 请求体: {"messages":[{"role":"user","content":"研究类型: general\n问题: 强化学习的进展"}],"stream":true}
+2025-09-07 09:02:21,106 - __main__ - INFO - 收到 /chat/stream 请求
+2025-09-07 09:02:21,107 - __main__ - INFO - 请求数据: {'messages': [{'role': 'user', 'content': '研究类型: general\n问题: 强化学习的进展'}], 'stream': True}
+2025-09-07 09:02:21,107 - __main__ - INFO - 尝试连接后端服务: http://localhost:8001/chat/stream
+2025-09-07 09:02:21,110 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): localhost:8001
+2025-09-07 09:02:23,154 - urllib3.connectionpool - DEBUG - http://localhost:8001 "POST /chat/stream HTTP/1.1" 200 None
+2025-09-07 09:02:23,155 - __main__ - INFO - 后端响应状态码: 200
+2025-09-07 09:02:23,155 - __main__ - INFO - 后端响应头: {'date': 'Sun, 07 Sep 2025 01:02:22 GMT', 'server': 'uvicorn', 'content-type': 'text/event-stream; charset=utf-8', 'transfer-encoding': 'chunked'}
+2025-09-07 09:02:23,155 - __main__ - INFO - 响应状态: 200
+2025-09-07 09:02:23,155 - __main__ - INFO - 响应头: {'Content-Type': 'text/event-stream; charset=utf-8'}
+2025-09-07 09:02:53,282 - werkzeug - INFO - 127.0.0.1 - - [07/Sep/2025 09:02:53] "POST /chat/stream?filter_steps=LLM_END,TOOL_END HTTP/1.1" 200 -
+2025-09-07 09:08:43,368 - __main__ - INFO - ==================================================
+2025-09-07 09:08:43,368 - __main__ - INFO - Flask 前端服务器启动
+2025-09-07 09:08:43,368 - __main__ - INFO - 当前工作目录: D:\hackathon_aiqtoolkit-main\frontend_new
+2025-09-07 09:08:43,368 - __main__ - INFO - Flask应用目录: D:\hackathon_aiqtoolkit-main\frontend_new
+2025-09-07 09:08:43,368 - __main__ - INFO - 启动时间: 2025-09-07 09:08:43.368364
+2025-09-07 09:08:43,368 - __main__ - INFO - ==================================================
+2025-09-07 09:08:43,368 - __main__ - INFO - 准备启动Flask应用
+2025-09-07 09:08:43,368 - __main__ - INFO - 检查端口5000是否可用...
+2025-09-07 09:08:43,368 - __main__ - INFO - 当前目录内容: ['frontend_debug.log', 'index.html', 'index_save.html', 'index_Save0906.html', 'server.py']
+2025-09-07 09:08:43,368 - __main__ - INFO - 启动Flask应用在 0.0.0.0:5000
+2025-09-07 09:08:43,412 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.9.96:5000
+2025-09-07 09:08:43,412 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-09-07 09:08:43,416 - werkzeug - INFO -  * Restarting with stat
+2025-09-07 09:08:44,297 - __main__ - INFO - ==================================================
+2025-09-07 09:08:44,298 - __main__ - INFO - Flask 前端服务器启动
+2025-09-07 09:08:44,298 - __main__ - INFO - 当前工作目录: D:\hackathon_aiqtoolkit-main\frontend_new
+2025-09-07 09:08:44,298 - __main__ - INFO - Flask应用目录: D:\hackathon_aiqtoolkit-main\frontend_new
+2025-09-07 09:08:44,298 - __main__ - INFO - 启动时间: 2025-09-07 09:08:44.298255
+2025-09-07 09:08:44,298 - __main__ - INFO - ==================================================
+2025-09-07 09:08:44,299 - __main__ - INFO - 准备启动Flask应用
+2025-09-07 09:08:44,299 - __main__ - INFO - 检查端口5000是否可用...
+2025-09-07 09:08:44,299 - __main__ - INFO - 当前目录内容: ['frontend_debug.log', 'index.html', 'index_save.html', 'index_Save0906.html', 'server.py']
+2025-09-07 09:08:44,299 - __main__ - INFO - 启动Flask应用在 0.0.0.0:5000
+2025-09-07 09:08:44,326 - werkzeug - WARNING -  * Debugger is active!
+2025-09-07 09:08:44,329 - werkzeug - INFO -  * Debugger PIN: 322-266-296
+2025-09-07 09:08:47,823 - __main__ - INFO - 收到请求: GET http://localhost:5000/
+2025-09-07 09:08:47,823 - __main__ - INFO - 请求头: {'Host': 'localhost:5000', 'User-Agent': 'curl/8.11.0', 'Accept': '*/*'}
+2025-09-07 09:08:47,823 - __main__ - INFO - 尝试提供 index.html 文件
+2025-09-07 09:08:47,823 - __main__ - INFO - 查找文件路径: D:\hackathon_aiqtoolkit-main\frontend_new\index.html
+2025-09-07 09:08:47,823 - __main__ - INFO - index.html 文件存在，正在提供
+2025-09-07 09:08:47,872 - __main__ - INFO - 响应状态: 200
+2025-09-07 09:08:47,872 - __main__ - INFO - 响应头: {'Content-Disposition': 'inline; filename=index.html', 'Content-Type': 'text/html; charset=utf-8', 'Content-Length': '21090', 'Last-Modified': 'Sun, 07 Sep 2025 01:06:24 GMT', 'Cache-Control': 'no-cache', 'ETag': '"1757207184.4121516-21090-1136727319"', 'Date': 'Sun, 07 Sep 2025 01:08:47 GMT'}
+2025-09-07 09:08:47,872 - werkzeug - INFO - 127.0.0.1 - - [07/Sep/2025 09:08:47] "GET / HTTP/1.1" 200 -
+2025-09-07 09:09:56,918 - __main__ - INFO - 收到请求: GET http://localhost:5000/
+2025-09-07 09:09:56,918 - __main__ - INFO - 请求头: {'Host': 'localhost:5000', 'Connection': 'keep-alive', 'Sec-Ch-Ua': '"Not;A=Brand";v="99", "Microsoft Edge";v="139", "Chromium";v="139"', 'Sec-Ch-Ua-Mobile': '?0', 'Sec-Ch-Ua-Platform': '"Windows"', 'Upgrade-Insecure-Requests': '1', 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Edg/139.0.0.0', 'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7', 'Sec-Fetch-Site': 'none', 'Sec-Fetch-Mode': 'navigate', 'Sec-Fetch-User': '?1', 'Sec-Fetch-Dest': 'document', 'Accept-Encoding': 'gzip, deflate, br, zstd', 'Accept-Language': 'zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6', 'Cookie': 'aiqtoolkit-session=session_1755758278981_rgxmoj78g', 'If-None-Match': '"1757163833.022111-21077-1136727319"', 'If-Modified-Since': 'Sat, 06 Sep 2025 13:03:53 GMT'}
+2025-09-07 09:09:56,918 - __main__ - INFO - 尝试提供 index.html 文件
+2025-09-07 09:09:56,918 - __main__ - INFO - 查找文件路径: D:\hackathon_aiqtoolkit-main\frontend_new\index.html
+2025-09-07 09:09:56,918 - __main__ - INFO - index.html 文件存在，正在提供
+2025-09-07 09:09:56,918 - __main__ - INFO - 响应状态: 200
+2025-09-07 09:09:56,918 - __main__ - INFO - 响应头: {'Content-Disposition': 'inline; filename=index.html', 'Content-Type': 'text/html; charset=utf-8', 'Content-Length': '21090', 'Last-Modified': 'Sun, 07 Sep 2025 01:06:24 GMT', 'Cache-Control': 'no-cache', 'ETag': '"1757207184.4121516-21090-1136727319"', 'Date': 'Sun, 07 Sep 2025 01:09:56 GMT'}
+2025-09-07 09:09:56,918 - werkzeug - INFO - 127.0.0.1 - - [07/Sep/2025 09:09:56] "GET / HTTP/1.1" 200 -
+2025-09-07 09:09:57,230 - __main__ - INFO - 收到请求: GET http://localhost:5000/favicon.ico
+2025-09-07 09:09:57,232 - __main__ - INFO - 请求头: {'Host': 'localhost:5000', 'Connection': 'keep-alive', 'Sec-Ch-Ua-Platform': '"Windows"', 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Edg/139.0.0.0', 'Sec-Ch-Ua': '"Not;A=Brand";v="99", "Microsoft Edge";v="139", "Chromium";v="139"', 'Sec-Ch-Ua-Mobile': '?0', 'Accept': 'image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8', 'Sec-Fetch-Site': 'same-origin', 'Sec-Fetch-Mode': 'no-cors', 'Sec-Fetch-Dest': 'image', 'Referer': 'http://localhost:5000/', 'Accept-Encoding': 'gzip, deflate, br, zstd', 'Accept-Language': 'zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6', 'Cookie': 'aiqtoolkit-session=session_1755758278981_rgxmoj78g', 'If-None-Match': '"1757163833.022111-21077-1136727319"', 'If-Modified-Since': 'Sat, 06 Sep 2025 13:03:53 GMT'}
+2025-09-07 09:09:57,232 - __main__ - INFO - 尝试提供静态文件: favicon.ico
+2025-09-07 09:09:57,232 - __main__ - INFO - 完整文件路径: D:\hackathon_aiqtoolkit-main\frontend_new\favicon.ico
+2025-09-07 09:09:57,232 - __main__ - WARNING - 文件不存在: favicon.ico，回退到 index.html
+2025-09-07 09:09:57,232 - __main__ - INFO - 响应状态: 200
+2025-09-07 09:09:57,232 - __main__ - INFO - 响应头: {'Content-Disposition': 'inline; filename=index.html', 'Content-Type': 'text/html; charset=utf-8', 'Content-Length': '21090', 'Last-Modified': 'Sun, 07 Sep 2025 01:06:24 GMT', 'Cache-Control': 'no-cache', 'ETag': '"1757207184.4121516-21090-1136727319"', 'Date': 'Sun, 07 Sep 2025 01:09:57 GMT'}
+2025-09-07 09:09:57,233 - werkzeug - INFO - 127.0.0.1 - - [07/Sep/2025 09:09:57] "GET /favicon.ico HTTP/1.1" 200 -
+2025-09-07 09:10:05,454 - __main__ - INFO - 收到请求: POST http://localhost:5000/chat/stream?filter_steps=LLM_END,TOOL_END
+2025-09-07 09:10:05,454 - __main__ - INFO - 请求头: {'Host': 'localhost:5000', 'Connection': 'keep-alive', 'Content-Length': '106', 'Sec-Ch-Ua-Platform': '"Windows"', 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Edg/139.0.0.0', 'Sec-Ch-Ua': '"Not;A=Brand";v="99", "Microsoft Edge";v="139", "Chromium";v="139"', 'Content-Type': 'application/json; charset=utf-8', 'Sec-Ch-Ua-Mobile': '?0', 'Accept': '*/*', 'Origin': 'http://localhost:5000', 'Sec-Fetch-Site': 'same-origin', 'Sec-Fetch-Mode': 'cors', 'Sec-Fetch-Dest': 'empty', 'Referer': 'http://localhost:5000/', 'Accept-Encoding': 'gzip, deflate, br, zstd', 'Accept-Language': 'zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6', 'Cookie': 'aiqtoolkit-session=session_1755758278981_rgxmoj78g'}
+2025-09-07 09:10:05,455 - __main__ - INFO - 请求体: {"messages":[{"role":"user","content":"研究类型: general\n问题: 强化学习进展"}],"stream":true}
+2025-09-07 09:10:05,455 - __main__ - INFO - 收到 /chat/stream 请求
+2025-09-07 09:10:05,455 - __main__ - INFO - 请求数据: {'messages': [{'role': 'user', 'content': '研究类型: general\n问题: 强化学习进展'}], 'stream': True}
+2025-09-07 09:10:05,455 - __main__ - INFO - 尝试连接后端服务: http://localhost:8001/chat/stream
+2025-09-07 09:10:05,457 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): localhost:8001
+2025-09-07 09:10:07,492 - urllib3.connectionpool - DEBUG - http://localhost:8001 "POST /chat/stream HTTP/1.1" 200 None
+2025-09-07 09:10:07,492 - __main__ - INFO - 后端响应状态码: 200
+2025-09-07 09:10:07,492 - __main__ - INFO - 后端响应头: {'date': 'Sun, 07 Sep 2025 01:10:06 GMT', 'server': 'uvicorn', 'content-type': 'text/event-stream; charset=utf-8', 'transfer-encoding': 'chunked'}
+2025-09-07 09:10:07,492 - __main__ - INFO - 响应状态: 200
+2025-09-07 09:10:07,492 - __main__ - INFO - 响应头: {'Content-Type': 'text/event-stream; charset=utf-8'}
+2025-09-07 09:10:37,513 - werkzeug - INFO - 127.0.0.1 - - [07/Sep/2025 09:10:37] "POST /chat/stream?filter_steps=LLM_END,TOOL_END HTTP/1.1" 200 -
+2025-09-07 09:12:54,738 - __main__ - INFO - ==================================================
+2025-09-07 09:12:54,738 - __main__ - INFO - Flask 前端服务器启动
+2025-09-07 09:12:54,738 - __main__ - INFO - 当前工作目录: D:\hackathon_aiqtoolkit-main\frontend_new
+2025-09-07 09:12:54,738 - __main__ - INFO - Flask应用目录: D:\hackathon_aiqtoolkit-main\frontend_new
+2025-09-07 09:12:54,738 - __main__ - INFO - 启动时间: 2025-09-07 09:12:54.738991
+2025-09-07 09:12:54,738 - __main__ - INFO - ==================================================
+2025-09-07 09:12:54,741 - __main__ - INFO - 准备启动Flask应用
+2025-09-07 09:12:54,741 - __main__ - INFO - 检查端口5000是否可用...
+2025-09-07 09:12:54,741 - __main__ - INFO - 当前目录内容: ['frontend_debug.log', 'index.html', 'index_save.html', 'index_Save0906.html', 'server.py']
+2025-09-07 09:12:54,741 - __main__ - INFO - 启动Flask应用在 0.0.0.0:5000
+2025-09-07 09:12:54,812 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.9.96:5000
+2025-09-07 09:12:54,812 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-09-07 09:12:54,814 - werkzeug - INFO -  * Restarting with stat
+2025-09-07 09:12:55,952 - __main__ - INFO - ==================================================
+2025-09-07 09:12:55,952 - __main__ - INFO - Flask 前端服务器启动
+2025-09-07 09:12:55,952 - __main__ - INFO - 当前工作目录: D:\hackathon_aiqtoolkit-main\frontend_new
+2025-09-07 09:12:55,952 - __main__ - INFO - Flask应用目录: D:\hackathon_aiqtoolkit-main\frontend_new
+2025-09-07 09:12:55,956 - __main__ - INFO - 启动时间: 2025-09-07 09:12:55.952239
+2025-09-07 09:12:55,956 - __main__ - INFO - ==================================================
+2025-09-07 09:12:55,956 - __main__ - INFO - 准备启动Flask应用
+2025-09-07 09:12:55,956 - __main__ - INFO - 检查端口5000是否可用...
+2025-09-07 09:12:55,956 - __main__ - INFO - 当前目录内容: ['frontend_debug.log', 'index.html', 'index_save.html', 'index_Save0906.html', 'server.py']
+2025-09-07 09:12:55,956 - __main__ - INFO - 启动Flask应用在 0.0.0.0:5000
+2025-09-07 09:12:55,996 - werkzeug - WARNING -  * Debugger is active!
+2025-09-07 09:12:56,001 - werkzeug - INFO -  * Debugger PIN: 322-266-296
+2025-09-07 09:12:59,204 - __main__ - INFO - 收到请求: GET http://localhost:5000/
+2025-09-07 09:12:59,205 - __main__ - INFO - 请求头: {'Host': 'localhost:5000', 'User-Agent': 'curl/8.11.0', 'Accept': '*/*'}
+2025-09-07 09:12:59,205 - __main__ - INFO - 尝试提供 index.html 文件
+2025-09-07 09:12:59,205 - __main__ - INFO - 查找文件路径: D:\hackathon_aiqtoolkit-main\frontend_new\index.html
+2025-09-07 09:12:59,205 - __main__ - INFO - index.html 文件存在，正在提供
+2025-09-07 09:12:59,269 - __main__ - INFO - 响应状态: 200
+2025-09-07 09:12:59,269 - __main__ - INFO - 响应头: {'Content-Disposition': 'inline; filename=index.html', 'Content-Type': 'text/html; charset=utf-8', 'Content-Length': '21090', 'Last-Modified': 'Sun, 07 Sep 2025 01:06:24 GMT', 'Cache-Control': 'no-cache', 'ETag': '"1757207184.4121516-21090-1136727319"', 'Date': 'Sun, 07 Sep 2025 01:12:59 GMT'}
+2025-09-07 09:12:59,269 - werkzeug - INFO - 127.0.0.1 - - [07/Sep/2025 09:12:59] "GET / HTTP/1.1" 200 -
+2025-09-07 09:35:19,932 - __main__ - INFO - ==================================================
+2025-09-07 09:35:19,933 - __main__ - INFO - Flask 前端服务器启动
+2025-09-07 09:35:19,933 - __main__ - INFO - 当前工作目录: D:\hackathon_aiqtoolkit-main\frontend_new
+2025-09-07 09:35:19,934 - __main__ - INFO - Flask应用目录: D:\hackathon_aiqtoolkit-main\frontend_new
+2025-09-07 09:35:19,934 - __main__ - INFO - 启动时间: 2025-09-07 09:35:19.934576
+2025-09-07 09:35:19,934 - __main__ - INFO - ==================================================
+2025-09-07 09:35:19,935 - __main__ - INFO - 准备启动Flask应用
+2025-09-07 09:35:19,935 - __main__ - INFO - 检查端口5000是否可用...
+2025-09-07 09:35:19,936 - __main__ - INFO - 当前目录内容: ['frontend_debug.log', 'index.html', 'index_save.html', 'index_Save0906.html', 'server.py']
+2025-09-07 09:35:19,936 - __main__ - INFO - 启动Flask应用在 0.0.0.0:5000
+2025-09-07 09:35:19,985 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.9.96:5000
+2025-09-07 09:35:19,985 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-09-07 09:35:19,987 - werkzeug - INFO -  * Restarting with stat
+2025-09-07 09:35:20,862 - __main__ - INFO - ==================================================
+2025-09-07 09:35:20,862 - __main__ - INFO - Flask 前端服务器启动
+2025-09-07 09:35:20,862 - __main__ - INFO - 当前工作目录: D:\hackathon_aiqtoolkit-main\frontend_new
+2025-09-07 09:35:20,862 - __main__ - INFO - Flask应用目录: D:\hackathon_aiqtoolkit-main\frontend_new
+2025-09-07 09:35:20,862 - __main__ - INFO - 启动时间: 2025-09-07 09:35:20.862889
+2025-09-07 09:35:20,862 - __main__ - INFO - ==================================================
+2025-09-07 09:35:20,862 - __main__ - INFO - 准备启动Flask应用
+2025-09-07 09:35:20,862 - __main__ - INFO - 检查端口5000是否可用...
+2025-09-07 09:35:20,862 - __main__ - INFO - 当前目录内容: ['frontend_debug.log', 'index.html', 'index_save.html', 'index_Save0906.html', 'server.py']
+2025-09-07 09:35:20,862 - __main__ - INFO - 启动Flask应用在 0.0.0.0:5000
+2025-09-07 09:35:20,893 - werkzeug - WARNING -  * Debugger is active!
+2025-09-07 09:35:20,898 - werkzeug - INFO -  * Debugger PIN: 322-266-296
+2025-09-07 09:35:24,426 - __main__ - INFO - 收到请求: GET http://localhost:5000/
+2025-09-07 09:35:24,426 - __main__ - INFO - 请求头: {'Host': 'localhost:5000', 'User-Agent': 'curl/8.11.0', 'Accept': '*/*'}
+2025-09-07 09:35:24,426 - __main__ - INFO - 尝试提供 index.html 文件
+2025-09-07 09:35:24,426 - __main__ - INFO - 查找文件路径: D:\hackathon_aiqtoolkit-main\frontend_new\index.html
+2025-09-07 09:35:24,426 - __main__ - INFO - index.html 文件存在，正在提供
+2025-09-07 09:35:24,475 - __main__ - INFO - 响应状态: 200
+2025-09-07 09:35:24,475 - __main__ - INFO - 响应头: {'Content-Disposition': 'inline; filename=index.html', 'Content-Type': 'text/html; charset=utf-8', 'Content-Length': '21090', 'Last-Modified': 'Sun, 07 Sep 2025 01:06:24 GMT', 'Cache-Control': 'no-cache', 'ETag': '"1757207184.4121516-21090-1136727319"', 'Date': 'Sun, 07 Sep 2025 01:35:24 GMT'}
+2025-09-07 09:35:24,477 - werkzeug - INFO - 127.0.0.1 - - [07/Sep/2025 09:35:24] "GET / HTTP/1.1" 200 -
+2025-09-07 09:35:30,382 - __main__ - INFO - 收到请求: GET http://localhost:5000/
+2025-09-07 09:35:30,382 - __main__ - INFO - 请求头: {'Host': 'localhost:5000', 'Connection': 'keep-alive', 'Sec-Ch-Ua': '"Not;A=Brand";v="99", "Microsoft Edge";v="139", "Chromium";v="139"', 'Sec-Ch-Ua-Mobile': '?0', 'Sec-Ch-Ua-Platform': '"Windows"', 'Upgrade-Insecure-Requests': '1', 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Edg/139.0.0.0', 'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7', 'Sec-Fetch-Site': 'none', 'Sec-Fetch-Mode': 'navigate', 'Sec-Fetch-User': '?1', 'Sec-Fetch-Dest': 'document', 'Accept-Encoding': 'gzip, deflate, br, zstd', 'Accept-Language': 'zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6', 'Cookie': 'aiqtoolkit-session=session_1755758278981_rgxmoj78g', 'If-None-Match': '"1757207184.4121516-21090-1136727319"', 'If-Modified-Since': 'Sun, 07 Sep 2025 01:06:24 GMT'}
+2025-09-07 09:35:30,382 - __main__ - INFO - 尝试提供 index.html 文件
+2025-09-07 09:35:30,382 - __main__ - INFO - 查找文件路径: D:\hackathon_aiqtoolkit-main\frontend_new\index.html
+2025-09-07 09:35:30,382 - __main__ - INFO - index.html 文件存在，正在提供
+2025-09-07 09:35:30,382 - __main__ - INFO - 响应状态: 304
+2025-09-07 09:35:30,382 - __main__ - INFO - 响应头: {'Content-Disposition': 'inline; filename=index.html', 'Content-Type': 'text/html; charset=utf-8', 'Content-Length': '21090', 'Last-Modified': 'Sun, 07 Sep 2025 01:06:24 GMT', 'Cache-Control': 'no-cache', 'ETag': '"1757207184.4121516-21090-1136727319"', 'Date': 'Sun, 07 Sep 2025 01:35:30 GMT'}
+2025-09-07 09:35:30,386 - werkzeug - INFO - 127.0.0.1 - - [07/Sep/2025 09:35:30] "[36mGET / HTTP/1.1[0m" 304 -
+2025-09-07 09:35:30,780 - __main__ - INFO - 收到请求: GET http://localhost:5000/favicon.ico
+2025-09-07 09:35:30,780 - __main__ - INFO - 请求头: {'Host': 'localhost:5000', 'Connection': 'keep-alive', 'Sec-Ch-Ua-Platform': '"Windows"', 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Edg/139.0.0.0', 'Sec-Ch-Ua': '"Not;A=Brand";v="99", "Microsoft Edge";v="139", "Chromium";v="139"', 'Sec-Ch-Ua-Mobile': '?0', 'Accept': 'image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8', 'Sec-Fetch-Site': 'same-origin', 'Sec-Fetch-Mode': 'no-cors', 'Sec-Fetch-Dest': 'image', 'Referer': 'http://localhost:5000/', 'Accept-Encoding': 'gzip, deflate, br, zstd', 'Accept-Language': 'zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6', 'Cookie': 'aiqtoolkit-session=session_1755758278981_rgxmoj78g', 'If-None-Match': '"1757207184.4121516-21090-1136727319"', 'If-Modified-Since': 'Sun, 07 Sep 2025 01:06:24 GMT'}
+2025-09-07 09:35:30,780 - __main__ - INFO - 尝试提供静态文件: favicon.ico
+2025-09-07 09:35:30,780 - __main__ - INFO - 完整文件路径: D:\hackathon_aiqtoolkit-main\frontend_new\favicon.ico
+2025-09-07 09:35:30,780 - __main__ - WARNING - 文件不存在: favicon.ico，回退到 index.html
+2025-09-07 09:35:30,782 - __main__ - INFO - 响应状态: 304
+2025-09-07 09:35:30,782 - __main__ - INFO - 响应头: {'Content-Disposition': 'inline; filename=index.html', 'Content-Type': 'text/html; charset=utf-8', 'Content-Length': '21090', 'Last-Modified': 'Sun, 07 Sep 2025 01:06:24 GMT', 'Cache-Control': 'no-cache', 'ETag': '"1757207184.4121516-21090-1136727319"', 'Date': 'Sun, 07 Sep 2025 01:35:30 GMT'}
+2025-09-07 09:35:30,782 - werkzeug - INFO - 127.0.0.1 - - [07/Sep/2025 09:35:30] "[36mGET /favicon.ico HTTP/1.1[0m" 304 -
+2025-09-07 09:35:39,132 - __main__ - INFO - 收到请求: POST http://localhost:5000/chat/stream?filter_steps=LLM_END,TOOL_END
+2025-09-07 09:35:39,132 - __main__ - INFO - 请求头: {'Host': 'localhost:5000', 'Connection': 'keep-alive', 'Content-Length': '109', 'Sec-Ch-Ua-Platform': '"Windows"', 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Edg/139.0.0.0', 'Sec-Ch-Ua': '"Not;A=Brand";v="99", "Microsoft Edge";v="139", "Chromium";v="139"', 'Content-Type': 'application/json; charset=utf-8', 'Sec-Ch-Ua-Mobile': '?0', 'Accept': '*/*', 'Origin': 'http://localhost:5000', 'Sec-Fetch-Site': 'same-origin', 'Sec-Fetch-Mode': 'cors', 'Sec-Fetch-Dest': 'empty', 'Referer': 'http://localhost:5000/', 'Accept-Encoding': 'gzip, deflate, br, zstd', 'Accept-Language': 'zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6', 'Cookie': 'aiqtoolkit-session=session_1755758278981_rgxmoj78g'}
+2025-09-07 09:35:39,133 - __main__ - INFO - 请求体: {"messages":[{"role":"user","content":"研究类型: general\n问题: 强化学习的进展"}],"stream":true}
+2025-09-07 09:35:39,133 - __main__ - INFO - 收到 /chat/stream 请求
+2025-09-07 09:35:39,133 - __main__ - INFO - 请求数据 (UTF-8 解码): {"messages":[{"role":"user","content":"研究类型: general\n问题: 强化学习的进展"}],"stream":true}
+2025-09-07 09:35:39,134 - __main__ - INFO - 尝试连接后端服务: http://localhost:8001/chat/stream
+2025-09-07 09:35:39,136 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): localhost:8001
+2025-09-07 09:35:41,190 - urllib3.connectionpool - DEBUG - http://localhost:8001 "POST /chat/stream HTTP/1.1" 200 None
+2025-09-07 09:35:41,190 - __main__ - INFO - 后端响应状态码: 200
+2025-09-07 09:35:41,190 - __main__ - INFO - 后端响应头: {'date': 'Sun, 07 Sep 2025 01:35:40 GMT', 'server': 'uvicorn', 'content-type': 'text/event-stream; charset=utf-8', 'transfer-encoding': 'chunked'}
+2025-09-07 09:35:41,190 - __main__ - INFO - 响应状态: 200
+2025-09-07 09:35:41,190 - __main__ - INFO - 响应头: {'Content-Type': 'text/event-stream; charset=utf-8'}
+2025-09-07 09:36:11,331 - werkzeug - INFO - 127.0.0.1 - - [07/Sep/2025 09:36:11] "POST /chat/stream?filter_steps=LLM_END,TOOL_END HTTP/1.1" 200 -

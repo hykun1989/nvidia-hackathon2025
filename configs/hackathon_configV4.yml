@@ -1,0 +1,170 @@
+general:
+  use_uvloop: true
+
+functions:
+  # 基础工具层
+  tavily_search:
+    _type: tavily_internet_search
+    description: "使用Tavily进行网络搜索，获取最新研究信息"
+
+  wiki_search:
+    _type: wiki_search
+    max_results: 5
+    description: "搜索Wikipedia获取权威学术背景知识"
+
+  current_time:
+    _type: current_datetime
+    description: "获取当前日期和时间"
+
+  pdf_to_markdown:
+    _type: nvidia_rag
+    base_url: "https://integrate.api.nvidia.com/v1"
+    description: "处理PDF文档并提取学术内容"
+
+  # 使用 NeMo 提供的 MCP 客户端包装器（mcp_tool_wrapper）连接到外部 MCP 服务
+  omni_search_tavily:
+    _type: mcp_tool_wrapper
+    url: "http://localhost:8000/sse"
+    mcp_tool_name: search_tavily
+    description: "通过 mcp-omnisearch 调用 Tavily 搜索"
+
+  omni_search_kagi:
+    _type: mcp_tool_wrapper
+    url: "http://localhost:8000/sse"
+    mcp_tool_name: search_kagi
+    description: "通过 mcp-omnisearch 调用 Kagi 搜索"
+
+  omni_search_brave:
+    _type: mcp_tool_wrapper
+    url: "http://localhost:8000/sse"
+    mcp_tool_name: search_brave
+    description: "通过 mcp-omnisearch 调用 Brave 搜索"
+
+  omni_github_search:
+    _type: mcp_tool_wrapper
+    url: "http://localhost:8000/sse"
+    mcp_tool_name: github_search
+    description: "通过 mcp-omnisearch 执行 GitHub 代码/仓库检索"
+
+  omni_ai_perplexity:
+    _type: mcp_tool_wrapper
+    url: "http://localhost:8000/sse"
+    mcp_tool_name: ai_perplexity
+    description: "通过 mcp-omnisearch 调用 Perplexity AI 进行引用型回答"
+
+  omni_ai_kagi_fastgpt:
+    _type: mcp_tool_wrapper
+    url: "http://localhost:8000/sse"
+    mcp_tool_name: ai_kagi_fastgpt
+    description: "通过 mcp-omnisearch 调用 Kagi FastGPT 进行快速回答"
+
+  omni_process_jina_reader:
+    _type: mcp_tool_wrapper
+    url: "http://localhost:8000/sse"
+    mcp_tool_name: process_jina_reader
+    description: "通过 mcp-omnisearch 使用 Jina Reader 提取页面或 PDF 内容"
+
+  omni_firecrawl_scrape:
+    _type: mcp_tool_wrapper
+    url: "http://localhost:8000/sse"
+    mcp_tool_name: firecrawl_scrape_process
+    description: "通过 mcp-omnisearch 使用 Firecrawl 进行网页抓取与结构化抽取"
+
+  # 专业化智能体层
+  research_collector:
+    _type: react_agent
+    tool_names: [omni_search_tavily, omni_search_kagi, omni_search_brave, omni_github_search, omni_ai_perplexity, omni_ai_kagi_fastgpt, tavily_search, wiki_search, current_time]
+    llm_name: study_llm
+    verbose: true
+    max_tool_calls: 10
+    parse_agent_response_max_retries: 3
+    system_prompt: |
+      你是一个专业的学术研究收集专家。当用户询问某个研究领域时，你需要：
+      1. 使用tavily_search搜索最新的研究论文和进展
+      2. 使用wiki_search获取该领域的基础知识和背景
+      3. 收集至少3-5个具体的研究方向或论文
+      4. 整理信息时要包含：论文标题、作者、发表时间、主要贡献
+      5. 按重要性和时间顺序组织信息
+
+      你可以使用以下工具：
+      {tools}
+
+      工具名称：[{tool_names}]
+
+      你必须严格按照以下ReAct格式进行推理和回答：
+
+      Question: 输入问题
+      Thought: 思考下一步行动
+      Action: 选择工具，必须是 [{tool_names}] 中的一个
+      Action Input: 工具输入参数
+      Observation: 等待工具执行结果
+
+      可以重复多次Thought/Action/Action Input/Observation循环。
+
+      最终回答格式：
+      Thought: 我现在知道最终答案了
+      Final Answer: 最终答案（使用markdown格式，包含清晰的标题和子标题）
+    additional_instructions: |
+      重要：必须严格遵循ReAct格式，不要输出JSON或其他格式。
+      每次都要先写Thought，然后是Action，然后是Action Input。
+
+  content_analyzer:
+    _type: tool_calling_agent
+    tool_names: [pdf_to_markdown, omni_process_jina_reader, omni_firecrawl_scrape]
+    llm_name: study_llm
+    verbose: true
+    additional_instructions: |
+      你是一个文档内容分析专家。输出要包含：
+      - 文档概述
+      - 关键发现
+      - 方法论分析
+      - 实际应用价值
+
+  knowledge_synthesizer:
+    _type: rewoo_agent
+    tool_names: [research_collector, content_analyzer]
+    llm_name: study_llm
+    verbose: true
+    description: "综合分析和整合多源学术信息"
+    additional_planner_instructions: |
+      CRITICAL: 你的响应必须是纯JSON数组格式。绝对不要包含：
+      - Markdown代码块（```json 或 ```）
+      - JSON前后的任何解释性文字
+      - 任何格式化字符
+
+      重要：所有工具调用都必须使用 input_message 字段格式！
+
+      输出格式示例：
+      [{"plan": "描述步骤", "evidence": {"placeholder": "#E1", "tool": "research_collector", "tool_input": {"input_message": "搜索近一年深度学习进展"}}}]
+
+      重要：直接输出JSON数组，不要任何其他内容！
+    additional_solver_instructions: |
+      请用中文回答，生成一份专业的研究报告，包含：
+      1. 执行摘要
+      2. 研究现状分析
+      3. 关键发现和趋势
+      4. 重要论文推荐
+      5. 未来研究方向
+
+      使用专业的学术写作风格和markdown格式，确保信息准确性和可读性。
+
+  academic_tutor:
+    _type: reasoning_agent
+    llm_name: study_llm
+    augmented_fn: knowledge_synthesizer
+    verbose: true
+
+llms:
+  study_llm:
+    _type: openai
+    model_name: "gemini-2.0-flash"
+    api_key: "AIzaSyD_KDqGcbBhiB3GCOmGzG7dMDFuSSNO6OQ"
+    base_url: "https://generativelanguage.googleapis.com/v1beta"
+    temperature: 0.1
+    max_tokens: 4096
+
+workflow:
+  _type: reasoning_agent
+  llm_name: study_llm
+  augmented_fn: academic_tutor
+  verbose: true

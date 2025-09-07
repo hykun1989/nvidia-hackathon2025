@@ -1,0 +1,77 @@
+general:  
+  use_uvloop: true  
+  
+functions:  
+  # 使用内置的Tavily搜索工具  
+  tavily_search:  
+    _type: tavily_internet_search  
+    description: "使用Tavily进行网络搜索，提供带引用的事实信息"  
+  
+  # 使用内置的Wikipedia搜索  
+  wiki_search:  
+    _type: wiki_search  
+    max_results: 3  
+    description: "搜索Wikipedia获取权威知识内容"  
+  
+  # 使用内置的当前时间工具  
+  current_time:  
+    _type: current_datetime  
+    description: "获取当前日期和时间"  
+  
+  # 保留nvidia_rag用于PDF处理  
+  pdf_to_markdown:  
+    _type: nvidia_rag  
+    base_url: "https://integrate.api.nvidia.com/v1"  
+    description: "处理PDF文档并提取内容进行分析"  
+  
+  # 智能体定义  
+  knowledge_collector_agent:  
+    _type: react_agent  
+    tool_names: [tavily_search, wiki_search, current_time]  
+    llm_name: study_llm  
+    verbose: true  
+  
+  content_parser_agent:  
+    _type: tool_calling_agent  
+    tool_names: [pdf_to_markdown]  
+    llm_name: study_llm  
+    verbose: true  
+  
+  qa_tutor_agent:  
+    _type: reasoning_agent  
+    llm_name: study_llm  
+    augmented_fn: knowledge_collector_agent  
+    verbose: true  
+  
+  study_coordinator:  
+    _type: react_agent  
+    tool_names:  
+      - knowledge_collector_agent  
+      - content_parser_agent  
+      - qa_tutor_agent  
+    llm_name: study_llm  
+    verbose: true  
+  
+# llms:  
+#   study_llm:  
+#     _type: openai  
+#     model_name: "qwen-plus"  
+#     api_key: "${DASHSCOPE_API_KEY}"  
+#     base_url: "https://dashscope.aliyuncs.com/compatible-mode/v1"  
+#     temperature: 0.7  
+#     max_tokens: 2048  
+llms:
+  study_llm:
+    _type: openai
+    model_name: "gemini-2.0-flash"
+    api_key: "AIzaSyD_KDqGcbBhiB3GCOmGzG7dMDFuSSNO6OQ"
+    base_url: "https://generativelanguage.googleapis.com/v1beta"
+    temperature: 0.7
+    max_tokens: 2048
+
+
+workflow:  
+  _type: reasoning_agent  
+  llm_name: study_llm  
+  augmented_fn: study_coordinator  
+  verbose: true

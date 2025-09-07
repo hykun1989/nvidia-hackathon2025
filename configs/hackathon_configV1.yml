@@ -1,0 +1,87 @@
+general:  
+  use_uvloop: true  
+  
+functions:  
+  # MCP工具定义  
+  omnisearch_tavily:  
+    _type: mcp_tool_wrapper  
+    url: "http://localhost:8080/sse"
+    mcp_tool_name: search_tavily  
+    description: "使用Tavily进行网络搜索，提供带引用的事实信息"  
+  
+  omnisearch_extract:  
+    _type: mcp_tool_wrapper  
+    url: "http://localhost:8080/sse"  
+    mcp_tool_name: process_tavily_extract  
+    description: "从网页中提取原始内容，支持多URL批量处理"  
+  
+  omnisearch_ai:  
+    _type: mcp_tool_wrapper  
+    url: "http://localhost:8080/sse"  
+    mcp_tool_name: ai_perplexity  
+    description: "使用Perplexity AI生成带网络搜索的智能回答"  
+  
+  pdf_to_markdown:  
+    _type: nvidia_rag  
+    base_url: "https://integrate.api.nvidia.com/v1"  
+    timeout: 60  # 可选，默认60秒  
+    top_k: 4     # 可选，默认返回4个结果  
+    collection_name: "nvidia_api_catalog"  # 可选，默认集合名  
+    description: "处理PDF文档并提取内容进行分析"
+  
+  flomo_note:  
+    _type: mcp_tool_wrapper  
+    url: "https://api.flomo.app/mcp/sse"  
+    mcp_tool_name: create_note  
+    description: "创建学习笔记"  
+  
+  # 智能体定义  
+  knowledge_collector_agent:  
+    _type: react_agent  
+    tool_names: [omnisearch_tavily, omnisearch_extract, omnisearch_ai]  
+    llm_name: study_llm  
+    verbose: true  
+  
+  content_parser_agent:  
+    _type: tool_calling_agent  
+    tool_names: [pdf_to_markdown]  
+    llm_name: study_llm  
+    verbose: true  
+  
+  study_planner_agent:  
+    _type: react_agent  
+    tool_names: [flomo_note]  
+    llm_name: study_llm  
+    verbose: true  
+  
+  # 使用现有推理能力的qa_tutor_agent  
+  qa_tutor_agent:  
+    _type: reasoning_agent  
+    llm_name: study_llm  
+    augmented_fn: knowledge_collector_agent  
+    verbose: true  
+  
+  study_coordinator:  
+    _type: react_agent  
+    tool_names:  
+      - knowledge_collector_agent  
+      - content_parser_agent  
+      - study_planner_agent  
+      - qa_tutor_agent  
+    llm_name: study_llm  
+    verbose: true  
+  
+llms:  
+  study_llm:  
+    _type: openai  
+    model_name: "qwen-plus"  
+    api_key: "${DASHSCOPE_API_KEY}"  
+    base_url: "https://dashscope.aliyuncs.com/compatible-mode/v1"  
+    temperature: 0.7  
+    max_tokens: 2048  
+  
+workflow:  
+  _type: reasoning_agent  
+  llm_name: study_llm  
+  augmented_fn: study_coordinator  
+  verbose: true
