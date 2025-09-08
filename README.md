@@ -31,43 +31,40 @@ PDF处理: 基于NVIDIA RAG技术的文档分析
 ### 🏗️ 系统架构
 ![系统架构图](images/system.png)
 ### 🚀 快速开始
-环境要求
+#### 环境要求：
 
-Python 3.8+
+Python 3.11+
 Node.js 16+
 npm 或 yarn
 
-安装步骤
-
-克隆项目
+#### 安装步骤：
 
 git clone https://github.com/hykun1989/nvidia-hackathon2025
 
 cd hackathonV2
 
-设置环境变量
-## API密钥配置  
+### 设置环境变量
+#### API密钥配置  
 export MEM0_API_KEY=your_mem0_api_key  
 export NVIDIA_API_KEY=your_nvidia_api_key  
 export TAVILY_API_KEY=your_tavily_api_key  
 export GOOGLE_API_KEY=your_google_api_key  
   
-###  前端UI配置  
+####  前端UI配置  
 export NEXT_PUBLIC_ENABLE_INTERMEDIATE_STEPS=true  
 export NEXT_PUBLIC_EXPAND_INTERMEDIATE_STEPS=true  
 export NEXT_PUBLIC_AUTO_SCROLL=true
 
-安装依赖
-### 后端依赖  
+
+#### 后端依赖  
 cd NeMo-Agent-Toolkit  
 pip install -e .  
   
-### 前端依赖  
+#### 前端依赖  
 cd ../external/aiqtoolkit-opensource-ui  
 npm install
 
-启动服务
-### 使用提供的启动脚本  
+#### 使用提供的启动脚本  
 chmod +x start_hackathonV3.sh  
 ./start_hackathonV3.sh
 
@@ -94,14 +91,14 @@ hackathonV2/
 研究报告自动生成
 
 ### 🛠️ 技术栈
-后端技术
+#### 后端技术
 
 NVIDIA NeMo Agent Toolkit: 核心AI框架
 FastAPI: Web服务框架
 NVIDIA RAG: 文档处理技术
 Mem0: 智能记忆管理
 
-外部服务
+#### 外部服务
 
 Tavily API: 网络搜索
 Wikipedia API: 知识库查询
