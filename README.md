@@ -43,7 +43,6 @@ git clone https://github.com/hykun1989/nvidia-hackathon2025
 
 cd hackathonV2
 
-### 设置环境变量
 #### API密钥配置  
 export MEM0_API_KEY=your_mem0_api_key  
 export NVIDIA_API_KEY=your_nvidia_api_key  
